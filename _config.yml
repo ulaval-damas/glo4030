@@ -17,8 +17,8 @@ title: GLO-4030/GLO-7030
 email: philippe.giguere@ift.ulaval.ca
 description: >- # this means to ignore newlines until "baseurl:"
  Site web du cours GLO-4030/GLO-7030 Apprentissage par réseaux de neurones profonds.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://ulaval-damas.github.io/glo4030" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/glo4030" # the subpath of your site, e.g. /blog
+url: "https://ulaval-damas.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  ulaval-damas
 
 # Build settings
