@@ -6,8 +6,9 @@ layout: default
 
     {{ content }}
 
-    <br/>
-    <h2>Articles</h2>
+    {% if site.posts != empty %}
+        <h2>Articles</h2>
+    {% endif %}
     <ul class="post-list">
         {% for post in site.posts %}
         <li>
