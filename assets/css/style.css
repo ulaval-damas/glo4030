@@ -1,0 +1,31 @@
+.about-people {
+    display: flex;
+}
+
+.about-person {
+    flex: 1;
+}
+
+.about-person-img {
+    display: inline-block;
+    position: relative;
+    width: 80%;
+}
+
+.about-person-img:before {
+    content: '';
+    display: block;
+    padding-top: 100%;
+}
+
+.about-person-img img {
+    position:  absolute;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	right: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 50%;
+}

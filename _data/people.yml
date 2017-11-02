@@ -1,0 +1,22 @@
+- pgiguere:
+  title: Professeur
+  name: Philippe Giguère
+  photo: assets/img/pgiguere.png
+
+- agariepy:
+  title: Assistant
+  name: Alexandre Gariépy
+  github: gariepyalex
+  photo: assets/img/placeholder.png
+
+- mcarpentier:
+  title: Assistant
+  name: Mathieu Carpentier
+  github: Matiel
+  photo: assets/img/placeholder.png
+
+- ltrottier:
+  title: Assistant
+  name: Ludovic Trottier
+  github: ltrottier
+  photo: assets/img/placeholder.png

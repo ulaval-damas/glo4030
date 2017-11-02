@@ -1,0 +1,31 @@
+---
+layout: default
+---
+
+<article class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title | escape }}</h1>
+  </header>
+
+  <h2>Équipe</h2>
+  <div class="about-people">
+    {% for person in site.data.people %}
+      <div class="about-person">
+        <div class="about-person-img">
+            <img src="{{site.baseurl}}/{{person.photo}}"/>
+        </div>
+        <div>{{person.name}}</div>
+        <div>{{person.title}}</div>
+        {% if person.github %}
+            {% include icon-github.html username=person.github %}
+        {% endif %}
+      </div>
+    {% endfor %}
+  </div>
+
+  <div class="post-content">
+    {{ content }}
+  </div>
+
+</article>
