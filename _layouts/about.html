@@ -13,12 +13,23 @@ layout: default
     {% for person in site.data.people %}
       <div class="about-person">
         <div class="about-person-img">
-            <img src="{{site.baseurl}}/{{person.photo}}"/>
+            <img src="{{ site.baseurl }}/{{ person.photo }}"/>
         </div>
-        <div>{{person.name}}</div>
-        <div>{{person.title}}</div>
+        <div class="about-person-name">{{ person.name }}</div>
+        <div>{{ person.title }}</div>
+        {% if person.email %}
+            <a href="mailto:{{ person.email }}">{{ person.email }}</a>
+        {% endif %}
         {% if person.github %}
             {% include icon-github.html username=person.github %}
+        {% endif %}
+        {% if person.available %}
+            <div>Disponibilités:</div>
+            <ul>
+            {% for avail in person.available %}
+                <li>{{ avail }}</li>
+            {% endfor %}
+            </ul>
         {% endif %}
       </div>
     {% endfor %}
