@@ -1,6 +1,30 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
+title: Accueil
 ---
+
+## Horaire
+
+| Jour     | Heure               | Local    |
+|----------|---------------------|----------|
+| Mardi    | 13h30 à 15h20       | PLT-XXXX |
+| Mercredi | 12h30 à 13h20       | PLT-XXXX |
+| Jeudi    | 13h30 à 15h20 (lab) | PLT-XXXX |
+
+
+## Livre
+Le livre (obligatoire) est **Deep Learning** par Goodfellow, Benjio et Courville.
+Il est également disponible en ligne au <http://www.deeplearningbook.org/>
+
+<img src="https://mitpress.mit.edu/sites/default/files/9780262035613_0.jpg" width="350px">
+
+## Liens
+
+#### Technos
+Le framework utilisé dans le cours est PyTorch. Voici quelques liens utiles:
+
+- <https://github.com/bharathgs/Awesome-pytorch-list>
+- <https://github.com/aaron-xichen/pytorch-playground>
+
+#### En savoir plus
+- <http://cs231n.stanford.edu/index.html>
