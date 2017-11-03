@@ -44,6 +44,9 @@ Il est également disponible en ligne au <http://www.deeplearningbook.org/>
 
 ## Liens
 
+#### Papers
+- <https://github.com/terryum/awesome-deep-learning-papers>
+
 #### Technos
 Le framework utilisé dans le cours est PyTorch. Voici quelques liens utiles:
 
