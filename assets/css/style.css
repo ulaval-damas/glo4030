@@ -51,3 +51,25 @@ th {
     background-color: #424242;
     color: white;
 }
+
+
+.collapsible {
+    list-style-type: none;
+    margin-left: 0;
+}
+
+.collapsible li > p:first-child {
+    padding: 8px;
+    background-color: #424242;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.collapsible li > *:not(:first-child) {
+    display: none;
+}
+
+.collapsible li > *:last-child {
+    padding-bottom: 10px;
+}

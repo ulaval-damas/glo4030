@@ -12,6 +12,30 @@ title: Accueil
 | Jeudi    | 13h30 à 15h20 (lab) | PLT-XXXX |
 
 
+## Plan de cours
+
+{:.collapsible}
+- Semaine 1
+
+  This is working
+  
+  - tata
+  - tata
+  - tata
+  - tata
+
+- Semaine 2
+
+  Wow 
+
+- Semaine 3
+
+  Working
+
+- Semaine 4
+
+  Much
+
 ## Livre
 Le livre (obligatoire) est **Deep Learning** par Goodfellow, Benjio et Courville.
 Il est également disponible en ligne au <http://www.deeplearningbook.org/>
