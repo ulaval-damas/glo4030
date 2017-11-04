@@ -44,6 +44,10 @@ Il est également disponible en ligne au <http://www.deeplearningbook.org/>
 
 ## Liens
 
+#### Deep Learning Glossary
+
+- <http://www.wildml.com/deep-learning-glossary/>
+
 #### Papers
 - <https://github.com/terryum/awesome-deep-learning-papers>
 
