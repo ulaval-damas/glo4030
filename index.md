@@ -15,6 +15,11 @@ title: Accueil
 ## Plan de cours
 
 {:.collapsible}
+- Semaine 0
+  tototo 
+  tototto 
+
+
 - Semaine 1
 
   This is working
