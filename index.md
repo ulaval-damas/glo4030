@@ -17,7 +17,7 @@ title: Accueil
 {:.collapsible}
 - Semaine 0 : Mise à niveau : apprentissage automatique, probabilités, etc.
 
-   Pour ce cours, nous prenons pour acquis que vous maîtrisez les concepts de base de l'apprentissage automatique, d'algèbre linéaire, et de probabilités. Pour ceux qui ont fait les préalables, vous devriez déjà avoir ces bases. Pour les autres, vous devrez faire des efforts supplémentaires pour acquérir ces fondements, et ce sur votre propre temps. Nous ne pouvons malheureusement pas utiliser du temps en classe pour expliquer ce qu'est l'apprentissage supervisé, le surapprentissage (overfit), ensemble de validation, etc.
+   Nous prenons pour acquis que vous maîtrisez les concepts de base de l'apprentissage automatique, d'algèbre linéaire, et de probabilités. Pour ceux qui ont fait les préalables, vous devriez déjà avoir ces bases. Pour les autres, vous devrez déployer des efforts supplémentaires pour acquérir ces fondements, et ce sur votre propre temps. Nous ne pouvons malheureusement pas utiliser du temps en classe pour expliquer ce qu'est l'apprentissage supervisé, le surapprentissage (overfit), ensemble de validation, etc.
    
    **Lectures dans le manuel :** Chapitre 2, 3, 4.
    
