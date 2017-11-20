@@ -92,7 +92,7 @@ Il est également disponible en ligne au <http://www.deeplearningbook.org/>
 
 <img src="https://mitpress.mit.edu/sites/default/files/9780262035613_0.jpg" width="350px">
 
-## Liens
+## Liens utiles
 
 #### Deep Learning Glossary
 
