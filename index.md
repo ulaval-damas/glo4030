@@ -17,7 +17,7 @@ title: Accueil
 {:.collapsible}
 - Semaine 0 : Rafraîchissement sur l'apprentissage automatique
 
-Pour ce cours, nous prenons pour acquis que vous maîtrisez les concepts de base de l'apprentissage automatique. Pour ceux qui ont fait les préalables, un simple rafraîchissement sera bénéfique. Pour ceux n'ayant fait aucun cours d'apprentissage automatique, vous devrez faire des efforts suppélmentaires AVANT LE DÉBUT DU COURS. Voici quelques liens utiles pour ce rafraîchissement :
+   Pour ce cours, nous prenons pour acquis que vous maîtrisez les concepts de base de l'apprentissage automatique. Pour ceux qui ont fait les préalables, un simple rafraîchissement sera bénéfique. Pour ceux n'ayant fait aucun cours d'apprentissage automatique, vous devrez faire des efforts suppélmentaires AVANT LE DÉBUT DU COURS. Voici quelques liens utiles pour ce rafraîchissement :
 
 
 
