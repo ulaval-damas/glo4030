@@ -55,17 +55,17 @@ Pour la présentation orale, vous devez choisir un article en lien avec le cours
   
   **Laboratoire :** 
  
-- Semaine 3 : Régularisation
-  
-  **Lectures dans le manuel :** Chapitre 7
-
-- Semaine 4 : Initialisation et optimisation 
+- Semaine 3 : Initialisation et optimisation 
   
   **Lectures dans le manuel :** Chapitre 8
 
   **Acétates :** à venir.
   
   **Laboratoire :** 
+
+- Semaine 4 : Régularisation
+  
+  **Lectures dans le manuel :** Chapitre 7
 
 - Semaine 5 : Réseaux à convolution I (CNN) 
   
