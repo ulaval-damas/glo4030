@@ -7,9 +7,8 @@ title: Accueil
 
 | Jour     | Heure               | Local    |
 |----------|---------------------|----------|
-| Mardi    | 13h30 à 15h20       | PLT-XXXX |
-| Mercredi | 12h30 à 13h20       | PLT-XXXX |
-| Jeudi    | 13h30 à 15h20 (lab) | PLT-XXXX |
+| Mardi    | 12h30 à 15h20       | PLT-XXXX |
+| XXXX    | (lab)À DÉTERMINER        | PLT-XXXX |
 
 
 ## Plan de cours
