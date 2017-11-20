@@ -87,7 +87,7 @@ Pour la présentation orale, vous devez choisir un article en lien avec le cours
   **Laboratoire :** 
 
 ## Livre
-Le livre (obligatoire) est **Deep Learning** par Goodfellow, Benjio et Courville.
+Le livre (obligatoire) est **Deep Learning** par Goodfellow, Bengio et Courville.
 Il est également disponible [en ligne](http://www.deeplearningbook.org).
 
 <img src="https://mitpress.mit.edu/sites/default/files/9780262035613_0.jpg" width="250px">
