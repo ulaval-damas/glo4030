@@ -15,7 +15,7 @@ title: Accueil
 ## Plan de cours
 
 {:.collapsible}
-- Semaine 0 : Rafraîchissement sur l'apprentissage automatique
+- Semaine 0 : Rafraîchissements sur l'apprentissage automatique
 
    Pour ce cours, nous prenons pour acquis que vous maîtrisez les concepts de base de l'apprentissage automatique, d'algèbre linéaire, et de probabilités. Pour ceux qui ont fait les préalables, un simple rafraîchissement sera bénéfique. Pour ceux n'ayant fait aucun cours d'apprentissage automatique, vous devrez faire des efforts supplémentaires pour acquérir ces fondements sur votre propre temps.
    
@@ -38,11 +38,17 @@ title: Accueil
   - Réseau feedforward (aval) de base : Multi-layer perceptron (MLP)
   - Importance de la dérivabilité
   
+  **Acétates :** à venir.
+  
   **Laboratoire :** Introduction à Pytorch
   
 - Semaine 2 : Réseau feedforward, activations, graphes de calculs, backprop
   
   **Lectures dans le manuel :** Chapitre 6
+
+  **Acétates :** à venir.
+  
+  **Laboratoire :** 
  
 - Semaine 3 : Régularisation
   
@@ -52,6 +58,25 @@ title: Accueil
   
   **Lectures dans le manuel :** Chapitre 8
 
+  **Acétates :** à venir.
+  
+  **Laboratoire :** 
+
+- Semaine 5 : Réseaux à convolution I (CNN) 
+  
+  **Lectures dans le manuel :** Chapitre 9
+
+  **Acétates :** à venir.
+  
+  **Laboratoire :** 
+
+- Semaine 6 : Réseaux à convolution II (CNN) 
+  
+  **Lectures dans le manuel :** Chapitre 9
+
+  **Acétates :** à venir.
+  
+  **Laboratoire :** 
 
 ## Livre
 Le livre (obligatoire) est **Deep Learning** par Goodfellow, Benjio et Courville.
