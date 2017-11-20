@@ -17,7 +17,7 @@ title: Accueil
 {:.collapsible}
 - Semaine 0 : Rafraîchissements sur l'apprentissage automatique
 
-   Pour ce cours, nous prenons pour acquis que vous maîtrisez les concepts de base de l'apprentissage automatique, d'algèbre linéaire, et de probabilités. Pour ceux qui ont fait les préalables, un simple rafraîchissement sera bénéfique. Pour ceux n'ayant fait aucun cours d'apprentissage automatique, vous devrez faire des efforts supplémentaires pour acquérir ces fondements sur votre propre temps.
+   Pour ce cours, nous prenons pour acquis que vous maîtrisez les concepts de base de l'apprentissage automatique, d'algèbre linéaire, et de probabilités. Pour ceux qui ont fait les préalables, vous devriez déjà avoir ces bases. Pour les autres, vous devrez faire des efforts supplémentaires pour acquérir ces fondements, et ce sur votre propre temps. Nous ne pouvons malheureusement pas utiliser du temps en classe pour expliquer ce qu'est l'apprentissage supervisé, qu'est-ce que le surapprentissage (overfit), etc.
    
    **Lectures dans le manuel :** Chapitre 2, 3, 4.
    
