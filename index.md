@@ -90,7 +90,7 @@ Pour la présentation orale, vous devez choisir un article en lien avec le cours
 Le livre (obligatoire) est **Deep Learning** par Goodfellow, Benjio et Courville.
 Il est également disponible en ligne au <http://www.deeplearningbook.org/>
 
-<img src="https://mitpress.mit.edu/sites/default/files/9780262035613_0.jpg" width="350px">
+<img src="https://mitpress.mit.edu/sites/default/files/9780262035613_0.jpg" width="250px">
 
 ## Liens utiles
 
