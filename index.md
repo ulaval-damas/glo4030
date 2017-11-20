@@ -65,7 +65,8 @@ title: Accueil
 - Semaine 5 : Réseaux à convolution I (CNN) 
   
   **Lectures dans le manuel :** Chapitre 9
-
+  **Autre lecture :** cs231n (Stanford) : [Convolutional networks](http://cs231n.github.io/convolutional-networks/)
+     
   **Acétates :** à venir.
   
   **Laboratoire :** 
