@@ -11,9 +11,9 @@ title: Accueil
 | XXXX    | (lab)À DÉTERMINER        | PLT-XXXX |
 
 
-## Choix de l'article à présenter (GLO-7030 seulement)
+## Choix de l'article à présenter oralement (GLO-7030 seulement)
 
-Pour la présentation orale, vous devez choisir un article en lien avec le cours et publié **après le 1er juin 2017**, sur le site d'[arxiv.org](https://arxiv.org) ou toute conférence respectable (CVPR, NIPS, RSS, ICCV, ECCV). Une manière simple est de régulièrement consulter le site [arxiv-sanity](http://www.arxiv-sanity.com/), qui montre les articles les plus récents (dans la dernière semaine, essentiellement). Entre un *reddit* et un *slashdot*, faites-y un tour ;).
+Pour la présentation orale, vous devez choisir un article en lien avec le cours et publié **après le 1er juin 2017**, sur le site d'[arxiv.org](https://arxiv.org) ou toute conférence respectable (CVPR, NIPS, RSS, ICCV, ECCV). Une manière simple est de régulièrement consulter le site [arxiv-sanity](http://www.arxiv-sanity.com/), qui montre les articles les plus récents (dans la dernière semaine, essentiellement). Entre un *reddit* et un *slashdot*, faites-y un tour ;). L'horaire des présentations sera disponible bientôt.
 
 ## Plan de cours
 
