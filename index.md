@@ -11,6 +11,10 @@ title: Accueil
 | XXXX    | (lab)À DÉTERMINER        | PLT-XXXX |
 
 
+## Choix de l'article à présenter (GLO-7030 seulement)
+
+Pour la présentation orale, vous devez choisir un article publié après le 1er juin 2017, sur le site d'[arxiv.org](https://arxiv.org). Une manière simple est de régulièrement consulter le site [arxiv-sanity](http://www.arxiv-sanity.com/), qui montre les articles les plus récents (dans la dernière semaine, essentiellement). Entre un *reddit* et un *slashdot*, faites-y un tour ;).
+
 ## Plan de cours
 
 {:.collapsible}
@@ -74,7 +78,10 @@ title: Accueil
 - Semaine 6 : Réseaux à convolution II (CNN) 
   
   **Lectures dans le manuel :** Chapitre 9
-
+  
+  **Autres lectures :**
+  - [K. HE et al. ResNet, 2016.] (https://arxiv.org/pdf/1512.03385.pdf)
+  
   **Acétates :** à venir.
   
   **Laboratoire :** 
