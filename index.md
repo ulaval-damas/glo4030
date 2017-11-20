@@ -17,34 +17,41 @@ title: Accueil
 {:.collapsible}
 - Semaine 0 : Rafraîchissement sur l'apprentissage automatique
 
-   Pour ce cours, nous prenons pour acquis que vous maîtrisez les concepts de base de l'apprentissage automatique, d'algèbre linéaire, et de probabilités. Pour ceux qui ont fait les préalables, un simple rafraîchissement sera bénéfique. Pour ceux n'ayant fait aucun cours d'apprentissage automatique, vous devrez faire des efforts suppélmentaires pour acquérir ces fondements sur votre propre temps.
-   Lectures dans le manuel :
-   - Chapitre 2,3,4.
+   Pour ce cours, nous prenons pour acquis que vous maîtrisez les concepts de base de l'apprentissage automatique, d'algèbre linéaire, et de probabilités. Pour ceux qui ont fait les préalables, un simple rafraîchissement sera bénéfique. Pour ceux n'ayant fait aucun cours d'apprentissage automatique, vous devrez faire des efforts supplémentaires pour acquérir ces fondements sur votre propre temps.
+   
+   **Lectures dans le manuel :** Chapitre 2, 3, 4.
    
    Liens pour l'apprentissage automatique :
    - [Vidéo](http://videolectures.net/deeplearning2016_precup_machine_learning/) résumant le machine learning par Doina Precup
-   - [Udacity Introduction to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120)
+   - [Udacity : Introduction to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120)
+   - [Coursera : Machine Learning](https://www.class-central.com/mooc/835/coursera-machine-learning)
+   
+- Semaine 1 : Plan de cours, introduction, réseaux de bases
 
-- Semaine 1
-
-  This is working
+  **Lectures dans le manuel :** Chapitre 1, 6
   
-  - tata
-  - tata
-  - tata
-  - tata
+  Nous verrons notamment quelles sont les innovations des 10 dernières années qui expliquent la résurgence des réseaux de neurones, en particulier l'apparition des réseaux profonds. 
+  
+  **Contenu détaillé :**
+  - Introduction
+  - Historique
+  - Réseau feedforward (aval) de base : Multi-layer perceptron (MLP)
+  - Importance de la dérivabilité
+  
+  **Laboratoire :** Introduction à Pytorch
+  
+- Semaine 2 : Réseau feedforward, activations, graphes de calculs, backprop
+  
+  **Lectures dans le manuel :** Chapitre 6
+ 
+- Semaine 3 : Régularisation
+  
+  **Lectures dans le manuel :** Chapitre 7
 
-- Semaine 2
+- Semaine 4 : Initialisation et optimisation 
+  
+  **Lectures dans le manuel :** Chapitre 8
 
-  Wow 
-
-- Semaine 3
-
-  Working
-
-- Semaine 4
-
-  Much
 
 ## Livre
 Le livre (obligatoire) est **Deep Learning** par Goodfellow, Benjio et Courville.
