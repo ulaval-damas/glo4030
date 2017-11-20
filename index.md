@@ -80,7 +80,7 @@ Pour la présentation orale, vous devez choisir un article en lien avec le cours
   **Lectures dans le manuel :** Chapitre 9
   
   **Autres lectures :**
-  - [K. HE et al. ResNet, 2016.] (https://arxiv.org/pdf/1512.03385.pdf)
+  - [K. HE et al. ResNet, 2016.](https://arxiv.org/pdf/1512.03385.pdf)
   
   **Acétates :** à venir.
   
@@ -88,7 +88,7 @@ Pour la présentation orale, vous devez choisir un article en lien avec le cours
 
 ## Livre
 Le livre (obligatoire) est **Deep Learning** par Goodfellow, Benjio et Courville.
-Il est également disponible en ligne au <http://www.deeplearningbook.org/>
+Il est également disponible [en ligne](http://www.deeplearningbook.org).
 
 <img src="https://mitpress.mit.edu/sites/default/files/9780262035613_0.jpg" width="250px">
 
