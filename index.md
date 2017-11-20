@@ -82,7 +82,7 @@ Pour la présentation orale, vous devez choisir un article en lien avec le cours
   **Lectures dans le manuel :** Chapitre 9
   
   **Autres lectures :**
-  - [K. HE et al. ResNet, 2016.](https://arxiv.org/pdf/1512.03385.pdf)
+  - [K. He et al. Deep Residual Learning for Image Recognition, 2016.](https://arxiv.org/pdf/1512.03385.pdf)
   
   **Acétates :** à venir.
   
