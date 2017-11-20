@@ -20,6 +20,7 @@ title: Accueil
    Pour ce cours, nous prenons pour acquis que vous maîtrisez les concepts de base de l'apprentissage automatique, d'algèbre linéaire, et de probabilités. Pour ceux qui ont fait les préalables, un simple rafraîchissement sera bénéfique. Pour ceux n'ayant fait aucun cours d'apprentissage automatique, vous devrez faire des efforts suppélmentaires pour acquérir ces fondements sur votre propre temps.
    Lectures dans le manuel :
    - Chapitre 2,3,4.
+   
    Liens pour l'apprentissage automatique :
    - [Vidéo](http://videolectures.net/deeplearning2016_precup_machine_learning/) résumant le machine learning par Doina Precup
    - [Udacity Introduction to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120)
