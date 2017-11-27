@@ -8,7 +8,7 @@ title: Accueil
 | Jour     | Heure               | Local    |
 |----------|---------------------|----------|
 | Mardi    | 12h30 à 15h20       | PLT-XXXX |
-| XXXX    | (lab)À DÉTERMINER        | PLT-XXXX |
+| Vendredi | 10h30 à 11h30       | PLT-XXXX |
 
 
 ## Choix de l'article à présenter oralement (GLO-7030 seulement)
