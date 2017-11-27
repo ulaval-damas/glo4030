@@ -22,7 +22,16 @@ Pour la présentation orale, vous devez choisir un article en lien avec le cours
 {:.collapsible}
 - Semaine 0 : Mise à niveau : apprentissage automatique, probabilités, etc.
 
-   Nous prenons pour acquis que vous maîtrisez les concepts de base de l'apprentissage automatique, d'algèbre linéaire, et de probabilités. Pour ceux qui ont fait les préalables, vous devriez déjà avoir ces bases. Pour les autres, vous devrez déployer des efforts supplémentaires pour acquérir ces fondements, et ce sur votre propre temps. Nous ne pouvons malheureusement pas utiliser du temps en classe pour expliquer ce qu'est l'apprentissage supervisé, le surapprentissage (overfit), ensemble de validation, etc.
+   Nous prenons pour acquis que vous maîtrisez la plupart des concepts de base de l'apprentissage automatique, d'algèbre linéaire, et de probabilités. Pour ceux qui ont fait les préalables, vous devriez déjà avoir ces bases. Pour les autres, vous devrez déployer des efforts supplémentaires pour acquérir ces fondements, et ce sur votre propre temps. Nous ne pouvons malheureusement pas utiliser du temps en classe pour expliquer ce que sont les concepts fondamentaux comme :
+   - l'apprentissage supervisé, et non-supervisé;
+   - le surapprentissage (overfit);
+   - la classification vs. la régression;
+   - les classificateurs classiques comme k-NN, SVM, fonction logistique;
+   - une idée approximative de qu'est-ce que la complexité (puissance) d'un classificateur.
+   - ensembles d'entraînement, de validation, et de test;
+   - la validation croisée;
+   - les méthodes de réduction de la dimensionalité (PCA);
+   - les priors.  
    
    **Lectures dans le manuel :** Chapitre 2, 3, 4.
    
