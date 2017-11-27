@@ -113,7 +113,7 @@ Il est également disponible [en ligne](http://www.deeplearningbook.org).
 
 - <http://www.wildml.com/deep-learning-glossary/>
 
-#### Papers
+#### 100 Most Cited Deep Learning Papers (2012-2016)
 - <https://github.com/terryum/awesome-deep-learning-papers>
 
 #### Technos
