@@ -101,6 +101,7 @@ Pour la présentation orale, vous devez choisir un article en lien avec le cours
 
 ### Deuxième moitié
 
+{:.collapsible}
 - Semaine 9 (15 mars) : À venir 
 
 - Semaine 10 (22 mars) : À venir 
