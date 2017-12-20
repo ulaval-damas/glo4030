@@ -40,7 +40,7 @@ Pour la présentation orale, vous devez choisir un article en lien avec le cours
    - [Udacity : Introduction to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120)
    - [Coursera : Machine Learning](https://www.class-central.com/mooc/835/coursera-machine-learning)
    
-- Semaine 1 : Plan de cours, introduction, réseaux de bases
+- Semaine 1 (18 janvier) : Plan de cours, introduction, réseaux de bases
 
   **Lectures dans le manuel :** Chapitre 1, 6
   
@@ -56,7 +56,7 @@ Pour la présentation orale, vous devez choisir un article en lien avec le cours
   
   **Laboratoire :** Introduction à Pytorch
   
-- Semaine 2 : Réseau feedforward, activations, graphes de calculs, backprop
+- Semaine 2 (25 janvier) : Réseau feedforward, activations, graphes de calculs, backprop
   
   **Lectures dans le manuel :** Chapitre 6
 
@@ -64,7 +64,7 @@ Pour la présentation orale, vous devez choisir un article en lien avec le cours
   
   **Laboratoire :** 
  
-- Semaine 3 : Initialisation et optimisation 
+- Semaine 3 (1er février) : Initialisation et optimisation 
   
   **Lectures dans le manuel :** Chapitre 8
 
@@ -72,11 +72,11 @@ Pour la présentation orale, vous devez choisir un article en lien avec le cours
   
   **Laboratoire :** 
 
-- Semaine 4 : Régularisation
+- Semaine 4 (8 février) : Régularisation
   
   **Lectures dans le manuel :** Chapitre 7
 
-- Semaine 5 : Réseaux à convolution I (CNN) 
+- Semaine 5 (15 février) : Réseaux à convolution I (CNN) 
   
   **Lectures dans le manuel :** Chapitre 9
   
@@ -86,7 +86,7 @@ Pour la présentation orale, vous devez choisir un article en lien avec le cours
   
   **Laboratoire :** 
 
-- Semaine 6 : Réseaux à convolution II (CNN) 
+- Semaine 6 (22 février) : Réseaux à convolution II (CNN) 
   
   **Lectures dans le manuel :** Chapitre 9
   
@@ -97,7 +97,26 @@ Pour la présentation orale, vous devez choisir un article en lien avec le cours
   
   **Laboratoire :** 
 
+- Semaine 7 (1er mars) : Examen Intra (GLO-4030 et GLO-7030) 
+
 ### Deuxième moitié
+
+- Semaine 9 (15 mars) : À venir 
+
+- Semaine 10 (22 mars) : À venir 
+
+- Semaine 11 (29 mars) : À venir 
+
+- Semaine 12 (5 avril) : À venir 
+
+- Semaine 13 (12 avril) : À venir 
+
+- Semaine 14 (19 avril) : À venir 
+
+- Semaine 15 (26 avril) : À venir 
+
+- Semaine 16 (??) : Examen final (GLO-4030 SEULEMENT) 
+
 
 En construction.
 
