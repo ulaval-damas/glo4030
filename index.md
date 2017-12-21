@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Accueil
+title: Accueil GLO-4030/7030
 ---
 
 ## Horaire
@@ -13,11 +13,13 @@ title: Accueil
 
 ## Choix de l'article à présenter oralement (GLO-7030 seulement)
 
-Pour la présentation orale, vous devez choisir un article en lien avec le cours et publié **après le 1er juin 2017**, sur le site d'[arxiv.org](https://arxiv.org) ou toute conférence respectable (CVPR, NIPS, RSS, ICCV, ECCV). Une manière simple d'en trouver un est de régulièrement consulter le site [arxiv-sanity](http://www.arxiv-sanity.com/), qui montre les articles les plus récents (dans la dernière semaine, essentiellement) triés selon les sujets, ou même le *hype*. Entre un *reddit* et un *slashdot*, faites-y un tour ;). L'horaire des présentations sera disponible bientôt.
+Pour la présentation orale de 15 minutes, vous devez choisir un article en lien avec le cours et publié **après le 1er juin 2017**, sur le site d'[arxiv.org](https://arxiv.org) ou toute conférence respectable (CVPR, NIPS, RSS, ICCV, ECCV). Une manière simple d'en trouver un est de régulièrement consulter le site [arxiv-sanity](http://www.arxiv-sanity.com/), qui montre les articles les plus récents (dans la dernière semaine, essentiellement) triés selon les sujets, ou même le *hype*. Entre un *reddit* et un *slashdot*, faites-y un tour ;). L'horaire des présentations sera disponible bientôt.
 
 ## Plan de cours
 
 ### Première moitié
+
+Cette première moitié du cours introduit les connaissances nécessaires pour concevoir et entraîner des réseaux profonds, particulièrement dans un contexte de reconnaissance d'images.
 
 {:.collapsible}
 - Semaine 0 : Mise à niveau : apprentissage automatique, probabilités, etc.
@@ -101,6 +103,8 @@ Pour la présentation orale, vous devez choisir un article en lien avec le cours
 
 ### Deuxième moitié
 
+La deuxième moitié du cours est plus de type séminaire. On y fera un survol horizontal et rapide des concepts plus avancés. Les présentations orales y auront lieu, soit pendant une heure de cours, soit en remplacement des laboratoires.
+
 {:.collapsible}
 - Semaine 9 (13 mars) : À venir 
 
@@ -112,9 +116,15 @@ Pour la présentation orale, vous devez choisir un article en lien avec le cours
 
 - Semaine 13 (10 avril) : À venir 
 
+  **Laboratoire :** Présentations orales
+
 - Semaine 14 (17 avril) : À venir 
 
+  **Laboratoire :** Présentations orales
+
 - Semaine 15 (24 avril) : À venir 
+
+  **Laboratoire :** Présentations orales
 
 - Semaine 16 (??) : Examen final (GLO-4030 SEULEMENT) 
 
