@@ -15,6 +15,10 @@ title: Accueil GLO-4030/7030
 
 Pour la présentation orale de 15 minutes, vous devez choisir un article en lien avec le cours et publié **après le 1er juin 2017**, sur le site d'[arxiv.org](https://arxiv.org) ou toute conférence respectable (CVPR, NIPS, RSS, ICCV, ECCV). Une manière simple d'en trouver un est de régulièrement consulter le site [arxiv-sanity](http://www.arxiv-sanity.com/), qui montre les articles les plus récents (dans la dernière semaine, essentiellement) triés selon les sujets, ou même le *hype*. Entre un *reddit* et un *slashdot*, faites-y un tour ;). L'horaire des présentations sera disponible bientôt.
 
+## Support vidéo
+
+Pour accélérer les leçons, des vidéos produite par Hugo Larochelle (Google Brain) sont disponibles. Je vous recommande fortement de les visionner avant la leçon. Nous le remercions d'ailleurs pour son autorisation d'utiliser ce matériel d'enseignement.
+
 ## Plan de cours
 
 ### Première moitié
@@ -51,18 +55,28 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
   **Contenu détaillé :**
   - Introduction
   - Historique
-  - Réseau feedforward (aval) de base : Multi-layer perceptron (MLP)
+  - Réseau feedforward (aval) de base, activations, Multi-layer perceptron (MLP)
   - Importance de la dérivabilité
+  
+  **Vidéos :**
+  -[Feedforward neural network - artificial neuron](https://youtu.be/SGZ6BttHMPw?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
+  -[Feedforward neural network - activation function](https://youtu.be/tCHIkgWZLOQ?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
   
   **Acétates :** à venir.
   
   **Laboratoire :** Introduction à Pytorch
   
-- Semaine 2 (23 janvier) : Réseau feedforward, activations, graphes de calculs, backprop
-  
+- Semaine 2 (23 janvier) : Graphes de calculs, backprop
+
   **Lectures dans le manuel :** Chapitre 6
 
   **Acétates :** à venir.
+
+  **Vidéos :**
+  -[Training neural networks - empirical risk minimization](https://youtu.be/5adNQvSlF50?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
+  -[Training neural networks - loss function](https://youtu.be/PpFTODTztsU?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
+  -[Training neural networks - output layer gradient](https://youtu.be/1N837i4s1T8?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
+  -[Training neural networks - hidden layer gradient](https://youtu.be/xFhM_Kwqw48?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
   
   **Laboratoire :** 
  
@@ -71,6 +85,12 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
   **Lectures dans le manuel :** Chapitre 8
 
   **Acétates :** à venir.
+  
+  **Vidéos :**
+  -[Training neural networks - empirical risk minimization](https://youtu.be/5adNQvSlF50?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
+  -[Training neural networks - loss function](https://youtu.be/PpFTODTztsU?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
+  -[Training neural networks - output layer gradient](https://youtu.be/1N837i4s1T8?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
+  -[Training neural networks - hidden layer gradient](https://youtu.be/xFhM_Kwqw48?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
   
   **Laboratoire :** 
 
