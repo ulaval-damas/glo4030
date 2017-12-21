@@ -25,6 +25,10 @@ Pour accélérer les leçons, des vidéos produite par Hugo Larochelle (Google B
 
 Cette première moitié du cours introduit les connaissances nécessaires pour concevoir et entraîner des réseaux profonds, particulièrement dans un contexte de reconnaissance d'images.
 
+
+
+
+
 {:.collapsible}
 - Semaine 0 : Mise à niveau : apprentissage automatique, probabilités, etc.
 
@@ -46,6 +50,11 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
    - [Udacity : Introduction to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120)
    - [Coursera : Machine Learning](https://www.class-central.com/mooc/835/coursera-machine-learning)
    
+   
+   
+   
+   
+   
 - Semaine 1 (16 janvier) : Plan de cours, introduction, réseaux de bases
 
   **Lectures dans le manuel :** Chapitre 1, 6
@@ -66,6 +75,11 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
   
   **Laboratoire :** Introduction à Pytorch et premiers essais sur des données standards (MNIST, CIFAR-10)
   
+  
+  
+  
+  
+  
 - Semaine 2 (23 janvier) : Graphes de calculs, backprop
 
   **Lectures dans le manuel :** Chapitre 6
@@ -82,12 +96,12 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
   - [Training neural networks - backpropagation](https://youtu.be/_KoWTD8T45Q?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
   
   **Laboratoire :** 
- 
-- Semaine 3 (30 janvier) : Initialisation et optimisation 
 
-  **Vidéos :**
-  - [Training neural networks - model selection](https://youtu.be/Fs-raHUnF2M?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
-  - [Training neural networks - optimization](https://youtu.be/Bver7Ttgb9M?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
+
+
+
+
+- Semaine 3 (30 janvier) : Initialisation et optimisation 
   
   **Lectures dans le manuel :** Chapitre 8
 
@@ -95,19 +109,33 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
   
   **Vidéos :**
   - [Training neural networks - parameter initialization](https://youtu.be/sLfogkzFNfc?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
+  - [Training neural networks - model selection](https://youtu.be/Fs-raHUnF2M?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
+  - [Training neural networks - optimization](https://youtu.be/Bver7Ttgb9M?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
   
   **Laboratoire :** 
 
+
+
+
+
 - Semaine 4 (6 février) : Régularisation
   
+  **Lectures dans le manuel :** Chapitre 7
   
+  **Vidéos :** 
   - [Training neural networks - regularization](https://youtu.be/JfkbyODyujw?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
   - [Deep learning - difficulty of training](https://youtu.be/YoiUlN_77LU?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
   - [Deep learning - unsupervised pre-training](https://youtu.be/Oq38pINmddk?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
   - [Deep learning - example](https://youtu.be/SXnG-lQ7RJo?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
   - [Deep learning - dropout](https://youtu.be/UcKPdAM8cnI?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
   
-  **Lectures dans le manuel :** Chapitre 7
+  **Acétates :** à venir.
+  
+  **Laboratoire :** 
+
+
+
+
 
 - Semaine 5 (13 février) : Réseaux à convolution I (CNN) 
   
@@ -118,6 +146,10 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
   **Acétates :** à venir.
   
   **Laboratoire :** 
+
+
+
+
 
 - Semaine 6 (20 février) : Réseaux à convolution II (CNN) 
   
@@ -130,7 +162,12 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
   
   **Laboratoire :** 
 
+
+
+
 - Semaine 7 (27 février) : Examen Intra (GLO-4030 et GLO-7030) 
+
+
 
 ### Deuxième moitié
 
