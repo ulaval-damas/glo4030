@@ -82,7 +82,7 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
   
   
 - Semaine 2 (23 janvier) : Graphes de calculs, backprop
-<!---
+
   **Lectures dans le manuel :** Chapitre 6
 
   **Acétates :** à venir.
@@ -97,7 +97,7 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
   - [Training neural networks - backpropagation](https://youtu.be/_KoWTD8T45Q?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
   
   **Laboratoire :** 
-   --->
+   
 
 
 
