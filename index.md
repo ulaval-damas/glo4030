@@ -7,7 +7,7 @@ title: Accueil GLO-4030/7030
 
 | Jour     | Heure               | Local    |
 |----------|---------------------|----------|
-| Mardi    | 12h30 à 15h20       | PLT-XXXX |
+| Mardi    | 12h30 à 15h20       | PLT-2341 |
 | Vendredi | 10h30 à 11h30       | PLT-3920 |
 
 
@@ -66,6 +66,7 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
   - Historique
   - Réseau feedforward (aval) de base, activations, Multi-layer perceptron (MLP)
   - Importance de la dérivabilité
+  - Classificateurs de base
   
   **Vidéos :**
   - [Feedforward neural network - artificial neuron](https://youtu.be/SGZ6BttHMPw?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
@@ -81,7 +82,7 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
   
   
 - Semaine 2 (23 janvier) : Graphes de calculs, backprop
-
+<!---
   **Lectures dans le manuel :** Chapitre 6
 
   **Acétates :** à venir.
@@ -96,8 +97,7 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
   - [Training neural networks - backpropagation](https://youtu.be/_KoWTD8T45Q?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
   
   **Laboratoire :** 
-
-
+   --->
 
 
 
