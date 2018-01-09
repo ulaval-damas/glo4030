@@ -27,7 +27,7 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
 
 
 
-
+[TEMP] indique que l'entrée de semaine est en cours de rédaction.
 
 {:.collapsible}
 - Semaine 0 : Mise à niveau : apprentissage automatique, probabilités, etc.
@@ -51,7 +51,7 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
    - [Coursera : Machine Learning](https://www.class-central.com/mooc/835/coursera-machine-learning)
    
    
-   [TEMP] indique que l'entrée de semaine est en cours de modification.
+
    
    
    
