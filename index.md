@@ -51,11 +51,11 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
    - [Coursera : Machine Learning](https://www.class-central.com/mooc/835/coursera-machine-learning)
    
    
+   [TEMP] indique que l'entrée de semaine est en cours de modification.
    
    
    
-   
-- Semaine 1 (16 janvier) : Plan de cours, introduction, réseaux de bases
+- Semaine 1 [TEMP] (16 janvier) : Plan de cours, introduction, réseaux de bases
 
   **Lectures dans le manuel :** Chapitre 1, 6
   
@@ -81,9 +81,9 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
   
   
   
-- Semaine 2 (23 janvier) : Graphes de calculs, backprop
+- Semaine 2 [TEMP] (23 janvier) : Graphes de calculs, backprop
 
-  **Lectures dans le manuel :** Chapitre 6
+  **Lectures dans le manuel :** Chapitre 6 
 
   **Acétates :** à venir.
 
@@ -101,7 +101,7 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
 
 
 
-- Semaine 3 (30 janvier) : Initialisation et optimisation 
+- Semaine 3 [TEMP] (30 janvier) : Initialisation et optimisation 
   
   **Lectures dans le manuel :** Chapitre 8
 
@@ -118,7 +118,7 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
 
 
 
-- Semaine 4 (6 février) : Régularisation
+- Semaine 4 [TEMP] (6 février) : Régularisation
   
   **Lectures dans le manuel :** Chapitre 7
   
@@ -137,7 +137,7 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
 
 
 
-- Semaine 5 (13 février) : Réseaux à convolution I (CNN) 
+- Semaine 5 [TEMP] (13 février) : Réseaux à convolution I (CNN) 
   
   **Lectures dans le manuel :** Chapitre 9
   
@@ -151,7 +151,7 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
 
 
 
-- Semaine 6 (20 février) : Réseaux à convolution II (CNN) 
+- Semaine 6 [TEMP] (20 février) : Réseaux à convolution II (CNN) 
   
   **Lectures dans le manuel :** Chapitre 9
   
@@ -165,7 +165,7 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
 
 
 
-- Semaine 7 (27 février) : Examen Intra (GLO-4030 et GLO-7030) 
+- Semaine 7 [TEMP] (27 février) : Examen Intra (GLO-4030 et GLO-7030) 
 
 
 
@@ -174,9 +174,9 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
 La deuxième moitié du cours est plus de type séminaire. On y fera un survol horizontal et rapide des concepts plus avancés. Les présentations orales y auront lieu, soit pendant une heure de cours, soit en remplacement des laboratoires.
 
 {:.collapsible}
-- Semaine 9 (13 mars) : À venir 
+- Semaine 9 [TEMP] (13 mars) : À venir 
 
-- Semaine 10 (20 mars) : Autoencodeurs, Word Embedding
+- Semaine 10 [TEMP] (20 mars) : Autoencodeurs, Word Embedding
 
   **Vidéos :**
   - [Autoencoder - definition](https://youtu.be/FzS3tMl4Nsc?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
@@ -188,25 +188,25 @@ La deuxième moitié du cours est plus de type séminaire. On y fera un survol h
   - [Autoencoder - contractive autoencoder](https://youtu.be/79sYlJ8Cvlc?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
   - [Deep learning - deep autoencoder](https://youtu.be/z5ZYm_wJ37c?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
 
-- Semaine 11 (27 mars) : 
+- Semaine 11 [TEMP] (27 mars) : 
 
-- Semaine 12 (3 avril) : À venir 
+- Semaine 12 [TEMP] (3 avril) : À venir 
 
-- Semaine 13 (10 avril) : Autoencodeur
+- Semaine 13 [TEMP] (10 avril) : Autoencodeur
 
 
-
-  **Laboratoire :** Présentations orales
-
-- Semaine 14 (17 avril) : À venir 
 
   **Laboratoire :** Présentations orales
 
-- Semaine 15 (24 avril) : À venir 
+- Semaine 14 [TEMP] (17 avril) : À venir 
 
   **Laboratoire :** Présentations orales
 
-- Semaine 16 (??) : Examen final (GLO-4030 SEULEMENT) 
+- Semaine 15 [TEMP] (24 avril) : À venir 
+
+  **Laboratoire :** Présentations orales
+
+- Semaine 16 [TEMP] (1er mai) : Examen final (GLO-4030 SEULEMENT) 
 
 
 En construction.
