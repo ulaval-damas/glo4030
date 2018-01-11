@@ -14,6 +14,9 @@ title: Accueil GLO-4030/7030
 | Mardi    | 12h30 à 15h20       | PLT-2341 |
 | Vendredi | 10h30 à 11h30       | PLT-3920 |
 
+## Ressource Jupyter de Calcul-Québec
+
+[https://jupyter.calculquebec.ca/](https://jupyter.calculquebec.ca/)
 
 ## Choix de l'article à présenter oralement (GLO-7030 seulement)
 
