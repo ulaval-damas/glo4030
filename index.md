@@ -17,6 +17,7 @@ title: Accueil GLO-4030/7030
 ## Ressource Jupyter de Calcul-Québec
 
 [https://jupyter.calculquebec.ca/](https://jupyter.calculquebec.ca/)
+Pendant la période de laboratoire, nous avons une priorité avec la réservation ``glo4030``.
 
 ## Choix de l'article à présenter oralement (GLO-7030 seulement)
 
