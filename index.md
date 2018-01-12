@@ -14,11 +14,11 @@ title: Accueil GLO-4030/7030
 | Mardi    | 12h30 à 15h20       | PLT-2341 |
 | Vendredi | 10h30 à 11h30       | PLT-3920 |
 
-## Ressource Jupyter de Calcul-Québec
+## Ressource Jupyter de Calcul-Québec (pour GPU)
 
 [https://jupyter.calculquebec.ca/](https://jupyter.calculquebec.ca/)
 
-Pendant la période de laboratoire, nous avons une priorité d'accès, sous la réservation ``glo4030``.
+Pendant la période de laboratoire, nous avons une priorité d'accès, sous la réservation ``glo4030``. En dehors de la période de laboratoire, votre requête de notebook passera par une file d'attente.
 
 ## Choix de l'article à présenter oralement (GLO-7030 seulement)
 
@@ -26,7 +26,7 @@ Pour la présentation orale de 15 minutes, vous devez choisir un article en lien
 
 ## Support vidéo
 
-Pour accélérer les leçons, des vidéos produite par Hugo Larochelle (Google Brain) sont disponibles. Je vous recommande fortement de les visionner avant la leçon. Nous le remercions d'ailleurs pour son autorisation d'utiliser ce matériel d'enseignement.
+Pour accélérer les leçons, des vidéos produite entre autre par Hugo Larochelle (Google Brain) sont disponibles. Je vous recommande fortement de les visionner avant la leçon. Nous le remercions d'ailleurs pour son autorisation d'utiliser ce matériel d'enseignement. 
 
 ## Plan de cours
 
