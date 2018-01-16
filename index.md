@@ -64,7 +64,7 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
    
    
    
-- Semaine 1 [TEMP] (16 janvier) : Plan de cours, introduction, réseaux de bases
+- Semaine 1 [TEMP] (16 janvier) : Plan de cours, introduction, réseau linéaire, fonctions d'activation
 
   **Lectures dans le manuel :** Chapitre 1, 6
   
@@ -72,16 +72,15 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
   
   **Contenu détaillé :**
   - Introduction
-  - Historique
-  - Réseau feedforward (aval) de base, activations, Multi-layer perceptron (MLP)
+  - Réseau feedforward (aval) de base, activations
+  - Classificateur linéaire
   - Importance de la dérivabilité
-  - Classificateurs de base
   
   **Vidéos :**
   - [Feedforward neural network - artificial neuron](https://youtu.be/SGZ6BttHMPw?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
   - [Feedforward neural network - activation function](https://youtu.be/tCHIkgWZLOQ?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
   
-  **Acétates :** à venir.
+  **Acétates :** 
   
   **Laboratoire :** Introduction à Pytorch et premiers essais sur des données standards (MNIST, CIFAR-10)
   
