@@ -64,7 +64,7 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
    
    
    
-- Semaine 1 [TEMP] (16 janvier) : Plan de cours, introduction, réseau linéaire, fonctions d'activation
+- Semaine 1 (16 janvier) : Plan de cours, introduction, réseau linéaire, fonctions d'activation
 
   **Lectures dans le manuel :** Chapitre 1, 6
   
@@ -80,7 +80,8 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
   - [Feedforward neural network - artificial neuron](https://youtu.be/SGZ6BttHMPw?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
   - [Feedforward neural network - activation function](https://youtu.be/tCHIkgWZLOQ?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
   
-  **Acétates :** 
+  **Acétates :**  
+  - [01-Introduction.pdf](http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/01-Introduction.pdf)
   
   **Laboratoire :** Introduction à Pytorch et premiers essais sur des données standards (MNIST, CIFAR-10)
   
