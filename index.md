@@ -84,9 +84,9 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
   - [01-Introduction.pdf](http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/01-Introduction.pdf)
   
   **Laboratoire :** Introduction à Pytorch et premiers essais sur des données standards (MNIST, CIFAR-10)
-  
   - [Laboratoire 1](https://github.com/ulaval-damas/glo4030-labs/blob/master/Laboratoire%201.ipynb)
-  
+
+
   
   
 - Semaine 2 [TEMP] (23 janvier) : Graphes de calculs, backprop
