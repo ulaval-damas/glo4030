@@ -85,8 +85,7 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
   
   **Laboratoire :** Introduction à Pytorch et premiers essais sur des données standards (MNIST, CIFAR-10)
   
-  
-  
+  - [Laboratoire 1](https://github.com/ulaval-damas/glo4030-labs/blob/master/Laboratoire%201.ipynb)
   
   
   
