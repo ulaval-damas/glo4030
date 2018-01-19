@@ -12,7 +12,7 @@ title: Accueil GLO-4030/7030
 | Jour     | Heure               | Local    |
 |----------|---------------------|----------|
 | Mardi    | 12h30 à 15h20       | PLT-2341 |
-| Vendredi | 10h30 à 11h30       | PLT-3920 |
+| Vendredi | 10h30 à 11h30       | PLT-3928 |
 
 ## Ressource Jupyter de Calcul-Québec (pour GPU)
 
