@@ -93,7 +93,8 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
 
   **Lectures dans le manuel :** Chapitre 6 
 
-  **Acétates : <a href="http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/02-FeedForward-Loss-Graph-Backprop.pdf" target="_blank">02-FeedForward-Loss-Graph-Backprop.pdf</a>
+  **Acétates :**
+  - <a href="http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/02-FeedForward-Loss-Graph-Backprop.pdf" target="_blank">02-FeedForward-Loss-Graph-Backprop.pdf</a>
 
   **Vidéos :**
   - [Training neural networks - empirical risk minimization](https://youtu.be/5adNQvSlF50?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
