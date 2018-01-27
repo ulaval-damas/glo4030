@@ -20,6 +20,9 @@ title: Accueil GLO-4030/7030
 
 Pendant la période de laboratoire, nous avons une priorité d'accès, sous la réservation ``glo4030``. En dehors de la période de laboratoire, votre requête de notebook passera par une file d'attente.
 
+## Travaux pratiques
+- <a href="http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/TP1_remise.zip" target="_blank">TP1</a>, remise 9 février 2018, 23h55.
+
 ## Choix de l'article à présenter oralement (GLO-7030 seulement)
 
 Pour la présentation orale de 15 minutes, vous devez choisir un article en lien avec le cours et publié **après le 1er juin 2017**, sur le site d'[arxiv.org](https://arxiv.org) ou toute conférence respectable (CVPR, NIPS, RSS, ICCV, ECCV). Une manière simple d'en trouver un est de régulièrement consulter le site [arxiv-sanity](http://www.arxiv-sanity.com/), qui montre les articles les plus récents (dans la dernière semaine, essentiellement) triés selon les sujets, ou même le *hype*. Entre un *reddit* et un *slashdot*, faites-y un tour ;). L'horaire des présentations sera disponible bientôt.
