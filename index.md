@@ -116,11 +116,12 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
 
 
 
-- Semaine 3 [TEMP] (30 janvier) : Initialisation et optimisation 
+- Semaine 3 (30 janvier) : Initialisation et optimisation 
   
   **Lectures dans le manuel :** Chapitre 8
 
-  **Acétates :** à venir.
+  **Acétates :**   
+  - <a href="http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/03-Deep_Learning_Optimization.pdf" target="_blank">03-Deep_Learning_Optimization.pdf</a>.
   
   **Vidéos :**
   - [Training neural networks - parameter initialization](https://youtu.be/sLfogkzFNfc?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
