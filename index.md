@@ -111,7 +111,8 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
   - [Derivatives With Computation Graphs (Andrew Ng)](https://youtu.be/nJyUyKN-XBQ?list=PLkDaE6sCZn6Ec-XTbcX1uRg2_u4xOEky0)
   - [Logistic Regression Gradient Descent (Andrew Ng)](https://youtu.be/z_xiwjEdAC4?list=PLkDaE6sCZn6Ec-XTbcX1uRg2_u4xOEky0)
   
-  **Laboratoire :** 
+  **Laboratoire :** Pytorch sous le capot,  (MNIST, CIFAR-10)
+  - [Laboratoire 2](https://github.com/ulaval-damas/glo4030-labs/blob/master/Laboratoire%202.ipynb)
    
 
 
