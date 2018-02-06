@@ -21,7 +21,7 @@ title: Accueil GLO-4030/7030
 Pendant la période de laboratoire, nous avons une priorité d'accès, sous la réservation ``glo4030``. En dehors de la période de laboratoire, votre requête de notebook passera par une file d'attente.
 
 ## Travaux pratiques
-- <a href="http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/TP1_remise.zip" target="_blank">TP1</a>, remise 9 février 2018, 23h55.
+- <a href="http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/TP1_remise.zip" target="_blank">TP1</a>, remise 9 février 2018, 23h55. Sans pénalité de retard jusqu'au 11 février, 23h55.
 
 ## Choix de l'article à présenter oralement (GLO-7030 seulement)
 
@@ -144,7 +144,7 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
 
 
 
-- Semaine 4 [TEMP] (6 février) : Régularisation
+- Semaine 4 (6 février) : Régularisation
   
   **Lectures dans le manuel :** Chapitre 7
   
@@ -155,7 +155,7 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
   - [Deep learning - example](https://youtu.be/SXnG-lQ7RJo?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
   - [Deep learning - dropout](https://youtu.be/UcKPdAM8cnI?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
   
-  **Acétates :** à venir.
+  **Acétates :** <a href="http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/04-Regularisation.pdf" target="_blank">04-Regularisation.pdff</a>
   
   **Laboratoire :** 
 
