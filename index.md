@@ -172,6 +172,8 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
      
   **Vidéos :** 
   - <a href="https://youtu.be/bNb2fEVKeEo?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv" target="_blank">cs231n lesson 5</a>     
+  - <a href="https://youtu.be/DAOcjicFr1Y?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv" target="_blank">cs231n Lecture 9 | CNN Architectures</a>
+  
   **Acétates :** à venir.
   
   **Laboratoire :** 
