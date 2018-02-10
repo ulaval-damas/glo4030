@@ -170,6 +170,8 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
   
   **Autre lecture :** cs231n (Stanford) : [Convolutional networks](http://cs231n.github.io/convolutional-networks/)
      
+  **Vidéos :** 
+  - <a href="https://youtu.be/bNb2fEVKeEo?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv" target="_blank">cs231n lesson 5</a>     
   **Acétates :** à venir.
   
   **Laboratoire :** 
