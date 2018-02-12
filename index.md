@@ -180,8 +180,6 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
 
 
 
-
-
 - Semaine 6 [TEMP] (20 février) : Réseaux à convolution II (CNN) 
   
   **Lectures dans le manuel :** Chapitre 9
@@ -218,6 +216,7 @@ La deuxième moitié du cours est plus de type séminaire. On y fera un survol h
   - [Autoencoder - denoising autoencoder](https://youtu.be/t2NQ_c5BFOc?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
   - [Autoencoder - contractive autoencoder](https://youtu.be/79sYlJ8Cvlc?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
   - [Deep learning - deep autoencoder](https://youtu.be/z5ZYm_wJ37c?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
+  - <a href="https://youtu.be/ERibwqs9p38" target="_blank">Lecture 2 | Word Vector Representations: word2vec</a>
 
 - Semaine 11 [TEMP] (27 mars) : 
 
