@@ -148,7 +148,7 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
 - Semaine 4 (6 février) : Régularisation
   
   **Lectures dans le manuel :** Chapitre 7
-  
+    
   **Vidéos :** 
   - [Training neural networks - regularization](https://youtu.be/JfkbyODyujw?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
   - [Deep learning - difficulty of training](https://youtu.be/YoiUlN_77LU?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
@@ -156,7 +156,7 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
   - [Deep learning - example](https://youtu.be/SXnG-lQ7RJo?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
   - [Deep learning - dropout](https://youtu.be/UcKPdAM8cnI?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
   
-  **Acétates :** <a href="http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/04-Regularisation.pdf" target="_blank">04-Regularisation.pdff</a>
+  **Acétates :** <a href="http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/04-Regularisation.pdf" target="_blank">04-Regularisation.pdf</a>
   
   **Laboratoire :** 
 
@@ -164,17 +164,22 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
 
 
 
-- Semaine 5 [TEMP] (13 février) : Réseaux à convolution I (CNN) 
+- Semaine 5 (13 février) : Réseaux à convolution I (CNN) 
   
   **Lectures dans le manuel :** Chapitre 9
   
-  **Autre lecture :** cs231n (Stanford) : [Convolutional networks](http://cs231n.github.io/convolutional-networks/)
+  **Autres lectures :** 
+  - cs231n (Stanford) : [Convolutional networks](http://cs231n.github.io/convolutional-networks/)
+  - <a href="https://arxiv.org/pdf/1312.4400" target="_blank">Network in Network</a>
+  - <a href="https://arxiv.org/pdf/1409.1556" target="_blank">Very Deep Convolutional Networks for Large-Scale Image Recognition</a>
+  - <a href="https://arxiv.org/pdf/1409.4842" target="_blank">Going Deeper with Convolutions</a>
      
   **Vidéos :** 
   - <a href="https://youtu.be/bNb2fEVKeEo?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv" target="_blank">cs231n lesson 5</a>     
   - <a href="https://youtu.be/DAOcjicFr1Y?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv" target="_blank">cs231n Lecture 9 | CNN Architectures</a>
   
-  **Acétates :** à venir.
+  **Acétates :**
+  - <a href="http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/05-CNN.pdf" target="_blank">05-CNN.pdf</a>
   
   **Laboratoire :** 
 
