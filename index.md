@@ -22,7 +22,7 @@ Pendant la période de laboratoire, nous avons une priorité d'accès, sous la r
 
 ## Travaux pratiques
 - <a href="http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/TP1_remise.zip" target="_blank">TP1</a>, remise 9 février 2018, 23h55. Sans pénalité de retard jusqu'au 11 février, 23h55.
-- <a href="http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/TP2.remise.zip" target="_blank">TP1</a>, remise 11 mars 2018, 23h55. 
+- <a href="http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/TP2.remise.zip" target="_blank">TP2</a>, remise 11 mars 2018, 23h55. 
 
 ## Choix de l'article à présenter oralement (GLO-7030 seulement)
 
