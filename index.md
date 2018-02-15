@@ -192,6 +192,8 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
   **Autres lectures :**
   - [K. He et al. Deep Residual Learning for Image Recognition, 2016.](https://arxiv.org/pdf/1512.03385.pdf)
   - <a href="https://arxiv.org/pdf/1602.07261.pdf" target="_blank">Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning</a>
+  - <a href="https://arxiv.org/abs/1605.06431" target="_blank">Residual Networks Behave Like Ensembles of Relatively Shallow Networks</a>
+   
   
   **Acétates :** à venir.
   
