@@ -186,7 +186,7 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
 
 
 
-- Semaine 6 [TEMP] (20 février) : Réseaux à convolution II (CNN) 
+- Semaine 6 (20 février) : Réseaux à convolution II (CNN) 
   
   **Lectures dans le manuel :** Chapitre 9
   
@@ -197,8 +197,10 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
    
   
   **Acétates :** à venir.
+  - <a href="http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/06-CNN.pdf" target="_blank">06-CNN.pdf</a>
   
   **Laboratoire :** 
+  - Pas de laboratoire cette semaine.
 
 
 
