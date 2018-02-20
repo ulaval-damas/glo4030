@@ -196,7 +196,7 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
   - <a href="https://arxiv.org/abs/1605.06431" target="_blank">Residual Networks Behave Like Ensembles of Relatively Shallow Networks</a>
    
   
-  **Acétates :** à venir.
+  **Acétates :**
   - <a href="http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/06-CNN.pdf" target="_blank">06-CNN.pdf</a>
   
   **Laboratoire :** 
