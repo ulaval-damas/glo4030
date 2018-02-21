@@ -214,9 +214,13 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
 La deuxième moitié du cours est plus de type séminaire. On y fera un survol horizontal et rapide des concepts plus avancés. Les présentations orales y auront lieu, soit pendant une heure de cours, soit en remplacement des laboratoires.
 
 {:.collapsible}
-- Semaine 9 [TEMP] (13 mars) : À venir 
+- Semaine 9 [TEMP] (13 mars) : Recursive Neural Networks (RNN), Long Short-Term Memory (LSTM), Gated Recurrent Unit (GRU)
 
-- Semaine 10 [TEMP] (20 mars) : Autoencodeurs, Word Embedding
+
+- Semaine 10 [TEMP] (20 mars) : Suite réseau récurrents
+
+
+- Semaine 11 [TEMP] (27 mars) : Autoencodeurs, Word Embedding
 
   **Vidéos :**
   - [Autoencoder - definition](https://youtu.be/FzS3tMl4Nsc?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
@@ -229,17 +233,14 @@ La deuxième moitié du cours est plus de type séminaire. On y fera un survol h
   - [Deep learning - deep autoencoder](https://youtu.be/z5ZYm_wJ37c?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
   - <a href="https://youtu.be/ERibwqs9p38" target="_blank">Lecture 2 | Word Vector Representations: word2vec</a>
 
-- Semaine 11 [TEMP] (27 mars) : 
 
-- Semaine 12 [TEMP] (3 avril) : À venir 
+- Semaine 12 [TEMP] (3 avril) : Modèles d'attention
 
-- Semaine 13 [TEMP] (10 avril) : Autoencodeur
-
-
+- Semaine 13 [TEMP] (10 avril) : Sujets avancés et expérimentaux
 
   **Laboratoire :** Présentations orales
 
-- Semaine 14 [TEMP] (17 avril) : À venir 
+- Semaine 14 [TEMP] (17 avril) : Modèles génératifs GAN 
 
   **Laboratoire :** Présentations orales
 
