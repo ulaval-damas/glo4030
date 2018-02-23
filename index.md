@@ -3,6 +3,8 @@ layout: home
 title: Accueil GLO-4030/7030
 ---
 
+<meta name="keywords" content="Deep Learning, course, tutorials, CNN"/>
+
 ## Forum de discussions
 
 [piazza.com/ulaval.ca/winter2018/glo40307030/home](https://piazza.com/ulaval.ca/winter2018/glo40307030/home)
