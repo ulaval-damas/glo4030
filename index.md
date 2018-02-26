@@ -210,7 +210,7 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
 
 
 
-- Semaine 7 [TEMP] (27 février) : Examen Intra (GLO-4030 et GLO-7030) 
+- Semaine 7 (27 février) : Examen Intra (GLO-4030 et GLO-7030) Local : PLT-2341
 
 
 
