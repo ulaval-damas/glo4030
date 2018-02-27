@@ -146,7 +146,7 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
   - <a href="https://youtu.be/lWzo8CajF5s?list=PLkDaE6sCZn6Hn0vK8co82zjQtt3T2Nkqc" target="_blank">Bias Correction of Exponentially Weighted Averages (Andrew Ng)</a>
   
   **Laboratoire :** 
-
+  - [Laboratoire 3](https://github.com/ulaval-damas/glo4030-labs/blob/master/Laboratoire%203.ipynb)
 
 
 
@@ -165,7 +165,7 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
   **Acétates :** <a href="http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/04-Regularisation.pdf" target="_blank">04-Regularisation.pdf</a>
   
   **Laboratoire :** 
-
+  - [Laboratoire 4](https://github.com/ulaval-damas/glo4030-labs/blob/master/Laboratoire%204.ipynb)
 
 
 
@@ -188,7 +188,7 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
   - <a href="http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/05-CNN.pdf" target="_blank">05-CNN.pdf</a>
   
   **Laboratoire :** 
-
+  - [Laboratoire 5](https://github.com/ulaval-damas/glo4030-labs/blob/master/Laboratoire%205.ipynb)
 
 
 - Semaine 6 (20 février) : Réseaux à convolution II (CNN) 
