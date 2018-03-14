@@ -220,7 +220,11 @@ La deuxième moitié du cours est plus de type séminaire. On y fera un survol h
 
 {:.collapsible}
 
-- Semaine 9 [TEMP] (13 mars) : Retour sur l'examen, début des présentations orales
+- Semaine 9 (13 mars) : Retour sur l'examen, début des présentations orales
+
+  **Laboratoire :** 
+  - Pas de laboratoire cette semaine.
+
 
 - Semaine 10 [TEMP] (20 mars) : Recursive Neural Networks (RNN), Long Short-Term Memory (LSTM), Gated Recurrent Unit (GRU)
 
