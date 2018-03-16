@@ -226,9 +226,22 @@ La deuxième moitié du cours est plus de type séminaire. On y fera un survol h
   - Pas de laboratoire cette semaine.
 
 
-- Semaine 10 [TEMP] (20 mars) : Recursive Neural Networks (RNN), Long Short-Term Memory (LSTM), Gated Recurrent Unit (GRU)
 
-- Semaine 11 [TEMP] (27 mars) : Suite réseau récurrents
+
+- Semaine 10 (20 mars) : Spatial Transformer Network, Recursive Neural Networks (RNN)
+  **Lectures dans le manuel :** Chapitre 10
+  
+  **Autres lectures :**
+  - <a href="https://arxiv.org/abs/1506.02025" target="_blank">Spatial Transformer Networks</a>
+  
+  **Vidéos :**
+  - <a href="https://youtu.be/6niqTuYFZLQ" target="_blank">cs231n Lecture 10 | Recurrent Neural Networks</a>
+  
+  **Laboratoire :** 
+  - à venir
+  
+    
+- Semaine 11 [TEMP] (27 mars) : Long Short-Term Memory (LSTM), Gated Recurrent Unit (GRU)
 
 
 - Semaine 12 [TEMP] (3 avril) : Autoencodeurs, Word Embedding
