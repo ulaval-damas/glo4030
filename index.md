@@ -239,6 +239,11 @@ La deuxième moitié du cours est plus de type séminaire. On y fera un survol h
   - <a href="https://youtu.be/6niqTuYFZLQ" target="_blank">cs231n Lecture 10 | Recurrent Neural Networks</a>
   - Lire le chapitre 10 avant de regarder : <a href="https://youtu.be/AYku9C9XoB8" target="_blank">Y. Bengio - RNN (DLSS 2017)</a>
   
+  **Acétates :**
+  - <a href="http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/07-SpatialTransformNet.pdf" target="_blank">07-SpatialTransformNet.pdf</a>
+  - <a href="http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/07-RNN-A.pdf" target="_blank">07-RNN-A.pdf</a>
+
+  
   **Laboratoire :** 
   - Pas de laboratoire cette semaine.
   
