@@ -250,6 +250,11 @@ La deuxième moitié du cours est plus de type séminaire. On y fera un survol h
     
 - Semaine 11 [TEMP] (27 mars) : Long Short-Term Memory (LSTM), Gated Recurrent Unit (GRU)
 
+  **Lectures dans le manuel :** Chapitre 10
+  
+  **Autres lectures :**
+  - <a href="https://arxiv.org/pdf/1503.04069.pdf" target="_blank">LSTM: A Search Space Odyssey</a>
+
 
 - Semaine 12 [TEMP] (3 avril) : Autoencodeurs, Word Embedding
 
