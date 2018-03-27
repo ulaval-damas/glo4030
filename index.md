@@ -259,7 +259,7 @@ La deuxième moitié du cours est plus de type séminaire. On y fera un survol h
   **Autres lectures :**
   - <a href="http://colah.github.io/posts/2015-08-Understanding-LSTMs/" target="_blank">Understanding LSTM</a>
   - <a href="https://arxiv.org/pdf/1503.04069.pdf" target="_blank">LSTM: A Search Space Odyssey</a>
-  - <a href="proceedings.mlr.press/v37/jozefowicz15.pdf" target="_blank">An Empirical Exploration of Recurrent Network Architectures</a>
+  - <a href="https://proceedings.mlr.press/v37/jozefowicz15.pdf" target="_blank">An Empirical Exploration of Recurrent Network Architectures</a>
 
   **Laboratoire :** 
   - Pas de laboratoire cette semaine (congé Vendredi Saint).
