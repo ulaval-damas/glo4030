@@ -71,8 +71,7 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
    
    
 
-   
-   
+      
    
 - Semaine 1 (16 janvier) : Plan de cours, introduction, réseau linéaire, fonctions d'activation
 
@@ -248,12 +247,23 @@ La deuxième moitié du cours est plus de type séminaire. On y fera un survol h
   - Pas de laboratoire cette semaine.
   
     
-- Semaine 11 [TEMP] (27 mars) : Long Short-Term Memory (LSTM), Gated Recurrent Unit (GRU)
+- Semaine 11 (27 mars) : Long Short-Term Memory (LSTM), Gated Recurrent Unit (GRU)
 
   **Lectures dans le manuel :** Chapitre 10
-  
+
+  **Acétates :**
+  - <a href="http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/07-RNN-B.pdf" target="_blank">07-RNN-B.pdf</a>
+  - <a href="http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/07-LSTM.pdf" target="_blank">07-LSTM.pdf</a>
+
+
   **Autres lectures :**
+  - <a href="http://colah.github.io/posts/2015-08-Understanding-LSTMs/" target="_blank">Understanding LSTM</a>
   - <a href="https://arxiv.org/pdf/1503.04069.pdf" target="_blank">LSTM: A Search Space Odyssey</a>
+  - <a href="proceedings.mlr.press/v37/jozefowicz15.pdf" target="_blank">An Empirical Exploration of Recurrent Network Architectures</a>
+
+  **Laboratoire :** 
+  - Pas de laboratoire cette semaine (congé Vendredi Saint).
+
 
 
 - Semaine 12 [TEMP] (3 avril) : Autoencodeurs, Word Embedding
