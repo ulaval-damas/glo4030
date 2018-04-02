@@ -266,8 +266,11 @@ La deuxième moitié du cours est plus de type séminaire. On y fera un survol h
 
 
 
-- Semaine 12 [TEMP] (3 avril) : Autoencodeurs, Word Embedding
+- Semaine 12 (3 avril) : Autoencodeurs, Representation learning, Word Embedding
 
+  **Acétates :**
+  - À venir
+  
   **Vidéos :**
   - [Autoencoder - definition](https://youtu.be/FzS3tMl4Nsc?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
   - [Autoencoder - loss function](https://youtu.be/xTU79Zs4XKY?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
@@ -277,7 +280,11 @@ La deuxième moitié du cours est plus de type séminaire. On y fera un survol h
   - [Autoencoder - denoising autoencoder](https://youtu.be/t2NQ_c5BFOc?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
   - [Autoencoder - contractive autoencoder](https://youtu.be/79sYlJ8Cvlc?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
   - [Deep learning - deep autoencoder](https://youtu.be/z5ZYm_wJ37c?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
-  - <a href="https://youtu.be/ERibwqs9p38" target="_blank">Lecture 2 | Word Vector Representations: word2vec</a>
+  - <a href="https://youtu.be/R3DNKE3zKFk?t=33" target="_blank">Machine Learning at Berkeley | Autoencoders and Representation Learning</a>
+  - Pour ceux intéressés par le traitement naturel de la langue (NLP) : <a href="https://youtu.be/ERibwqs9p38" target="_blank">Lecture 2 | Word Vector Representations: word2vec</a>
+
+  **Laboratoire :** 
+  - RNN et LSTM (À venir).
 
 
 - Semaine 13 [TEMP] (10 avril) : Modèles d'attention
