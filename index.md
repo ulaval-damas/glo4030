@@ -281,7 +281,9 @@ La deuxième moitié du cours est plus de type séminaire. On y fera un survol h
   - [Autoencoder - contractive autoencoder](https://youtu.be/79sYlJ8Cvlc?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
   - [Deep learning - deep autoencoder](https://youtu.be/z5ZYm_wJ37c?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
   - <a href="https://youtu.be/R3DNKE3zKFk?t=33" target="_blank">Machine Learning at Berkeley | Autoencoders and Representation Learning</a>
-  - Pour ceux intéressés par le traitement naturel de la langue (NLP) : <a href="https://youtu.be/ERibwqs9p38" target="_blank">Lecture 2 | Word Vector Representations: word2vec</a>
+  - Pour ceux intéressés un peu plus par le traitement naturel de la langue (NLP) : 
+       - <a href="https://youtu.be/ERibwqs9p38" target="_blank">Lecture 2 | Word Vector Representations: word2vec</a>
+       - <a href="https://arxiv.org/pdf/1411.2738.pdf" target="_blank">word2vec Parameter Learning Explained</a>
 
   **Laboratoire :** 
   - RNN et LSTM (À venir).
