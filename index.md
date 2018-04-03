@@ -269,7 +269,8 @@ La deuxième moitié du cours est plus de type séminaire. On y fera un survol h
 - Semaine 12 (3 avril) : Autoencodeurs, Representation learning, Word Embedding
 
   **Acétates :**
-  - À venir
+  - <a href="http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/08-Autoencoder.pdf" target="_blank">08-Autoencoder.pdf</a>
+  
   
   **Vidéos :**
   - [Autoencoder - definition](https://youtu.be/FzS3tMl4Nsc?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
