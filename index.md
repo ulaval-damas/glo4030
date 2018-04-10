@@ -291,6 +291,7 @@ La deuxième moitié du cours est plus de type séminaire. On y fera un survol h
 
 
 - Semaine 13 (10 avril) : Modèles d'attention
+
   **Acétates :**
   - <a href="http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/09-Attention.pdf" target="_blank">09-Attention.pdf</a>
 
