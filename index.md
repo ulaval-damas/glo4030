@@ -287,10 +287,19 @@ La deuxième moitié du cours est plus de type séminaire. On y fera un survol h
        - <a href="https://arxiv.org/pdf/1411.2738.pdf" target="_blank">word2vec Parameter Learning Explained</a>
 
   **Laboratoire :** 
-  - RNN et LSTM (À venir).
+  - RNN et LSTM
 
 
-- Semaine 13 [TEMP] (10 avril) : Modèles d'attention
+- Semaine 13 (10 avril) : Modèles d'attention
+  **Acétates :**
+  - <a href="http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/09-Attention.pdf" target="_blank">09-Attention.pdf</a>
+
+  **Autres lectures :**
+  - <a href="https://arxiv.org/abs/1409.0473" target="_blank">Neural Machine Translation by Jointly Learning to Align and Translate/a>
+  - <a href="https://arxiv.org/abs/1706.03762" target="_blank">Attention Is All You Need</a>
+
+  **Laboratoire :** 
+  - (À venir).
 
 - Semaine 14 [TEMP] (17 avril) : Sujets avancés et expérimentaux
 
