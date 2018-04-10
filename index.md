@@ -322,7 +322,7 @@ En construction.
 Le livre (obligatoire) est **Deep Learning** par Goodfellow, Bengio et Courville.
 Il est également disponible [en ligne](http://www.deeplearningbook.org).
 
-<img src="https://mitpress.mit.edu/sites/default/files/9780262035613_0.jpg" width="250px">
+<img src="https://paulvanderlaken.files.wordpress.com/2017/10/9780262035613_0.jpg" width="250px">
 
 ## Liens utiles
 
