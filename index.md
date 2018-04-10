@@ -270,8 +270,7 @@ La deuxième moitié du cours est plus de type séminaire. On y fera un survol h
 
   **Acétates :**
   - <a href="http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/08-Autoencoder.pdf" target="_blank">08-Autoencoder.pdf</a>
-  
-  
+    
   **Vidéos :**
   - [Autoencoder - definition](https://youtu.be/FzS3tMl4Nsc?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
   - [Autoencoder - loss function](https://youtu.be/xTU79Zs4XKY?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
@@ -292,8 +291,7 @@ La deuxième moitié du cours est plus de type séminaire. On y fera un survol h
 
 - Semaine 13 (10 avril) : Modèles d'attention
 
-  **Lectures dans le manuel :**
-  - Section 10.12 Explicit Memory
+  **Lectures dans le manuel :** Section 10.12 Explicit Memory
 
   **Autres lectures :**
   - <a href="https://arxiv.org/abs/1409.0473" target="_blank">Neural Machine Translation by Jointly Learning to Align and Translate</a>
