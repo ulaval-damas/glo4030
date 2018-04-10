@@ -292,12 +292,15 @@ La deuxième moitié du cours est plus de type séminaire. On y fera un survol h
 
 - Semaine 13 (10 avril) : Modèles d'attention
 
-  **Acétates :**
-  - <a href="http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/09-Attention.pdf" target="_blank">09-Attention.pdf</a>
+ **Lectures dans le manuel :**
+  - Section 10.12 Explicit Memory
 
   **Autres lectures :**
-  - <a href="https://arxiv.org/abs/1409.0473" target="_blank">Neural Machine Translation by Jointly Learning to Align and Translate/a>
+  - <a href="https://arxiv.org/abs/1409.0473" target="_blank">Neural Machine Translation by Jointly Learning to Align and Translate</a>
   - <a href="https://arxiv.org/abs/1706.03762" target="_blank">Attention Is All You Need</a>
+
+  **Acétates :**
+  - <a href="http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/09-Attention.pdf" target="_blank">09-Attention.pdf</a>
 
   **Laboratoire :** 
   - (À venir).
