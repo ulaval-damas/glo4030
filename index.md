@@ -292,7 +292,7 @@ La deuxième moitié du cours est plus de type séminaire. On y fera un survol h
 
 - Semaine 13 (10 avril) : Modèles d'attention
 
- **Lectures dans le manuel :**
+  **Lectures dans le manuel :**
   - Section 10.12 Explicit Memory
 
   **Autres lectures :**
