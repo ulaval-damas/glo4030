@@ -303,6 +303,10 @@ La deuxième moitié du cours est plus de type séminaire. On y fera un survol h
   **Laboratoire :** 
   - (À venir).
 
+  **Autres liens pertinents :**
+  - <a href="http://nlp.seas.harvard.edu/2018/04/03/attention.html" target="_blank">Code pour Attention Is All You Need</a>
+  
+  
 - Semaine 14 [TEMP] (17 avril) : Sujets avancés et expérimentaux
 
   **Laboratoire :** Présentations orales
