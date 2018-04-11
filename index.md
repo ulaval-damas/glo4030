@@ -335,6 +335,9 @@ Il est également disponible [en ligne](http://www.deeplearningbook.org).
 #### 100 Most Cited Deep Learning Papers (2012-2016)
 - <https://github.com/terryum/awesome-deep-learning-papers>
 
+#### Jeux de données
+- <https://github.com/awesomedata/awesome-public-datasets>
+
 #### Technos
 Le framework utilisé dans le cours est PyTorch. Voici quelques liens utiles:
 
