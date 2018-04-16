@@ -307,13 +307,24 @@ La deuxième moitié du cours est plus de type séminaire. On y fera un survol h
   - <a href="http://nlp.seas.harvard.edu/2018/04/03/attention.html" target="_blank">Code pour Attention Is All You Need</a>
   
   
+    
 - Semaine 14 [TEMP] (17 avril) : Sujets avancés et expérimentaux
 
+  **Acétates :**
+  - <a href="http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/10_SujetsSpeciaux.pdf" target="_blank">10_SujetsSpeciaux.pdf</a>
+    
+  **Vidéos :**
+  - <a href="https://youtu.be/6jfw8MuKwpI?list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF" target="_blank">Siamese Network (Andrew Ng)</a>
+  - <a href="https://youtu.be/d2XB5-tuCWU?list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF" target="_blank">Triplet loss (Andrew Ng)</a>
+
   **Laboratoire :** Présentations orales
+
+
+
 
 - Semaine 15 [TEMP] (24 avril) : Modèles génératifs GAN 
 
-  **Laboratoire :** Présentations orales
+  **Laboratoire :** Pas de laboratoire ni présentation
 
 - Semaine 16 [TEMP] (1er mai) : Examen final (GLO-4030 SEULEMENT) 
 
