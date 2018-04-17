@@ -308,18 +308,17 @@ La deuxième moitié du cours est plus de type séminaire. On y fera un survol h
   
   
     
-- Semaine 14 [TEMP] (17 avril) : Sujets avancés et expérimentaux
+- Semaine 14 [TEMP] (17 avril) : Sujets avancés : Ladder Net, Réseaux Siamois et Distillation
 
   **Acétates :**
   - <a href="http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/10_SujetsSpeciaux.pdf" target="_blank">10_SujetsSpeciaux.pdf</a>
     
   **Vidéos :**
+  - <a href="https://youtu.be/ZlyqNiPFu2s" target="_blank">Ladder Network</a>  
   - <a href="https://youtu.be/6jfw8MuKwpI?list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF" target="_blank">Siamese Network (Andrew Ng)</a>
   - <a href="https://youtu.be/d2XB5-tuCWU?list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF" target="_blank">Triplet loss (Andrew Ng)</a>
 
-  **Laboratoire :** Présentations orales
-
-
+  **Laboratoire :** Présentations orales seulement
 
 
 - Semaine 15 [TEMP] (24 avril) : Modèles génératifs GAN 
