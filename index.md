@@ -308,7 +308,7 @@ La deuxième moitié du cours est plus de type séminaire. On y fera un survol h
   
   
     
-- Semaine 14 [TEMP] (17 avril) : Sujets avancés : Ladder Net, Réseaux Siamois et Distillation
+- Semaine 14 (17 avril) : Sujets avancés : Ladder Net, Réseaux Siamois et Distillation
 
   **Acétates :**
   - <a href="http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/10_SujetsSpeciaux.pdf" target="_blank">10_SujetsSpeciaux.pdf</a>
@@ -321,7 +321,18 @@ La deuxième moitié du cours est plus de type séminaire. On y fera un survol h
   **Laboratoire :** Présentations orales seulement
 
 
-- Semaine 15 [TEMP] (24 avril) : Modèles génératifs GAN 
+- Semaine 15 (24 avril) : Modèles GAN (Generative Adverserial Network)
+
+**Acétates :**
+  - <a href="http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/11-GANs.pdf" target="_blank">11-GANs</a>
+
+  **Autres Liens :**
+  - <a href="https://github.com/soumith/ganhacks" target="_blank">Trucs et astuces pour entrainer des GANs</a>  
+
+  **Vidéos :**
+  - <a href="https://youtu.be/5WoItGTWV54?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&t=2995" target="_blank">Lecture 13 | Generative Models
+ (partie GAN)</a>  
+
 
   **Laboratoire :** Pas de laboratoire ni présentation
 
