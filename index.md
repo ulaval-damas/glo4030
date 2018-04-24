@@ -336,10 +336,8 @@ La deuxième moitié du cours est plus de type séminaire. On y fera un survol h
 
   **Laboratoire :** Pas de laboratoire ni présentation
 
-- Semaine 16 [TEMP] (1er mai) : Examen final (GLO-4030 SEULEMENT) 
+- Semaine 16 [TEMP] (1er mai) : Examen final (GLO-4030 SEULEMENT, PLT-2341 12h30 à 14h20) 
 
-
-En construction.
 
 ## Livre
 Le livre (obligatoire) est **Deep Learning** par Goodfellow, Bengio et Courville.
