@@ -323,7 +323,7 @@ La deuxième moitié du cours est plus de type séminaire. On y fera un survol h
 
 - Semaine 15 (24 avril) : Modèles GAN (Generative Adverserial Network)
 
-**Acétates :**
+  **Acétates :**
   - <a href="http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/11-GANs.pdf" target="_blank">11-GANs</a>
 
   **Autres Liens :**
