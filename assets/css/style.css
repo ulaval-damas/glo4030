@@ -73,3 +73,19 @@ th {
 .collapsible li > *:last-child {
     padding-bottom: 10px;
 }
+
+.ulaval-info {
+    margin-top: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.ulaval-info img {
+    height: 50px;
+}
+
+.site-title {
+    font-size: 24px;
+    font-weight: 350;
+}
