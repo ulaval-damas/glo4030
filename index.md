@@ -5,15 +5,11 @@ title: Accueil GLO-4030/7030
 
 <meta name="keywords" content="Deep Learning, course, tutorials, CNN"/>
 
-## Forum de discussions
-
-[piazza.com/ulaval.ca/winter2018/glo40307030/home](https://piazza.com/ulaval.ca/winter2018/glo40307030/home)
-
 ## Horaire
 
 | Jour     | Heure               | Local    |
 |----------|---------------------|----------|
-| Mardi    | 12h30 à 15h20       | PLT-2341 |
+| Mardi    | 12h30 à 15h20       | PLT-2783 |
 | Vendredi | 10h30 à 11h30       | PLT-3928 |
 
 ## Ressource Jupyter de Calcul-Québec (pour GPU)
@@ -23,14 +19,17 @@ title: Accueil GLO-4030/7030
 Pendant la période de laboratoire, nous avons une priorité d'accès, sous la réservation ``glo4030``. En dehors de la période de laboratoire, votre requête de notebook passera par une file d'attente.
 
 ## Travaux pratiques
-- <a href="http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/TP1_remise.zip" target="_blank">TP1</a>, remise 9 février 2018, 23h55. Sans pénalité de retard jusqu'au 11 février, 23h55.
-- <a href="http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/TP2.remise.zip" target="_blank">TP2</a>, remise 11 mars 2018, 23h55. 
 
-## Choix de l'article à présenter oralement (GLO-7030 seulement)
+À venir.
+<!-- - <a href="http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/TP1_remise.zip" target="_blank">TP1</a>, remise 9 février 2018, 23h55. Sans pénalité de retard jusqu'au 11 février, 23h55. -->
+<!-- - <a href="http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/TP2.remise.zip" target="_blank">TP2</a>, remise 11 mars 2018, 23h55.  -->
 
-Pour la présentation orale de 15 minutes, vous devez choisir un article en lien avec le cours et publié **après le 1er juin 2017**, sur le site d'[arxiv.org](https://arxiv.org) ou toute conférence respectable (CVPR, NIPS, RSS, ICCV, ECCV). Une manière simple d'en trouver un est de régulièrement consulter le site [arxiv-sanity](http://www.arxiv-sanity.com/), qui montre les articles les plus récents (dans la dernière semaine, essentiellement) triés selon les sujets, ou même le *hype*. Entre un *reddit* et un *slashdot*, faites-y un tour ;). L'horaire des présentations est ici-bas (il vous faudra dérouler probablement).
+## Présentation de votre projet (GLO-7030 seulement)
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTnYDfcPNLtDa9jsUvpOHuilBx3zL832-b54grHpY4N_5TffQjIT88IcOW6n4vgxbnpelLPXbDJX4Ll/pubhtml?gid=0&amp;single=true&amp;range=A1:E33&amp;headers=false&amp;widget=false&amp;headers=false&amp;chrome=false" width="800" height="600"></iframe>
+Pour la présentation de votre projet, vous devez préparer et présenter une affiche.
+Un [template](https://github.com/GRAAL-Research/graal-poster) vous est mis à disposition et il vous est fortement recommandé de l'utiliser pour vous faciliter le travail.
+
+<!-- <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTnYDfcPNLtDa9jsUvpOHuilBx3zL832-b54grHpY4N_5TffQjIT88IcOW6n4vgxbnpelLPXbDJX4Ll/pubhtml?gid=0&amp;single=true&amp;range=A1:E33&amp;headers=false&amp;widget=false&amp;headers=false&amp;chrome=false" width="800" height="600"></iframe> -->
 
 
 ## Support vidéo
@@ -67,17 +66,18 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
    - [Vidéo](http://videolectures.net/deeplearning2016_precup_machine_learning/) résumant le machine learning par Doina Precup
    - [Udacity : Introduction to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120)
    - <a href="https://www.class-central.com/mooc/835/coursera-machine-learning" target="_blank">Coursera : Machine Learning</a>
-   - [Cours sur Fast.ai](http://forums.fast.ai/t/another-treat-early-access-to-intro-to-machine-learning-videos/6826?source_topic_id=9398)
+   - [Cours sur Fast.ai](https://course.fast.ai/ml)
    
    
 
       
    
-- Semaine 1 (16 janvier) : Plan de cours, introduction, réseau linéaire, fonctions d'activation
+- Semaine 1 (15 janvier) : Plan de cours, introduction, réseau linéaire, fonctions d'activation
 
   **Lectures dans le manuel :** Chapitre 1, 6
   
-  Nous verrons notamment quelles sont les innovations des 10 dernières années qui expliquent la résurgence des réseaux de neurones, en particulier l'apparition des réseaux profonds. Les premiers détails sur les réseaux en aval (feedforward) seront abordés.
+  Nous verrons notamment quelles sont les innovations des 10 dernières années qui expliquent la résurgence des réseaux de neurones, en particulier l'apparition des réseaux profonds.
+  Les premiers détails sur les réseaux en aval (feedforward) seront abordés.
   
   **Contenu détaillé :**
   - Introduction
@@ -93,12 +93,13 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
   - [01-Introduction.pdf](http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/01-Introduction.pdf)
   
   **Laboratoire :** Introduction à Pytorch et premiers essais sur des données standards (MNIST, CIFAR-10)
-  - [Laboratoire 1](https://github.com/ulaval-damas/glo4030-labs/blob/master/Laboratoire%201.ipynb)
+  - Laboratoire 1 (À venir)
+  <!-- - [Laboratoire 1](https://github.com/ulaval-damas/glo4030-labs/blob/master/Laboratoire%201.ipynb) -->
 
 
   
   
-- Semaine 2 (23 janvier) : Feedforward, Fonctions de perte, Graphes de calcul, Backprop
+- Semaine 2 (22 janvier) : Feedforward, Fonctions de perte, Graphes de calcul, Backprop
 
   **Lectures dans le manuel :** Chapitre 6 
 
@@ -118,12 +119,13 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
   - [Logistic Regression Gradient Descent (Andrew Ng)](https://youtu.be/z_xiwjEdAC4?list=PLkDaE6sCZn6Ec-XTbcX1uRg2_u4xOEky0)
   
   **Laboratoire :** Pytorch sous le capot,  (MNIST, CIFAR-10)
-  - [Laboratoire 2](https://github.com/ulaval-damas/glo4030-labs/blob/master/Laboratoire%202.ipynb)
+  <!-- - [Laboratoire 2](https://github.com/ulaval-damas/glo4030-labs/blob/master/Laboratoire%202.ipynb) -->
+  - Laboratoire 2 (À venir)
    
 
 
 
-- Semaine 3 (30 janvier) : Initialisation et optimisation 
+- Semaine 3 (29 janvier) : Initialisation et optimisation 
   
   **Lectures dans le manuel :** Chapitre 8
 
@@ -145,12 +147,13 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
   - <a href="https://youtu.be/lWzo8CajF5s?list=PLkDaE6sCZn6Hn0vK8co82zjQtt3T2Nkqc" target="_blank">Bias Correction of Exponentially Weighted Averages (Andrew Ng)</a>
   
   **Laboratoire :** 
-  - [Laboratoire 3](https://github.com/ulaval-damas/glo4030-labs/blob/master/Laboratoire%203.ipynb)
+  <!-- - [Laboratoire 3](https://github.com/ulaval-damas/glo4030-labs/blob/master/Laboratoire%203.ipynb) -->
+  - Laboratoire 3 (À venir)
 
 
 
 
-- Semaine 4 (6 février) : Régularisation
+- Semaine 4 (5 février) : Régularisation
   
   **Lectures dans le manuel :** Chapitre 7
     
@@ -164,12 +167,13 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
   **Acétates :** <a href="http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/04-Regularisation.pdf" target="_blank">04-Regularisation.pdf</a>
   
   **Laboratoire :** 
-  - [Laboratoire 4](https://github.com/ulaval-damas/glo4030-labs/blob/master/Laboratoire%204.ipynb)
+  <!-- - [Laboratoire 4](https://github.com/ulaval-damas/glo4030-labs/blob/master/Laboratoire%204.ipynb) -->
+  - Laboratoire 4 (À venir)
 
 
 
 
-- Semaine 5 (13 février) : Réseaux à convolution I (CNN) 
+- Semaine 5 (12 février) : Réseaux à convolution I (CNN) 
   
   **Lectures dans le manuel :** Chapitre 9
   
@@ -187,10 +191,11 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
   - <a href="http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/05-CNN.pdf" target="_blank">05-CNN.pdf</a>
   
   **Laboratoire :** 
-  - [Laboratoire 5](https://github.com/ulaval-damas/glo4030-labs/blob/master/Laboratoire%205.ipynb)
+  <!-- - [Laboratoire 5](https://github.com/ulaval-damas/glo4030-labs/blob/master/Laboratoire%205.ipynb) -->
+  - Laboratoire 5 (À venir)
 
 
-- Semaine 6 (20 février) : Réseaux à convolution II (CNN) 
+- Semaine 6 (19 février) : Réseaux à convolution II (CNN) et Spatial Transformer Network
   
   **Lectures dans le manuel :** Chapitre 9
   
@@ -198,10 +203,12 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
   - [K. He et al. Deep Residual Learning for Image Recognition, 2016.](https://arxiv.org/pdf/1512.03385.pdf)
   - <a href="https://arxiv.org/pdf/1602.07261.pdf" target="_blank">Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning</a>
   - <a href="https://arxiv.org/abs/1605.06431" target="_blank">Residual Networks Behave Like Ensembles of Relatively Shallow Networks</a>
+  - <a href="https://arxiv.org/abs/1506.02025" target="_blank">Spatial Transformer Networks</a>
    
   
   **Acétates :**
   - <a href="http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/06-CNN.pdf" target="_blank">06-CNN.pdf</a>
+  - <a href="http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/07-SpatialTransformNet.pdf" target="_blank">07-SpatialTransformNet.pdf</a>
   
   **Laboratoire :** 
   - Pas de laboratoire cette semaine.
@@ -209,45 +216,33 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
 
 
 
-- Semaine 7 (27 février) : Examen Intra (GLO-4030 et GLO-7030) Local : PLT-2341
+- Semaine 7 (26 février) : Examen Intra (GLO-4030 et GLO-7030) Local : PLT-2783
 
 
 
 ### Deuxième moitié
 
-La deuxième moitié du cours est plus de type séminaire. On y fera un survol horizontal et rapide des concepts plus avancés. Les présentations orales y auront lieu, soit pendant une heure de cours, soit en remplacement des laboratoires.
+La deuxième moitié du cours portera majoritairement sur les modèle récurrents.
+Nous allons également voir quelques concepts plus avancés comme les réseaux génératifs (GAN) et les modèles d'attention.
 
 {:.collapsible}
 
-- Semaine 9 (13 mars) : Retour sur l'examen, début des présentations orales
+- Semaine 9 (12 mars) : Retour sur l'examen, Recurrent Neural Networks (RNN)
 
-  **Laboratoire :** 
-  - Pas de laboratoire cette semaine.
-
-
-
-
-- Semaine 10 (20 mars) : Spatial Transformer Network, Recursive Neural Networks (RNN)
-  
   **Lectures dans le manuel :** Chapitre 10
-  
-  **Autres lectures :**
-  - <a href="https://arxiv.org/abs/1506.02025" target="_blank">Spatial Transformer Networks</a>
-  
+
   **Vidéos :**
   - <a href="https://youtu.be/6niqTuYFZLQ" target="_blank">cs231n Lecture 10 | Recurrent Neural Networks</a>
   - Lire le chapitre 10 avant de regarder : <a href="https://youtu.be/AYku9C9XoB8" target="_blank">Y. Bengio - RNN (DLSS 2017)</a>
   
   **Acétates :**
-  - <a href="http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/07-SpatialTransformNet.pdf" target="_blank">07-SpatialTransformNet.pdf</a>
   - <a href="http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/07-RNN-A.pdf" target="_blank">07-RNN-A.pdf</a>
 
-  
   **Laboratoire :** 
   - Pas de laboratoire cette semaine.
   
     
-- Semaine 11 (27 mars) : Long Short-Term Memory (LSTM), Gated Recurrent Unit (GRU)
+- Semaine 10 (19 mars) : Long Short-Term Memory (LSTM), Gated Recurrent Unit (GRU)
 
   **Lectures dans le manuel :** Chapitre 10
 
@@ -255,21 +250,55 @@ La deuxième moitié du cours est plus de type séminaire. On y fera un survol h
   - <a href="http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/07-RNN-B.pdf" target="_blank">07-RNN-B.pdf</a>
   - <a href="http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/07-LSTM.pdf" target="_blank">07-LSTM.pdf</a>
 
-
   **Autres lectures :**
   - <a href="http://colah.github.io/posts/2015-08-Understanding-LSTMs/" target="_blank">Understanding LSTM</a>
   - <a href="https://arxiv.org/pdf/1503.04069.pdf" target="_blank">LSTM: A Search Space Odyssey</a>
   - <a href="http://proceedings.mlr.press/v37/jozefowicz15.pdf" target="_blank">An Empirical Exploration of Recurrent Network Architectures</a>
 
   **Laboratoire :** 
-  - Pas de laboratoire cette semaine (congé Vendredi Saint).
+  - RNN et LSTM
 
 
+- Semaine 11 (26 mars) : Word Embeddings
 
-- Semaine 12 (3 avril) : Autoencodeurs, Representation learning, Word Embedding
+  **Acétates :**
+  - À venir
+
+
+- Semaine 12 (2 avril) : Réseaux de neurones récurrents profonds et modèles de langues 
+
+  **Acétates :**
+  - À venir
+
+
+- Semaine 13 (9 avril) : Seq2Seq, Modèles d'attention
+
+  **Lectures dans le manuel :** Section 10.12 Explicit Memory
+
+  **Autres lectures :**
+  - <a href="https://arxiv.org/abs/1409.0473" target="_blank">Neural Machine Translation by Jointly Learning to Align and Translate</a>
+  - <a href="https://arxiv.org/abs/1706.03762" target="_blank">Attention Is All You Need</a>
+  - <a href="https://youtu.be/ERibwqs9p38" target="_blank">Lecture 2 | Word Vector Representations: word2vec</a>
+  - <a href="https://arxiv.org/pdf/1411.2738.pdf" target="_blank">word2vec Parameter Learning Explained</a>
+
+  **Acétates :**
+  - <a href="http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/09-Attention.pdf" target="_blank">09-Attention.pdf</a>
+
+  **Laboratoire :** 
+  - (À venir).
+
+  **Autres liens pertinents :**
+  - <a href="http://nlp.seas.harvard.edu/2018/04/03/attention.html" target="_blank">Code pour Attention Is All You Need</a>
+
+
+- Semaine 14 (16 avril) : Autoencodeurs, Modèles GAN (Generative Adverserial Network)
 
   **Acétates :**
   - <a href="http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/08-Autoencoder.pdf" target="_blank">08-Autoencoder.pdf</a>
+  - <a href="http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/11-GANs.pdf" target="_blank">11-GANs</a>
+
+  **Autres Liens :**
+  - <a href="https://github.com/soumith/ganhacks" target="_blank">Trucs et astuces pour entrainer des GANs</a>  
     
   **Vidéos :**
   - [Autoencoder - definition](https://youtu.be/FzS3tMl4Nsc?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
@@ -280,35 +309,10 @@ La deuxième moitié du cours est plus de type séminaire. On y fera un survol h
   - [Autoencoder - denoising autoencoder](https://youtu.be/t2NQ_c5BFOc?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
   - [Autoencoder - contractive autoencoder](https://youtu.be/79sYlJ8Cvlc?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
   - [Deep learning - deep autoencoder](https://youtu.be/z5ZYm_wJ37c?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
-  - <a href="https://youtu.be/R3DNKE3zKFk?t=33" target="_blank">Machine Learning at Berkeley | Autoencoders and Representation Learning</a>
-  - Pour ceux intéressés un peu plus par le traitement naturel de la langue (NLP) : 
-       - <a href="https://youtu.be/ERibwqs9p38" target="_blank">Lecture 2 | Word Vector Representations: word2vec</a>
-       - <a href="https://arxiv.org/pdf/1411.2738.pdf" target="_blank">word2vec Parameter Learning Explained</a>
+  - <a href="https://youtu.be/5WoItGTWV54?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&t=2995" target="_blank">Lecture 13 | Generative Models (partie GAN)</a>  
 
-  **Laboratoire :** 
-  - RNN et LSTM
-
-
-- Semaine 13 (10 avril) : Modèles d'attention
-
-  **Lectures dans le manuel :** Section 10.12 Explicit Memory
-
-  **Autres lectures :**
-  - <a href="https://arxiv.org/abs/1409.0473" target="_blank">Neural Machine Translation by Jointly Learning to Align and Translate</a>
-  - <a href="https://arxiv.org/abs/1706.03762" target="_blank">Attention Is All You Need</a>
-
-  **Acétates :**
-  - <a href="http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/09-Attention.pdf" target="_blank">09-Attention.pdf</a>
-
-  **Laboratoire :** 
-  - (À venir).
-
-  **Autres liens pertinents :**
-  - <a href="http://nlp.seas.harvard.edu/2018/04/03/attention.html" target="_blank">Code pour Attention Is All You Need</a>
-  
-  
     
-- Semaine 14 (17 avril) : Sujets avancés : Ladder Net, Réseaux Siamois et Distillation
+- Semaine 15 (23 avril) : Sujets avancés : Ladder Net, Réseaux Siamois et Distillation
 
   **Acétates :**
   - <a href="http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/10_SujetsSpeciaux.pdf" target="_blank">10_SujetsSpeciaux.pdf</a>
@@ -321,22 +325,8 @@ La deuxième moitié du cours est plus de type séminaire. On y fera un survol h
   **Laboratoire :** Présentations orales seulement
 
 
-- Semaine 15 (24 avril) : Modèles GAN (Generative Adverserial Network)
 
-  **Acétates :**
-  - <a href="http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/11-GANs.pdf" target="_blank">11-GANs</a>
-
-  **Autres Liens :**
-  - <a href="https://github.com/soumith/ganhacks" target="_blank">Trucs et astuces pour entrainer des GANs</a>  
-
-  **Vidéos :**
-  - <a href="https://youtu.be/5WoItGTWV54?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&t=2995" target="_blank">Lecture 13 | Generative Models
- (partie GAN)</a>  
-
-
-  **Laboratoire :** Pas de laboratoire ni présentation
-
-- Semaine 16 [TEMP] (1er mai) : Examen final (GLO-4030 SEULEMENT, PLT-2341 12h30 à 14h20) 
+- Semaine 16 [TEMP] (30 avril) : Examen final (GLO-4030 SEULEMENT, PLT-2341 12h30 à 14h20) 
 
 
 ## Livre

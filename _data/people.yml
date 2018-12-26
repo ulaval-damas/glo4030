@@ -1,29 +1,11 @@
 - pgiguere:
   title: Professeur
   name: Philippe Giguère
-  email: philippe.giguere@ift.ulaval.ca
+  # email: philippe.giguere@ift.ulaval.ca
   photo: assets/img/pgiguere.png
-  office: PLT-3976
-  available:
-    - Mer. 14h à 16
-
-- agariepy:
-  title: Assistant
-  name: Alexandre Gariépy
-  github: gariepyalex
-  photo: assets/img/AGariepy.png
-
-- mcarpentier:
-  title: Assistant
-  name: Mathieu Carpentier
-  github: Matiel
-  photo: assets/img/MCarpentier.jpg
-
-- ltrottier:
-  title: Assistant
-  name: Ludovic Trottier
-  github: ltrottier
-  photo: assets/img/LudoTrottier.jpg
+  # office: PLT-3976
+  # available:
+    # - Mer. 14h à 16
 
 - ngarneau:
     title: Chargé de cours
@@ -31,4 +13,4 @@
     email: nicolas.garneau@ift.ulaval.ca
     photo: assets/img/ngarneau.jpg
     office: PLT-3908
-    available: Jeu. 14h à 16h
+    available: Mer. 14h à 16h
