@@ -5,15 +5,11 @@ title: Accueil GLO-4030/7030
 
 <meta name="keywords" content="Deep Learning, course, tutorials, CNN"/>
 
-## Forum de discussions
-
-[piazza.com/ulaval.ca/winter2018/glo40307030/home](https://piazza.com/ulaval.ca/winter2018/glo40307030/home)
-
 ## Horaire
 
 | Jour     | Heure               | Local    |
 |----------|---------------------|----------|
-| Mardi    | 12h30 à 15h20       | PLT-2341 |
+| Mardi    | 12h30 à 15h20       | PLT-2783 |
 | Vendredi | 10h30 à 11h30       | PLT-3928 |
 
 ## Ressource Jupyter de Calcul-Québec (pour GPU)
@@ -23,14 +19,17 @@ title: Accueil GLO-4030/7030
 Pendant la période de laboratoire, nous avons une priorité d'accès, sous la réservation ``glo4030``. En dehors de la période de laboratoire, votre requête de notebook passera par une file d'attente.
 
 ## Travaux pratiques
-- <a href="http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/TP1_remise.zip" target="_blank">TP1</a>, remise 9 février 2018, 23h55. Sans pénalité de retard jusqu'au 11 février, 23h55.
-- <a href="http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/TP2.remise.zip" target="_blank">TP2</a>, remise 11 mars 2018, 23h55. 
 
-## Choix de l'article à présenter oralement (GLO-7030 seulement)
+À venir.
+<!-- - <a href="http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/TP1_remise.zip" target="_blank">TP1</a>, remise 9 février 2018, 23h55. Sans pénalité de retard jusqu'au 11 février, 23h55. -->
+<!-- - <a href="http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/TP2.remise.zip" target="_blank">TP2</a>, remise 11 mars 2018, 23h55.  -->
 
-Pour la présentation orale de 15 minutes, vous devez choisir un article en lien avec le cours et publié **après le 1er juin 2017**, sur le site d'[arxiv.org](https://arxiv.org) ou toute conférence respectable (CVPR, NIPS, RSS, ICCV, ECCV). Une manière simple d'en trouver un est de régulièrement consulter le site [arxiv-sanity](http://www.arxiv-sanity.com/), qui montre les articles les plus récents (dans la dernière semaine, essentiellement) triés selon les sujets, ou même le *hype*. Entre un *reddit* et un *slashdot*, faites-y un tour ;). L'horaire des présentations est ici-bas (il vous faudra dérouler probablement).
+## Présentation de votre projet (GLO-7030 seulement)
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTnYDfcPNLtDa9jsUvpOHuilBx3zL832-b54grHpY4N_5TffQjIT88IcOW6n4vgxbnpelLPXbDJX4Ll/pubhtml?gid=0&amp;single=true&amp;range=A1:E33&amp;headers=false&amp;widget=false&amp;headers=false&amp;chrome=false" width="800" height="600"></iframe>
+Pour la présentation de votre projet, vous devez préparer et présenter une affiche.
+Un [template](https://github.com/GRAAL-Research/graal-poster) vous est mis à disposition et il vous est fortement recommandé de l'utiliser pour vous faciliter le travail.
+
+<!-- <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTnYDfcPNLtDa9jsUvpOHuilBx3zL832-b54grHpY4N_5TffQjIT88IcOW6n4vgxbnpelLPXbDJX4Ll/pubhtml?gid=0&amp;single=true&amp;range=A1:E33&amp;headers=false&amp;widget=false&amp;headers=false&amp;chrome=false" width="800" height="600"></iframe> -->
 
 
 ## Support vidéo
@@ -67,7 +66,7 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
    - [Vidéo](http://videolectures.net/deeplearning2016_precup_machine_learning/) résumant le machine learning par Doina Precup
    - [Udacity : Introduction to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120)
    - <a href="https://www.class-central.com/mooc/835/coursera-machine-learning" target="_blank">Coursera : Machine Learning</a>
-   - [Cours sur Fast.ai](http://forums.fast.ai/t/another-treat-early-access-to-intro-to-machine-learning-videos/6826?source_topic_id=9398)
+   - [Cours sur Fast.ai](https://course.fast.ai/ml)
    
    
 
@@ -77,7 +76,8 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
 
   **Lectures dans le manuel :** Chapitre 1, 6
   
-  Nous verrons notamment quelles sont les innovations des 10 dernières années qui expliquent la résurgence des réseaux de neurones, en particulier l'apparition des réseaux profonds. Les premiers détails sur les réseaux en aval (feedforward) seront abordés.
+  Nous verrons notamment quelles sont les innovations des 10 dernières années qui expliquent la résurgence des réseaux de neurones, en particulier l'apparition des réseaux profonds.
+  Les premiers détails sur les réseaux en aval (feedforward) seront abordés.
   
   **Contenu détaillé :**
   - Introduction
