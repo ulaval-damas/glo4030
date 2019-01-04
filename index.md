@@ -326,7 +326,7 @@ Nous allons également voir quelques concepts plus avancés comme les réseaux g
 
 
 
-- Semaine 16 [TEMP] (30 avril) : Examen final (GLO-4030 SEULEMENT, PLT-2341 12h30 à 14h20) 
+- Semaine 16 [TEMP] (30 avril) : Examen final (GLO-4030 SEULEMENT, PLT-2783 12h30 à 14h20) 
 
 
 ## Livre
