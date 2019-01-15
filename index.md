@@ -90,7 +90,7 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
   - [Feedforward neural network - activation function](https://youtu.be/tCHIkgWZLOQ?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
   
   **Acétates :**  
-  - [01-Introduction.pdf](http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/01-Introduction.pdf)
+  - [01-Introduction.pdf](assets/slides/01-intro.pdf)
   
   **Laboratoire :** Introduction à Pytorch et premiers essais sur des données standards (MNIST, CIFAR-10)
   - Laboratoire 1 (À venir)
