@@ -18,6 +18,8 @@ title: Accueil GLO-4030/7030
 
 Pendant la période de laboratoire, nous avons une priorité d'accès, sous la réservation ``glo4030``. En dehors de la période de laboratoire, votre requête de notebook passera par une file d'attente.
 
+[Site web des laboratoires](https://github.com/ulaval-damas/glo4030-labs)
+
 ## Travaux pratiques
 
 À venir.
@@ -93,8 +95,7 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
   - [01-Introduction.pdf](assets/slides/01-intro.pdf)
   
   **Laboratoire :** Introduction à Pytorch et premiers essais sur des données standards (MNIST, CIFAR-10)
-  - Laboratoire 1 (À venir)
-  <!-- - [Laboratoire 1](https://github.com/ulaval-damas/glo4030-labs/blob/master/Laboratoire%201.ipynb) -->
+  - [Laboratoire 1](https://github.com/ulaval-damas/glo4030-labs/blob/master/Laboratoire%201.ipynb)
 
 
   
