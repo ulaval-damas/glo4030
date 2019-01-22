@@ -92,7 +92,7 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
   - [Feedforward neural network - activation function](https://youtu.be/tCHIkgWZLOQ?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
   
   **Acétates :**  
-  - [01-Introduction.pdf](assets/slides/01-intro.pdf)
+  - [Introduction](assets/slides/01-intro.pdf)
   
   **Laboratoire :** Introduction à Pytorch et premiers essais sur des données standards (MNIST, CIFAR-10)
   - [Laboratoire 1](https://github.com/ulaval-damas/glo4030-labs/blob/master/Laboratoire%201.ipynb)
@@ -105,7 +105,7 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
   **Lectures dans le manuel :** Chapitre 6 
 
   **Acétates :**
-  - <a href="http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/02-FeedForward-Loss-Graph-Backprop.pdf" target="_blank">02-FeedForward-Loss-Graph-Backprop.pdf</a>
+  - [Fonctions de pertes et graphe de calcul](assets/slides/02-loss-graph.pdf)
 
   **Vidéos :**
   - [Training neural networks - empirical risk minimization](https://youtu.be/5adNQvSlF50?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
@@ -120,8 +120,7 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
   - [Logistic Regression Gradient Descent (Andrew Ng)](https://youtu.be/z_xiwjEdAC4?list=PLkDaE6sCZn6Ec-XTbcX1uRg2_u4xOEky0)
   
   **Laboratoire :** Pytorch sous le capot,  (MNIST, CIFAR-10)
-  <!-- - [Laboratoire 2](https://github.com/ulaval-damas/glo4030-labs/blob/master/Laboratoire%202.ipynb) -->
-  - Laboratoire 2 (À venir)
+  - [Laboratoire 2](https://github.com/ulaval-damas/glo4030-labs/blob/master/Laboratoire%202.ipynb)
    
 
 
