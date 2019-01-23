@@ -257,19 +257,13 @@ Nous allons également voir quelques concepts plus avancés comme les réseaux g
   - RNN et LSTM
 
 
-- Semaine 11 (26 mars) : Word Embeddings
+- Semaine 11 (26 mars) : Word Embeddings, DeepRNN, modèles de langue
 
   **Acétates :**
   - À venir
 
 
-- Semaine 12 (2 avril) : Réseaux de neurones récurrents profonds et modèles de langues 
-
-  **Acétates :**
-  - À venir
-
-
-- Semaine 13 (9 avril) : Seq2Seq, Modèles d'attention
+- Semaine 12 (2 avril) : Seq2Seq, Modèles d'attention
 
   **Lectures dans le manuel :** Section 10.12 Explicit Memory
 
@@ -289,7 +283,7 @@ Nous allons également voir quelques concepts plus avancés comme les réseaux g
   - <a href="http://nlp.seas.harvard.edu/2018/04/03/attention.html" target="_blank">Code pour Attention Is All You Need</a>
 
 
-- Semaine 14 (16 avril) : Autoencodeurs, Modèles GAN (Generative Adverserial Network)
+- Semaine 13 (9 avril) : Autoencodeurs, Modèles GAN (Generative Adverserial Network)
 
   **Acétates :**
   - <a href="http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/08-Autoencoder.pdf" target="_blank">08-Autoencoder.pdf</a>
@@ -309,8 +303,8 @@ Nous allons également voir quelques concepts plus avancés comme les réseaux g
   - [Deep learning - deep autoencoder](https://youtu.be/z5ZYm_wJ37c?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
   - <a href="https://youtu.be/5WoItGTWV54?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&t=2995" target="_blank">Lecture 13 | Generative Models (partie GAN)</a>  
 
-    
-- Semaine 15 (23 avril) : Sujets avancés : Ladder Net, Réseaux Siamois et Distillation
+
+- Semaine 14 (16 avril) : Sujets avancés : Ladder Net, Réseaux Siamois et Distillation
 
   **Acétates :**
   - <a href="http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/10_SujetsSpeciaux.pdf" target="_blank">10_SujetsSpeciaux.pdf</a>
@@ -320,11 +314,11 @@ Nous allons également voir quelques concepts plus avancés comme les réseaux g
   - <a href="https://youtu.be/6jfw8MuKwpI?list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF" target="_blank">Siamese Network (Andrew Ng)</a>
   - <a href="https://youtu.be/d2XB5-tuCWU?list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF" target="_blank">Triplet loss (Andrew Ng)</a>
 
-  **Laboratoire :** Présentations orales seulement
+    
+- Semaine 15 (23 avril) : Examen final (GLO-4030 SEULEMENT, PLT-2783 12h30 à 14h20) 
 
 
-
-- Semaine 16 [TEMP] (30 avril) : Examen final (GLO-4030 SEULEMENT, PLT-2783 12h30 à 14h20) 
+- Semaine 16 [TEMP] (30 avril) : Présentation des affiches, détails à venir. 
 
 
 ## Livre
