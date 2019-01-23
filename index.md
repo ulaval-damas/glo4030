@@ -22,7 +22,7 @@ Pendant la période de laboratoire, nous avons une priorité d'accès, sous la r
 
 ## Travaux pratiques
 
-- [TP1](assets/tps/TP1_remise.zip), remise 8 février 2018, 23h59.
+- [TP1](assets/tps/TP1_remise.zip), remise 8 février 2019, 23h59.
 
 ## Présentation de votre projet (GLO-7030 seulement)
 
