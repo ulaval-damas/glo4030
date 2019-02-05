@@ -145,8 +145,8 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
   - <a href="https://youtu.be/lWzo8CajF5s?list=PLkDaE6sCZn6Hn0vK8co82zjQtt3T2Nkqc" target="_blank">Bias Correction of Exponentially Weighted Averages (Andrew Ng)</a>
   
   **Laboratoire :** 
-  <!-- - [Laboratoire 3](https://github.com/ulaval-damas/glo4030-labs/blob/master/Laboratoire%203.ipynb) -->
-  - Laboratoire 3 (À venir)
+  - [Laboratoire 3](https://github.com/ulaval-damas/glo4030-labs/blob/master/Laboratoire%203.ipynb)
+  <!-- - Laboratoire 3 (À venir) -->
 
 
 
@@ -154,19 +154,20 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
 - Semaine 4 (5 février) : Régularisation
   
   **Lectures dans le manuel :** Chapitre 7
-    
+  
+  **Acétates :** <a href="http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/04-Regularisation.pdf" target="_blank">04-Regularisation.pdf</a>
+  - [Régularisation](assets/slides/04-regularisation.pdf)
+  
   **Vidéos :** 
   - [Training neural networks - regularization](https://youtu.be/JfkbyODyujw?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
   - [Deep learning - difficulty of training](https://youtu.be/YoiUlN_77LU?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
   - [Deep learning - unsupervised pre-training](https://youtu.be/Oq38pINmddk?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
   - [Deep learning - example](https://youtu.be/SXnG-lQ7RJo?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
   - [Deep learning - dropout](https://youtu.be/UcKPdAM8cnI?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
-  
-  **Acétates :** <a href="http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/04-Regularisation.pdf" target="_blank">04-Regularisation.pdf</a>
-  
+
   **Laboratoire :** 
-  <!-- - [Laboratoire 4](https://github.com/ulaval-damas/glo4030-labs/blob/master/Laboratoire%204.ipynb) -->
-  - Laboratoire 4 (À venir)
+  - [Laboratoire 4](https://github.com/ulaval-damas/glo4030-labs/blob/master/Laboratoire%204.ipynb)
+  <!-- - Laboratoire 4 (À venir) -->
 
 
 
@@ -189,8 +190,8 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
   - <a href="http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/05-CNN.pdf" target="_blank">05-CNN.pdf</a>
   
   **Laboratoire :** 
-  <!-- - [Laboratoire 5](https://github.com/ulaval-damas/glo4030-labs/blob/master/Laboratoire%205.ipynb) -->
-  - Laboratoire 5 (À venir)
+  - [Laboratoire 5](https://github.com/ulaval-damas/glo4030-labs/blob/master/Laboratoire%205.ipynb)
+  <!-- - Laboratoire 5 (À venir) -->
 
 
 - Semaine 6 (19 février) : Réseaux à convolution II (CNN) et Spatial Transformer Network
