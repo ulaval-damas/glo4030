@@ -195,7 +195,7 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
   <!-- - Laboratoire 5 (À venir) -->
 
 
-- Semaine 6 (19 février) : Réseaux à convolution II (CNN) et Spatial Transformer Network
+- Semaine 6 (19 février) : Réseaux à convolution II (CNN)
   
   **Lectures dans le manuel :** Chapitre 9
   
@@ -218,6 +218,7 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
 
 
 - Semaine 7 (26 février) : Examen Intra (GLO-4030 et GLO-7030) Local : PLT-2783
+
   **Acétates :**
   - [Révision](assets/slides/revision.pdf)
 
