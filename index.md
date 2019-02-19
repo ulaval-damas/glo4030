@@ -203,12 +203,13 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
   - [K. He et al. Deep Residual Learning for Image Recognition, 2016.](https://arxiv.org/pdf/1512.03385.pdf)
   - <a href="https://arxiv.org/pdf/1602.07261.pdf" target="_blank">Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning</a>
   - <a href="https://arxiv.org/abs/1605.06431" target="_blank">Residual Networks Behave Like Ensembles of Relatively Shallow Networks</a>
-  - <a href="https://arxiv.org/abs/1506.02025" target="_blank">Spatial Transformer Networks</a>
+  <!-- - <a href="https://arxiv.org/abs/1506.02025" target="_blank">Spatial Transformer Networks</a> -->
    
   
   **Acétates :**
-  - <a href="http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/06-CNN.pdf" target="_blank">06-CNN.pdf</a>
-  - <a href="http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/07-SpatialTransformNet.pdf" target="_blank">07-SpatialTransformNet.pdf</a>
+  - [CNN 2](assets/slides/06-cnn-1.pdf)
+  <!-- - <a href="http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/06-CNN.pdf" target="_blank">06-CNN.pdf</a> -->
+  <!-- - <a href="http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/07-SpatialTransformNet.pdf" target="_blank">07-SpatialTransformNet.pdf</a> -->
   
   **Laboratoire :** 
   - Pas de laboratoire cette semaine.
@@ -217,6 +218,8 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
 
 
 - Semaine 7 (26 février) : Examen Intra (GLO-4030 et GLO-7030) Local : PLT-2783
+  **Acétates :**
+  - [Révision](assets/slides/revision.pdf)
 
 
 
