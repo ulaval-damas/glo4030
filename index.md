@@ -240,10 +240,11 @@ Nous allons également voir quelques concepts plus avancés comme les réseaux g
   - Lire le chapitre 10 avant de regarder : <a href="https://youtu.be/AYku9C9XoB8" target="_blank">Y. Bengio - RNN (DLSS 2017)</a>
   
   **Acétates :**
-  - <a href="http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/07-RNN-A.pdf" target="_blank">07-RNN-A.pdf</a>
+  - [RNN](assets/slides/07-rnn.pdf)
 
-  **Laboratoire :** 
-  - Pas de laboratoire cette semaine.
+  **Notebooks :** 
+  - [Parameters](assets/notebooks/Parameters - Sol.ipynb)
+  - [RNNs](assets/notebooks/RNNs - Sol.ipynb)
   
     
 - Semaine 10 (19 mars) : Long Short-Term Memory (LSTM), Gated Recurrent Unit (GRU)
