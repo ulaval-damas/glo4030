@@ -247,30 +247,29 @@ Nous allons également voir quelques concepts plus avancés comme les réseaux g
   - [RNNs](assets/notebooks/RNNs - Sol.ipynb)
   
     
-- Semaine 10 (19 mars) : Long Short-Term Memory (LSTM), Gated Recurrent Unit (GRU)
+- Semaine 10 (19 mars) : Long Short-Term Memory (LSTM), Gated Recurrent Unit (GRU), Word Embeddings, DeepRNN, Modèles de langue
 
   **Lectures dans le manuel :** Chapitre 10
 
   **Acétates :**
-  - <a href="http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/07-RNN-B.pdf" target="_blank">07-RNN-B.pdf</a>
-  - <a href="http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/07-LSTM.pdf" target="_blank">07-LSTM.pdf</a>
+  - [LSTM](assets/slides/07-lstm.pdf)
+  - [Embeddings](assets/slides/08-embeddings.pdf)
+  - [Modèles de langue](assets/slides/08-modeles-langue.pdf)
 
   **Autres lectures :**
   - <a href="http://colah.github.io/posts/2015-08-Understanding-LSTMs/" target="_blank">Understanding LSTM</a>
   - <a href="https://arxiv.org/pdf/1503.04069.pdf" target="_blank">LSTM: A Search Space Odyssey</a>
   - <a href="http://proceedings.mlr.press/v37/jozefowicz15.pdf" target="_blank">An Empirical Exploration of Recurrent Network Architectures</a>
 
+  **Notebooks :**
+  - [LSTM](assets/notebooks/LSTMs.ipynb)
+  - [Embeddings](assets/notebooks/Embeddings.ipynb)
+
   **Laboratoire :** 
   - RNN et LSTM
 
 
-- Semaine 11 (26 mars) : Word Embeddings, DeepRNN, modèles de langue
-
-  **Acétates :**
-  - À venir
-
-
-- Semaine 12 (2 avril) : Seq2Seq, Modèles d'attention
+- Semaine 11 (26 mars) : Seq2Seq, Modèles d'attention
 
   **Lectures dans le manuel :** Section 10.12 Explicit Memory
 
@@ -290,7 +289,7 @@ Nous allons également voir quelques concepts plus avancés comme les réseaux g
   - <a href="http://nlp.seas.harvard.edu/2018/04/03/attention.html" target="_blank">Code pour Attention Is All You Need</a>
 
 
-- Semaine 13 (9 avril) : Autoencodeurs, Modèles GAN (Generative Adverserial Network)
+- Semaine 12 (2 avril) : Autoencodeurs, Modèles GAN (Generative Adverserial Network)
 
   **Acétates :**
   - <a href="http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/08-Autoencoder.pdf" target="_blank">08-Autoencoder.pdf</a>
@@ -311,7 +310,7 @@ Nous allons également voir quelques concepts plus avancés comme les réseaux g
   - <a href="https://youtu.be/5WoItGTWV54?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&t=2995" target="_blank">Lecture 13 | Generative Models (partie GAN)</a>  
 
 
-- Semaine 14 (16 avril) : Sujets avancés : Ladder Net, Réseaux Siamois et Distillation
+- Semaine 13 [TEMP] (9 avril) : Sujets avancés : Ladder Net, Réseaux Siamois et Distillation
 
   **Acétates :**
   - <a href="http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/10_SujetsSpeciaux.pdf" target="_blank">10_SujetsSpeciaux.pdf</a>
@@ -320,6 +319,13 @@ Nous allons également voir quelques concepts plus avancés comme les réseaux g
   - <a href="https://youtu.be/ZlyqNiPFu2s" target="_blank">Ladder Network</a>  
   - <a href="https://youtu.be/6jfw8MuKwpI?list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF" target="_blank">Siamese Network (Andrew Ng)</a>
   - <a href="https://youtu.be/d2XB5-tuCWU?list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF" target="_blank">Triplet loss (Andrew Ng)</a>
+
+
+- Semaine 14 [TEMP] (16 avril) : TODO
+
+  **Acétates :**
+    
+  **Vidéos :**
 
     
 - Semaine 15 (23 avril) : Examen final (GLO-4030 SEULEMENT, PLT-2783 12h30 à 14h20) 
