@@ -263,6 +263,7 @@ Nous allons également voir quelques concepts plus avancés comme les réseaux g
 
   **Notebooks :**
   - [LSTM](assets/notebooks/LSTMs.ipynb)
+  - [Sequence Classification](assets/notebooks/sequence_classification.ipynb)
   - [Embeddings](assets/notebooks/Embeddings.ipynb)
 
   **Laboratoire :** 
