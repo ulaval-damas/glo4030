@@ -282,6 +282,10 @@ Nous allons également voir quelques concepts plus avancés comme les réseaux g
 
   **Acétates :**
   - <a href="http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/09-Attention.pdf" target="_blank">09-Attention.pdf</a>
+  - [Attention](assets/slides/09-attention.pdf)
+
+  **Notebooks :**
+  - [Attention Simple](assets/notebooks/tutoriel-attn.ipynb)
 
   **Laboratoire :** 
   - (À venir).
