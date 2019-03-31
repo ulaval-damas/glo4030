@@ -258,6 +258,7 @@ Nous allons également voir quelques concepts plus avancés comme les réseaux g
 
   **Autres lectures :**
   - <a href="http://colah.github.io/posts/2015-08-Understanding-LSTMs/" target="_blank">Understanding LSTM</a>
+  - <a href="http://karpathy.github.io/2015/05/21/rnn-effectiveness/" target="_blank">The Unreasonable Effectiveness of Recurrent Neural Networks</a>
   - <a href="https://arxiv.org/pdf/1503.04069.pdf" target="_blank">LSTM: A Search Space Odyssey</a>
   - <a href="http://proceedings.mlr.press/v37/jozefowicz15.pdf" target="_blank">An Empirical Exploration of Recurrent Network Architectures</a>
 
@@ -288,10 +289,12 @@ Nous allons également voir quelques concepts plus avancés comme les réseaux g
   - [Attention Simple](assets/notebooks/tutoriel-attn.ipynb)
 
   **Laboratoire :** 
-  - (À venir).
 
   **Autres liens pertinents :**
   - <a href="http://nlp.seas.harvard.edu/2018/04/03/attention.html" target="_blank">Code pour Attention Is All You Need</a>
+  - <a href="https://sacred.readthedocs.io/en/latest/" target="_blank">Librairie d'expérimentations</a>
+  - <a href="https://github.com/vivekratnavel/omniboard" target="_blank">Visualisation des expérimentations</a>
+  - <a href="https://medium.com/@hadyelsahar/writing-code-for-natural-language-processing-research-emnlp2018-nlproc-a87367cc5146" target="_blank">Écrire du code pour la recherche</a>
 
 
 - Semaine 12 (2 avril) : Autoencodeurs, Modèles GAN (Generative Adverserial Network)
