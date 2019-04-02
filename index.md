@@ -284,6 +284,11 @@ Nous allons également voir quelques concepts plus avancés comme les réseaux g
   **Acétates :**
   - <a href="http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/09-Attention.pdf" target="_blank">09-Attention.pdf</a>
   - [Attention](assets/slides/09-attention.pdf)
+  - <a href="https://docs.google.com/presentation/d/1gdK9t9JquJM6Y-oCKujf_C8Pey9qf1CjtOviZ1oUULc/edit?usp=sharing" target="_blank">Transformer-Decoder</a>
+  - <a href="https://docs.google.com/presentation/d/1z-UaL8L3lHevd4WK65wWzc6bUOjjMgwKJZtaLoYveqU/edit?usp=sharing" target="_blank">GPT</a>
+  - <a href="https://docs.google.com/presentation/d/1JMbKof2M7FhElASMhobLR-nrSIetU70wUKsi-C90DTo/edit?usp=sharing" target="_blank">BERT</a>
+  - <a href="https://docs.google.com/presentation/d/1e970HuVO8h7Hdu0cfJnpljrP49SPubXHZapwWYO-wpM/edit?usp=sharing" target="_blank">Transformer-XL</a>
+  - <a href="https://docs.google.com/presentation/d/1iHK5jd9gsB4Vz0F_boTrMIJpTlFzn4vATJ_6_iWIEqY/edit?usp=sharing" target="_blank">GPT-2</a>
 
   **Notebooks :**
   - [Attention Simple](assets/notebooks/tutoriel-attn.ipynb)
@@ -295,6 +300,7 @@ Nous allons également voir quelques concepts plus avancés comme les réseaux g
   - <a href="https://sacred.readthedocs.io/en/latest/" target="_blank">Librairie d'expérimentations</a>
   - <a href="https://github.com/vivekratnavel/omniboard" target="_blank">Visualisation des expérimentations</a>
   - <a href="https://medium.com/@hadyelsahar/writing-code-for-natural-language-processing-research-emnlp2018-nlproc-a87367cc5146" target="_blank">Écrire du code pour la recherche</a>
+
 
 
 - Semaine 12 (2 avril) : Autoencodeurs, Modèles GAN (Generative Adverserial Network)
