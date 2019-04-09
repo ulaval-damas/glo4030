@@ -324,28 +324,38 @@ Nous allons également voir quelques concepts plus avancés comme les réseaux g
   - <a href="https://youtu.be/5WoItGTWV54?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&t=2995" target="_blank">Lecture 13 | Generative Models (partie GAN)</a>  
 
 
-- Semaine 13 [TEMP] (9 avril) : Sujets avancés : Ladder Net, Réseaux Siamois et Distillation
-
-  **Acétates :**
-  - <a href="http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/10_SujetsSpeciaux.pdf" target="_blank">10_SujetsSpeciaux.pdf</a>
-    
-  **Vidéos :**
-  - <a href="https://youtu.be/ZlyqNiPFu2s" target="_blank">Ladder Network</a>  
-  - <a href="https://youtu.be/6jfw8MuKwpI?list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF" target="_blank">Siamese Network (Andrew Ng)</a>
-  - <a href="https://youtu.be/d2XB5-tuCWU?list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF" target="_blank">Triplet loss (Andrew Ng)</a>
+- Semaine 13 (9 avril) : Autoencodeurs, Modèles GAN (Generative Adverserial Network) (Suite)
 
 
-- Semaine 14 [TEMP] (16 avril) : TODO
+- Semaine 14 (16 avril) : Pas de cours, période de disponibilité
 
-  **Acétates :**
-    
-  **Vidéos :**
+  **Détails :**
+  - *Toujours* prendre rendez-vous pour me rencontrer.
 
     
 - Semaine 15 (23 avril) : Examen final (GLO-4030 SEULEMENT, PLT-2783 12h30 à 14h20) 
 
+  **Révision :**
+  - RNN/LSTM
+  - Word Embeddings
+  - Modèles de langue
+    - ELMo
+  - Attention
+    - Bahdanau
+    - Attention is all you need
+    - Transformer++
+  - AutoEncoder
+  - GAN
 
-- Semaine 16 [TEMP] (30 avril) : Présentation des affiches, détails à venir. 
+
+
+- Semaine 16 (30 avril) : Présentation des affiches. 
+
+  **Détails :**
+  - Atrium Jean-Guy Paquet
+  - 12h30 @ 13h50: Équipes 1 à 20
+  - 14h00 @ 15h20: Équipes 21 et plus
+  - Une grille d'évaluation vous sera fournie ici.
 
 
 ## Livre
