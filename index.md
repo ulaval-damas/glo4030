@@ -355,7 +355,7 @@ Nous allons également voir quelques concepts plus avancés comme les réseaux g
   - Atrium Jean-Guy Paquet
   - 12h30 @ 13h50: Équipes 1 à 20
   - 14h00 @ 15h20: Équipes 21 et plus
-  - Une grille d'évaluation vous est fournie (sujet à changement de dernière minute): https://docs.google.com/document/d/10AR8lb5rS1iPmcNiPJTO-J9IfzhNGU5GsyCfuNNU6MU/edit?usp=sharing.
+  - Une grille d'évaluation vous est fournie (sujet à changement de dernière minute): [Ici](https://docs.google.com/document/d/10AR8lb5rS1iPmcNiPJTO-J9IfzhNGU5GsyCfuNNU6MU/edit?usp=sharing)
 
 
 ## Livre
