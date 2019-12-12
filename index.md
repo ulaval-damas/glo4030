@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Accueil GLO-4030/7030
+title: Accueil GLO-4030/7030 Hiver 2020 (Site en mise-à-jour)
 ---
 
 <meta name="keywords" content="Deep Learning, course, tutorials, CNN"/>
@@ -77,7 +77,7 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
 
       
    
-- Semaine 1 (15 janvier) : Plan de cours, introduction, réseau linéaire, fonctions d'activation
+- Semaine 1 (14 janvier) : Plan de cours, introduction, réseau linéaire, fonctions d'activation
 
   **Lectures dans le manuel :** Chapitre 1, 6
   
@@ -103,7 +103,7 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
 
   
   
-- Semaine 2 (22 janvier) : Feedforward, Fonctions de perte, Graphes de calcul, Backprop
+- Semaine 2 (21 janvier) : Feedforward, Fonctions de perte, Graphes de calcul, Backprop
 
   **Lectures dans le manuel :** Chapitre 6 
 
@@ -128,7 +128,7 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
 
 
 
-- Semaine 3 (29 janvier) : Initialisation et optimisation 
+- Semaine 3 (28 janvier) : Initialisation et optimisation 
   
   **Lectures dans le manuel :** Chapitre 8
 
@@ -156,7 +156,7 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
 
 
 
-- Semaine 4 (5 février) : Régularisation
+- Semaine 4 (4 février) : Régularisation
   
   **Lectures dans le manuel :** Chapitre 7
   
@@ -177,7 +177,7 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
 
 
 
-- Semaine 5 (12 février) : Réseaux à convolution I (CNN) 
+- Semaine 5 (11 février) : Réseaux à convolution I (CNN) 
   
   **Lectures dans le manuel :** Chapitre 9
   
@@ -199,7 +199,7 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
   <!-- - Laboratoire 5 (À venir) -->
 
 
-- Semaine 6 (19 février) : Réseaux à convolution II (CNN)
+- Semaine 6 (18 février) : Réseaux à convolution II (CNN)
   
   **Lectures dans le manuel :** Chapitre 9
   
@@ -221,7 +221,7 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
 
 
 
-- Semaine 7 (26 février) : Examen Intra (GLO-4030 et GLO-7030) Local : PLT-2783
+- Semaine 7 (25 février) : Examen Intra (GLO-4030 et GLO-7030) Local : à venir
 
   **Acétates :**
   - [Révision](assets/slides/revision.pdf)
@@ -235,7 +235,7 @@ Nous allons également voir quelques concepts plus avancés comme les réseaux g
 
 {:.collapsible}
 
-- Semaine 9 (12 mars) : Retour sur l'examen, Recurrent Neural Networks (RNN)
+- Semaine 9 (10 mars) : Retour sur l'examen, Recurrent Neural Networks (RNN)
 
   **Lectures dans le manuel :** Chapitre 10
 
@@ -251,7 +251,7 @@ Nous allons également voir quelques concepts plus avancés comme les réseaux g
   - [RNNs](assets/notebooks/RNNs - Sol.ipynb)
   
     
-- Semaine 10 (19 mars) : Long Short-Term Memory (LSTM), Gated Recurrent Unit (GRU), Word Embeddings, DeepRNN, Modèles de langue
+- Semaine 10 (17 mars) : Long Short-Term Memory (LSTM), Gated Recurrent Unit (GRU), Word Embeddings, DeepRNN, Modèles de langue
 
   **Lectures dans le manuel :** Chapitre 10
 
@@ -275,7 +275,7 @@ Nous allons également voir quelques concepts plus avancés comme les réseaux g
   - RNN et LSTM
 
 
-- Semaine 11 (26 mars) : Seq2Seq, Modèles d'attention
+- Semaine 11 (24 mars) : Seq2Seq, Modèles d'attention
 
   **Lectures dans le manuel :** Section 10.12 Explicit Memory
 
@@ -307,7 +307,7 @@ Nous allons également voir quelques concepts plus avancés comme les réseaux g
 
 
 
-- Semaine 12 (2 avril) : Autoencodeurs, Modèles GAN (Generative Adverserial Network)
+- Semaine 12 (31 mars) : Autoencodeurs, Modèles GAN (Generative Adverserial Network)
 
   **Acétates :**
   - <a href="http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/08-Autoencoder.pdf" target="_blank">08-Autoencoder.pdf</a>
@@ -328,16 +328,16 @@ Nous allons également voir quelques concepts plus avancés comme les réseaux g
   - <a href="https://youtu.be/5WoItGTWV54?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&t=2995" target="_blank">Lecture 13 | Generative Models (partie GAN)</a>  
 
 
-- Semaine 13 (9 avril) : Autoencodeurs, Modèles GAN (Generative Adverserial Network) (Suite)
+- Semaine 13 (7 avril) : Autoencodeurs, Modèles GAN (Generative Adverserial Network) (Suite)
 
 
-- Semaine 14 (16 avril) : Pas de cours, période de disponibilité
+- Semaine 14 (14 avril) : À déterminer
 
   **Détails :**
   - *Toujours* prendre rendez-vous pour me rencontrer.
 
     
-- Semaine 15 (23 avril) : Examen final (GLO-4030 SEULEMENT, PLT-2783 12h30 à 14h20) 
+- Semaine 15 (21 avril) : Examen final (GLO-4030 SEULEMENT, 12h30 à 14h20, local à venir) 
 
   **Révision :**
   - RNN/LSTM
