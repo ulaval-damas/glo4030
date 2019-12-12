@@ -9,8 +9,8 @@ title: Accueil GLO-4030/7030 Hiver 2020 (Site en mise-à-jour)
 
 | Jour     | Heure               | Local    |
 |----------|---------------------|----------|
-| Mardi    | 12h30 à 15h20       | PLT-2783 |
-| Vendredi | 9h30 à 10h30        | PLT-3920 |
+| Mardi    | 12h30 à 15h20       | À venir  |
+| Vendredi |  8h30 à 10h20       | À venir  |
 
 ## Ressource Jupyter de Calcul-Québec (pour GPU)
 
