@@ -212,7 +212,7 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
   <!-- - <a href="http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/07-SpatialTransformNet.pdf" target="_blank">07-SpatialTransformNet.pdf</a> -->
   
   **Présentations orales GLO-7030 :** 
- <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRj4ZKK-hoIRwsCNTzAz8adJr5aFS4KCInby_4aRCtwDwZP-_eg0VG76kzHG3ZwbY65fCa3tKxtjaY5/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false&amp;range=B1:E11" width="500" height="350"></iframe>
+ <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRj4ZKK-hoIRwsCNTzAz8adJr5aFS4KCInby_4aRCtwDwZP-_eg0VG76kzHG3ZwbY65fCa3tKxtjaY5/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false&amp;range=B1:E11" width="700" height="300"></iframe>
 
 - Semaine 7 (25 février) : Examen Intra (GLO-4030 et GLO-7030) Local : à venir
 
