@@ -31,8 +31,7 @@ Pendant la période de laboratoire, nous avons une priorité d'accès, sous la r
 
 ## Présentation de votre projet (GLO-7030 seulement)
 
-Pour la présentation de votre projet, vous devez préparer et présenter une affiche.
-Un [template](https://github.com/GRAAL-Research/graal-poster) vous est mis à disposition et il vous est fortement recommandé de l'utiliser pour vous faciliter le travail.
+Pour la présentation de votre projet, nous utiliserons la formule "Ma thèse en 180 secondes". Un seul des membres de l'équipe présentera, **mais la note sera attribuée à l'équipe entière**. L'équipe aura donc tout intérêt à assister le présentateur, tant dans l'élaboration de la seule acétate que dans les pratiques. L'équipe n'a droit qu'à une seule acétate, non-animée, en format pdf. La présentation sera jugé sur sa qualité et sa clarté, et non pas sur le mérite technique de l'approche utilisée.
 
 <!-- <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTnYDfcPNLtDa9jsUvpOHuilBx3zL832-b54grHpY4N_5TffQjIT88IcOW6n4vgxbnpelLPXbDJX4Ll/pubhtml?gid=0&amp;single=true&amp;range=A1:E33&amp;headers=false&amp;widget=false&amp;headers=false&amp;chrome=false" width="800" height="600"></iframe> -->
 
@@ -331,7 +330,7 @@ Nous allons également voir quelques concepts plus avancés comme les réseaux g
 - Semaine 13 (7 avril) : Autoencodeurs, Modèles GAN (Generative Adverserial Network) (Suite)
 
 
-- Semaine 14 (14 avril) : À déterminer
+- Semaine 14 (14 avril) : Présentation des projets GLO-7030 en formule 180 secondes
 
   **Détails :**
   - *Toujours* prendre rendez-vous pour me rencontrer.
