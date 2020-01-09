@@ -22,8 +22,8 @@ Pendant la période de laboratoire, nous avons une priorité d'accès, sous la r
 
 ## Travaux pratiques
 
-- TP1: remise 9 févr. 2020 à 23h59.
-- TP2: remise 15 mars 2019, 23h59.
+- TP1 : remise 9 févr. 2020 à 23h59.
+- TP2 : remise 15 mars 2020, 23h59.
 
 ## Jeux de données pour idées de projet
 
