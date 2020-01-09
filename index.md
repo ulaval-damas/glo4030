@@ -9,8 +9,8 @@ title: Accueil GLO-4030/7030 Hiver 2020 (Site en mise-à-jour)
 
 | Jour     | Heure               | Local    |
 |----------|---------------------|----------|
-| Mardi    | 12h30 à 15h20       | À venir  |
-| Vendredi |  8h30 à 10h20       | À venir  |
+| Mardi    | 12h30 à 15h20       | PLT-2700  |
+| Vendredi |  8h30 à 10h20       | PLT-3920  |
 
 ## Ressource Jupyter de Calcul-Québec (pour GPU)
 
@@ -22,10 +22,10 @@ Pendant la période de laboratoire, nous avons une priorité d'accès, sous la r
 
 ## Travaux pratiques
 
--  remise 8 février 2019, 23h59.
-- , remise 15 mars 2019, 23h59.
+- TP1: remise 9 févr. 2020 à 23h59.
+- TP2: remise 15 mars 2019, 23h59.
 
-## Jeux de données 
+## Jeux de données pour idées de projet
 
 [datalist.com](https://www.datasetlist.com/)
 
@@ -73,7 +73,6 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
    - [Cours sur Fast.ai](https://course.fast.ai/ml)
    
    
-
       
    
 - Semaine 1 (14 janvier) : Plan de cours, introduction, réseau linéaire, fonctions d'activation
@@ -150,7 +149,6 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
   
   **Laboratoire :** 
   - [Laboratoire 3](https://github.com/ulaval-damas/glo4030-labs/blob/master/Laboratoire%203.ipynb)
-  <!-- - Laboratoire 3 (À venir) -->
 
 
 
@@ -171,7 +169,7 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
 
   **Laboratoire :** 
   - [Laboratoire 4](https://github.com/ulaval-damas/glo4030-labs/blob/master/Laboratoire%204.ipynb)
-  <!-- - Laboratoire 4 (À venir) -->
+
 
 
 
@@ -195,7 +193,6 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
   
   **Laboratoire :** 
   - [Laboratoire 5](https://github.com/ulaval-damas/glo4030-labs/blob/master/Laboratoire%205.ipynb)
-  <!-- - Laboratoire 5 (À venir) -->
 
 
 - Semaine 6 (18 février) : Réseaux à convolution II (CNN)
@@ -214,8 +211,8 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
   <!-- - <a href="http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/06-CNN.pdf" target="_blank">06-CNN.pdf</a> -->
   <!-- - <a href="http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/07-SpatialTransformNet.pdf" target="_blank">07-SpatialTransformNet.pdf</a> -->
   
-  **Laboratoire :** 
-  - Pas de laboratoire cette semaine.
+  **Présentations orales GLO-7030 :** 
+ <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRj4ZKK-hoIRwsCNTzAz8adJr5aFS4KCInby_4aRCtwDwZP-_eg0VG76kzHG3ZwbY65fCa3tKxtjaY5/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 
 
@@ -331,9 +328,6 @@ Nous allons également voir quelques concepts plus avancés comme les réseaux g
 
 
 - Semaine 14 (14 avril) : Présentation des projets GLO-7030 en formule 180 secondes
-
-  **Détails :**
-  - *Toujours* prendre rendez-vous pour me rencontrer.
 
     
 - Semaine 15 (21 avril) : Examen final (GLO-4030 SEULEMENT, 12h30 à 14h20, local à venir) 
