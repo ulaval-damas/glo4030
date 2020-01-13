@@ -93,7 +93,7 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
   - [Feedforward neural network - activation function](https://youtu.be/tCHIkgWZLOQ?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
   
   **Acétates :**  
-  - [Introduction](assets/slides/01-intro.pdf)
+  - À venir
   
   **Laboratoire :** Introduction à Pytorch et premiers essais sur des données standards (MNIST, CIFAR-10)
   - [Laboratoire 1](https://github.com/ulaval-damas/glo4030-labs/blob/master/Laboratoire%201.ipynb)
@@ -106,7 +106,7 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
   **Lectures dans le manuel :** Chapitre 6 
 
   **Acétates :**
-  - [Fonctions de pertes et graphe de calcul](assets/slides/02-loss-graph.pdf)
+  - À Venir
 
   **Vidéos :**
   - [Training neural networks - empirical risk minimization](https://youtu.be/5adNQvSlF50?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
@@ -131,7 +131,7 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
   **Lectures dans le manuel :** Chapitre 8
 
   **Acétates :**   
-  - [Optimisation et initilisation](assets/slides/03-optim.pdf)
+  - À venir
   
   **Vidéos :**
   - [Training neural networks - parameter initialization](https://youtu.be/sLfogkzFNfc?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
@@ -157,8 +157,8 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
   
   **Lectures dans le manuel :** Chapitre 7
   
-  **Acétates :** <a href="http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/04-Regularisation.pdf" target="_blank">04-Regularisation.pdf</a>
-  - [Régularisation](assets/slides/04-regularisation.pdf)
+  **Acétates :** 
+  - À venir
   
   **Vidéos :** 
   - [Training neural networks - regularization](https://youtu.be/JfkbyODyujw?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
@@ -189,7 +189,7 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
   - <a href="https://youtu.be/DAOcjicFr1Y?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv" target="_blank">cs231n Lecture 9 | CNN Architectures</a>
   
   **Acétates :**
-  - [CNN 1](assets/slides/05-cnn-1.pdf)
+  - À venir
   
   **Laboratoire :** 
   - [Laboratoire 5](https://github.com/ulaval-damas/glo4030-labs/blob/master/Laboratoire%205.ipynb)
@@ -207,9 +207,7 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
    
   
   **Acétates :**
-  - [CNN 2](assets/slides/06-cnn-1.pdf)
-  <!-- - <a href="http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/06-CNN.pdf" target="_blank">06-CNN.pdf</a> -->
-  <!-- - <a href="http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/07-SpatialTransformNet.pdf" target="_blank">07-SpatialTransformNet.pdf</a> -->
+  - À venir
   
   **Présentations orales GLO-7030 :** 
  <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRj4ZKK-hoIRwsCNTzAz8adJr5aFS4KCInby_4aRCtwDwZP-_eg0VG76kzHG3ZwbY65fCa3tKxtjaY5/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false&amp;range=A1:E11" width="720" height="300"></iframe>
@@ -218,7 +216,7 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
 - Semaine 7 (25 février) : Examen Intra (GLO-4030 et GLO-7030) Local : à venir
 
   **Acétates :**
-  - [Révision](assets/slides/revision.pdf)
+  - À venir
 
 
 
@@ -228,7 +226,6 @@ La deuxième moitié du cours portera majoritairement sur les modèle récurrent
 Nous allons également voir quelques concepts plus avancés comme les réseaux génératifs (GAN) et les modèles d'attention.
 
 {:.collapsible}
-
 - Semaine 9 (10 mars) : Retour sur l'examen, Recurrent Neural Networks (RNN)
 
   **Lectures dans le manuel :** Chapitre 10
@@ -238,21 +235,19 @@ Nous allons également voir quelques concepts plus avancés comme les réseaux g
   - Lire le chapitre 10 avant de regarder : <a href="https://youtu.be/AYku9C9XoB8" target="_blank">Y. Bengio - RNN (DLSS 2017)</a>
   
   **Acétates :**
-  - [RNN](assets/slides/07-rnn.pdf)
+  - À venir
 
   **Notebooks :** 
   - [Parameters](assets/notebooks/Parameters - Sol.ipynb)
   - [RNNs](assets/notebooks/RNNs - Sol.ipynb)
   
-    
+{:.collapsible}
 - Semaine 10 (17 mars) : Long Short-Term Memory (LSTM), Gated Recurrent Unit (GRU), Word Embeddings, DeepRNN, Modèles de langue
 
   **Lectures dans le manuel :** Chapitre 10
 
   **Acétates :**
-  - [LSTM](assets/slides/07-lstm.pdf)
-  - [Embeddings](assets/slides/08-embeddings.pdf)
-  - [Modèles de langue](assets/slides/08-modeles-langue.pdf)
+  - À venir
 
   **Autres lectures :**
   - <a href="http://colah.github.io/posts/2015-08-Understanding-LSTMs/" target="_blank">Understanding LSTM</a>
@@ -268,7 +263,7 @@ Nous allons également voir quelques concepts plus avancés comme les réseaux g
   **Laboratoire :** 
   - RNN et LSTM
 
-
+{:.collapsible}
 - Semaine 11 (24 mars) : Seq2Seq, Modèles d'attention
 
   **Lectures dans le manuel :** Section 10.12 Explicit Memory
@@ -280,13 +275,7 @@ Nous allons également voir quelques concepts plus avancés comme les réseaux g
   - <a href="https://arxiv.org/pdf/1411.2738.pdf" target="_blank">word2vec Parameter Learning Explained</a>
 
   **Acétates :**
-  - <a href="http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/09-Attention.pdf" target="_blank">09-Attention.pdf</a>
-  - [Attention](assets/slides/09-attention.pdf)
-  - <a href="https://docs.google.com/presentation/d/1gdK9t9JquJM6Y-oCKujf_C8Pey9qf1CjtOviZ1oUULc/edit?usp=sharing" target="_blank">Transformer-Decoder</a>
-  - <a href="https://docs.google.com/presentation/d/1z-UaL8L3lHevd4WK65wWzc6bUOjjMgwKJZtaLoYveqU/edit?usp=sharing" target="_blank">GPT</a>
-  - <a href="https://docs.google.com/presentation/d/1JMbKof2M7FhElASMhobLR-nrSIetU70wUKsi-C90DTo/edit?usp=sharing" target="_blank">BERT</a>
-  - <a href="https://docs.google.com/presentation/d/1e970HuVO8h7Hdu0cfJnpljrP49SPubXHZapwWYO-wpM/edit?usp=sharing" target="_blank">Transformer-XL</a>
-  - <a href="https://docs.google.com/presentation/d/1iHK5jd9gsB4Vz0F_boTrMIJpTlFzn4vATJ_6_iWIEqY/edit?usp=sharing" target="_blank">GPT-2</a>
+  - À venir
 
   **Notebooks :**
   - [Attention Simple](assets/notebooks/tutoriel-attn.ipynb)
@@ -300,13 +289,12 @@ Nous allons également voir quelques concepts plus avancés comme les réseaux g
   - <a href="https://medium.com/@hadyelsahar/writing-code-for-natural-language-processing-research-emnlp2018-nlproc-a87367cc5146" target="_blank">Écrire du code pour la recherche</a>
 
 
-
+{:.collapsible}
 - Semaine 12 (31 mars) : Autoencodeurs, Modèles GAN (Generative Adverserial Network)
 
   **Acétates :**
-  - <a href="http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/08-Autoencoder.pdf" target="_blank">08-Autoencoder.pdf</a>
-  - <a href="http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/11-GANs.pdf" target="_blank">11-GANs</a>
-
+  - À venir
+  
   **Autres Liens :**
   - <a href="https://github.com/soumith/ganhacks" target="_blank">Trucs et astuces pour entrainer des GANs</a>  
     
@@ -357,7 +345,7 @@ Nous allons également voir quelques concepts plus avancés comme les réseaux g
   - GAN
 
 
-
+{:.collapsible}
 - Semaine 16 (30 avril) : Présentation des affiches. 
 
   **Détails :**
