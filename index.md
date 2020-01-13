@@ -46,10 +46,6 @@ Pour accélérer les leçons, des vidéos produite entre autre par Hugo Larochel
 
 Cette première moitié du cours introduit les connaissances nécessaires pour concevoir et entraîner des réseaux profonds, particulièrement dans un contexte de reconnaissance d'images.
 
-
-
-[TEMP] indique que l'entrée de semaine est en cours de rédaction.
-
 {:.collapsible}
 - Semaine 0 : Mise à niveau : apprentissage automatique, probabilités, etc.
 
