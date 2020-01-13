@@ -344,16 +344,8 @@ Nous allons également voir quelques concepts plus avancés comme les réseaux g
   - AutoEncoder
   - GAN
 
-
 {:.collapsible}
-- Semaine 16 (30 avril) : Présentation des affiches. 
-
-  **Détails :**
-  - Atrium Jean-Guy Paquet
-  - 12h30 @ 13h50: Équipes 1 à 20
-  - 14h00 @ 15h20: Équipes 21 et plus
-  - Une grille d'évaluation vous est fournie (sujet à changement de dernière minute): [Ici](https://docs.google.com/document/d/10AR8lb5rS1iPmcNiPJTO-J9IfzhNGU5GsyCfuNNU6MU/edit?usp=sharing)
-
+- Semaine 16 (30 avril) : Backup pour les présentations d'article 
 
 ## Livre
 Le livre (obligatoire) est **Deep Learning** par Goodfellow, Bengio et Courville.
