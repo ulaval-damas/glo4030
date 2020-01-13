@@ -323,12 +323,6 @@ Nous allons également voir quelques concepts plus avancés comme les réseaux g
 {:.collapsible}
 - Semaine 15 (21 avril) : Examen final (GLO-4030 SEULEMENT, 12h30 à 14h20, local à venir) 
 
-  **Présentations orales GLO-7030 (Mardi)** 
- <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRj4ZKK-hoIRwsCNTzAz8adJr5aFS4KCInby_4aRCtwDwZP-_eg0VG76kzHG3ZwbY65fCa3tKxtjaY5/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false&amp;range=A52:E67" width="720" height="300"></iframe>
- 
-   **Présentations orales GLO-7030 (Vendredi)** 
- <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRj4ZKK-hoIRwsCNTzAz8adJr5aFS4KCInby_4aRCtwDwZP-_eg0VG76kzHG3ZwbY65fCa3tKxtjaY5/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false&amp;range=A68:E77" width="720" height="300"></iframe>
- 
   **Révision :**
   - RNN/LSTM
   - Word Embeddings
@@ -341,8 +335,12 @@ Nous allons également voir quelques concepts plus avancés comme les réseaux g
   - AutoEncoder
   - GAN
 
-{:.collapsible}
-- Semaine 16 (30 avril) : Backup pour les présentations d'article 
+  **Présentations orales GLO-7030 (Mardi)** 
+ <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRj4ZKK-hoIRwsCNTzAz8adJr5aFS4KCInby_4aRCtwDwZP-_eg0VG76kzHG3ZwbY65fCa3tKxtjaY5/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false&amp;range=A52:E67" width="720" height="300"></iframe>
+ 
+   **Présentations orales GLO-7030 (Vendredi)** 
+ <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRj4ZKK-hoIRwsCNTzAz8adJr5aFS4KCInby_4aRCtwDwZP-_eg0VG76kzHG3ZwbY65fCa3tKxtjaY5/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false&amp;range=A68:E77" width="720" height="300"></iframe>
+ 
 
 ## Livre
 Le livre (obligatoire) est **Deep Learning** par Goodfellow, Bengio et Courville.
