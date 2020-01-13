@@ -14,15 +14,15 @@ title: Accueil GLO-4030/7030 Hiver 2020 (Site en mise-à-jour)
 
 ## Ressource Jupyter de Calcul-Québec (pour GPU)
 
-[https://jupyter.calculquebec.ca/](https://jupyter.calculquebec.ca/)
+[https://jupyterhub.helios.calculquebec.ca/](https://jupyterhub.helios.calculquebec.ca/)
 
-Pendant la période de laboratoire, nous avons une priorité d'accès, sous la réservation ``glo4030``. En dehors de la période de laboratoire, votre requête de notebook passera par une file d'attente.
+Pendant la période des laboratoires, nous avons une priorité d'accès, sous la réservation ``glo4030``. En dehors de la période de laboratoire, votre requête de notebook passera par une file d'attente.
 
 [Site web des laboratoires](https://github.com/ulaval-damas/glo4030-labs)
 
 ## Travaux pratiques
 
-- TP1 : remise 9 févr. 2020 à 23h59.
+- TP1 : remise 9 février 2020 à 23h59.
 - TP2 : remise 15 mars 2020, 23h59.
 
 ## Jeux de données pour idées de projet
