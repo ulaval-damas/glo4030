@@ -89,7 +89,7 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
   - [Feedforward neural network - activation function](https://youtu.be/tCHIkgWZLOQ?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
   
   **Acétates :**  
-  - [01-Introduction-2020.pdf](https://github.com/ulaval-damas/glo4030/blob/master/assets/slides/01-Introduction-2020.pdf)
+  - [01-Introduction-2020.pdf](http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/2020/01-Introduction-2020.pdf)
   
   **Laboratoire :** Introduction à Pytorch et premiers essais sur des données standards (MNIST, CIFAR-10)
   - [Laboratoire 1](https://github.com/ulaval-damas/glo4030-labs/blob/master/Laboratoire%201.ipynb)
