@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Accueil GLO-4030/7030 Hiver 2020 (Site en mise-à-jour)
+title: Accueil GLO-4030/7030 Hiver 2020
 ---
 
 <meta name="keywords" content="Deep Learning, course, tutorials, CNN"/>
