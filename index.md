@@ -27,8 +27,8 @@ Pendant la période des laboratoires, nous avons une priorité d'accès, sous la
 
 ## Jeux de données pour idées de projet
 
-[datalist.com](https://www.datasetlist.com/)
-[paperswithcode.com](https://paperswithcode.com)
+- [datalist.com](https://www.datasetlist.com/)
+- [paperswithcode.com](https://paperswithcode.com/sota)
 
 ## Présentation de votre projet (GLO-7030 seulement)
 
