@@ -365,6 +365,6 @@ Le framework utilisé dans le cours est PyTorch. Voici quelques liens utiles:
 
 - <https://github.com/bharathgs/Awesome-pytorch-list>
 - <https://github.com/aaron-xichen/pytorch-playground>
-
+ 
 #### En savoir plus
 - <http://cs231n.stanford.edu/index.html>
