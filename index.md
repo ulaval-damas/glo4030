@@ -16,7 +16,7 @@ title: Accueil GLO-4030/7030 Hiver 2020
 
 [https://jupyterhub.helios.calculquebec.ca/](https://jupyterhub.helios.calculquebec.ca/)
 
-Pendant la période des laboratoires, nous avons une priorité d'accès, sous la réservation ``glo4030``. En dehors de la période de laboratoire, votre requête de notebook passera par une file d'attente.
+Pendant la période des laboratoires, nous avons une priorité d'accès, sous la réservation ``GLO7030``. En dehors de la période de laboratoire, votre requête de notebook passera par une file d'attente.
 
 [Site web des laboratoires](https://github.com/ulaval-damas/glo4030-labs)
 
