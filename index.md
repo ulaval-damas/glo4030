@@ -261,7 +261,7 @@ Nous allons également voir quelques concepts plus avancés comme les réseaux g
   - RNN et LSTM
 
 {:.collapsible}
-- Semaine 11 (24 mars) : Seq2Seq, Modèles d'attention
+- Semaine 11 (24 mars) : Seq2Seq, Modèles d'attention, Détection d'objet
 
   **Lectures dans le manuel :** Section 10.12 Explicit Memory
 
@@ -287,7 +287,7 @@ Nous allons également voir quelques concepts plus avancés comme les réseaux g
 
 
 {:.collapsible}
-- Semaine 12 (31 mars) : Autoencodeurs, Modèles GAN (Generative Adverserial Network)
+- Semaine 12 (31 mars) : Autoencodeurs, Segmentation d'image
 
   **Acétates :**
   - À venir
@@ -310,7 +310,7 @@ Nous allons également voir quelques concepts plus avancés comme les réseaux g
  <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRj4ZKK-hoIRwsCNTzAz8adJr5aFS4KCInby_4aRCtwDwZP-_eg0VG76kzHG3ZwbY65fCa3tKxtjaY5/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false&amp;range=A22:E31" width="740" height="300"></iframe>
 
 {:.collapsible}
-- Semaine 13 (7 avril) : Autoencodeurs, Modèles GAN (Generative Adverserial Network) (Suite)
+- Semaine 13 (7 avril) : Modèles GAN (Generative Adverserial Network)
 
   **Présentations orales GLO-7030 (Vendredi)** 
  <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRj4ZKK-hoIRwsCNTzAz8adJr5aFS4KCInby_4aRCtwDwZP-_eg0VG76kzHG3ZwbY65fCa3tKxtjaY5/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false&amp;range=A32:E41" width="740" height="300"></iframe>
