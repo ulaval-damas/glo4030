@@ -128,7 +128,7 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
   **Lectures dans le manuel :** Chapitre 8
 
   **Acétates :**   
-  - À venir
+  - [03-Optimisation.pdf](http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/2020/03-Optimisation.pdf) 
   
   **Vidéos :**
   - [Training neural networks - parameter initialization](https://youtu.be/sLfogkzFNfc?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
