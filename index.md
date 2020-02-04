@@ -155,7 +155,7 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
   **Lectures dans le manuel :** Chapitre 7
   
   **Acétates :** 
-  - À venir
+  - [04-Regularisation-2020.pdf](http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/2020/04-Regularisation-2020.pdf) 
   
   **Vidéos :** 
   - [Training neural networks - regularization](https://youtu.be/JfkbyODyujw?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
