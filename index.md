@@ -22,7 +22,7 @@ Pendant la période des laboratoires, nous avons une priorité d'accès, sous la
 
 ## Travaux pratiques
 
-- [TP1](http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/2020/TP1_remise.2020.zip) : remise 10 février 2020 à 23h59.
+- [TP1](http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/2020/TP1_remise.v.1.01.2020.zip) : remise 10 février 2020 à 23h59.
 - TP2 : remise 15 mars 2020, 23h59.
 
 ## Jeux de données pour idées de projet
