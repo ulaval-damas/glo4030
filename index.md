@@ -26,7 +26,7 @@ Pendant la période des laboratoires, nous avons une priorité d'accès, sous la
 - TP2 : remise 15 mars 2020, 23h59.
 
 ## Jeux de données pour idées de projet
-- Nouveau! Projet de cartographie assistée du Ministère des Forêts, de la Faune et des Parcs! [Description](http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/2020/MFFP-CartographieAssistee.pdf)
+- **Nouveau!** Projet de cartographie assistée du Ministère des Forêts, de la Faune et des Parcs! [Description](http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/2020/MFFP-CartographieAssistee.pdf)
 - [datalist.com](https://www.datasetlist.com/)
 - [paperswithcode.com](https://paperswithcode.com/sota)
 
