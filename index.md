@@ -20,6 +20,10 @@ Pendant la période des laboratoires, nous avons une priorité d'accès, sous la
 
 [Site web des laboratoires](https://github.com/ulaval-damas/glo4030-labs)
 
+## Exercices non-évalués
+- Quelques exercices sur les CNN [ExercicesCNN.pdf](http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/2020/ExercicesCNN.pdf). Le solutionnaire n'est pas disponibile pour l'instant, par manque de temps.
+
+
 ## Travaux pratiques
 
 - [TP1](http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/2020/TP1_remise.v.1.01.2020.zip) : remise 14 février 2020 à 23h59.
