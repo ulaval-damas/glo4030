@@ -220,9 +220,7 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
 - Semaine 7 (25 février) : Examen Intra (GLO-4030 et GLO-7030) Local : à venir
 
   **Acétates :**
-  - À venir
-
-
+  -   - [06-CNN-2020.pdf](http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/2020/06-CNN-2020.pdf) 
 
 ### Deuxième moitié
 
