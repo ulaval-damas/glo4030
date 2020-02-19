@@ -214,7 +214,7 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
   - [06-CNN-2020.pdf](http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/2020/06-CNN-2020.pdf) 
 
   
-  **Présentations orales GLO-7030 :** 
+  **Présentations orales GLO-7030 (PLT-1120 à 9 AM)** 
  <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRj4ZKK-hoIRwsCNTzAz8adJr5aFS4KCInby_4aRCtwDwZP-_eg0VG76kzHG3ZwbY65fCa3tKxtjaY5/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false&amp;range=A1:E11" width="740" height="300"></iframe>
 
 {:.collapsible}
