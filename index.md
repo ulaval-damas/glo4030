@@ -22,6 +22,7 @@ Pendant la période des laboratoires, nous avons une priorité d'accès, sous la
 
 ## Exercices non-évalués
 - Quelques exercices sur les CNN [ExercicesCNN.pdf](http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/2020/ExercicesCNN.pdf). Le solutionnaire n'est pas disponibile pour l'instant, par manque de temps.
+- Deuxième série d'exercices [ExercicesII.pdf](http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/2020/ExercicesII.pdf)
 
 
 ## Travaux pratiques
