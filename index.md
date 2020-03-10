@@ -237,7 +237,8 @@ Nous allons également voir quelques concepts plus avancés comme les réseaux g
   - Lire le chapitre 10 avant de regarder : <a href="https://youtu.be/AYku9C9XoB8" target="_blank">Y. Bengio - RNN (DLSS 2017)</a>
   
   **Acétates :**
-  - À venir
+  - [07-RNN-2020.pdf](http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/2020/07-RNN-2020.pdf) 
+
 
   **Notebooks :** 
   - [Parameters](assets/notebooks/Parameters - Sol.ipynb)
