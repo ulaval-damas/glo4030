@@ -240,6 +240,7 @@ Nous allons également voir quelques concepts plus avancés comme les réseaux g
 
 
   **Notebooks :** 
+  - [Laboratoire](https://github.com/ulaval-damas/glo4030-labs/blob/master/Laboratoire%206.ipynb)
   - [Parameters](assets/notebooks/Parameters - Sol.ipynb)
   - [RNNs](assets/notebooks/RNNs - Sol.ipynb)
   
