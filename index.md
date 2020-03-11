@@ -226,6 +226,7 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
 La deuxième moitié du cours portera majoritairement sur les modèle récurrents.
 Nous allons également voir quelques concepts plus avancés comme les réseaux génératifs (GAN) et les modèles d'attention.
 
+{:.collapsible}
 - Semaine 9 (10 mars) : Retour sur l'examen, Recurrent Neural Networks (RNN)
 
   **Lectures dans le manuel :** Chapitre 10
