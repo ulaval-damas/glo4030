@@ -256,7 +256,6 @@ Nous allons également voir quelques concepts plus avancés comme les réseaux g
  
 - Semaine 10 (17 mars) : Activités annulées
 
-{:.collapsible}
 - Semaine 10* (24 mars) : Long Short-Term Memory (LSTM), Gated Recurrent Unit (GRU), Word Embeddings, DeepRNN, Modèles de langue
 
   **Lectures dans le manuel :** Chapitre 10
@@ -306,9 +305,8 @@ Nous allons également voir quelques concepts plus avancés comme les réseaux g
   - <a href="https://github.com/vivekratnavel/omniboard" target="_blank">Visualisation des expérimentations</a>
   - <a href="https://medium.com/@hadyelsahar/writing-code-for-natural-language-processing-research-emnlp2018-nlproc-a87367cc5146" target="_blank">Écrire du code pour la recherche</a>
 
-
 {:.collapsible}
-- Semaine 12* (7 avril mars) : Autoencodeurs, Segmentation d'image
+- Semaine 12* (7 avril) : Autoencodeurs, Segmentation d'image
 
   **Acétates :**
   - À venir
