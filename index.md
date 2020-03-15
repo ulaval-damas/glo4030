@@ -5,6 +5,9 @@ title: Accueil GLO-4030/7030 Hiver 2020
 
 <meta name="keywords" content="Deep Learning, course, tutorials, CNN"/>
 
+## COVID-19
+Notez que l'horaire a passablement changé. Lisez vos courriels régulièrement!
+
 ## Horaire
 
 | Jour     | Heure               | Local    |
@@ -28,7 +31,7 @@ Pendant la période des laboratoires, nous avons une priorité d'accès, sous la
 ## Travaux pratiques
 
 - [TP1](http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/2020/TP1_remise.v.1.01.2020.zip) : remise 14 février 2020 à 23h59.
-- TP2 : remise 15 mars 2020, 23h59.
+- TP2 : remise 10 avril 2020, 23h59. *à confirmer en fonction des politiques officielles*
 
 ## Jeux de données pour idées de projet
 - **Nouveau!** Projet de détection de Cerfs dans des images (Biologie) [Description](http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/2020/DétectionCerfsImages.pdf)
@@ -36,9 +39,12 @@ Pendant la période des laboratoires, nous avons une priorité d'accès, sous la
 - [datalist.com](https://www.datasetlist.com/)
 - [paperswithcode.com](https://paperswithcode.com/sota)
 
+## Présentations orales de l’article (GLO-7030)
+Au lieu d’une présentation de 10 minutes en direct, vous allez faire une capsule vidéo narrée de 10 minutes. Vous pouvez utiliser les fonctionalités de Powerpoint https://www.enseigner.ulaval.ca/ressources-pedagogiques/capsules-narrees . Vous pouvez aussi faire une capture d’écran + son directement de votre PC avec Screen-O-matic https://www.ene.ulaval.ca/captation-numerique . Si l’Université ne possède pas suffisamment de licences, n’hésitez pas à trouver d’autres solutions gratuites en ligne (et les indiquer sur le forum COVID-19). Ne vous inquiétez pas si ces solutions gratuites ajoutent des watermark/filigranes : vous ne serez pas pénalisés. Vous mettrez cette vidéo sur youtube, et j’ajouterai le lien sur le site du cours pour que les autres puissent les regarder. Les dates butoirs pour les remises de ces vidéos sont déplacées d’une semaine par rapport au calendrier original.  
+
 ## Présentation de votre projet (GLO-7030 seulement)
 
-Pour la présentation de votre projet, nous utiliserons la formule "Ma thèse en 180 secondes". Un seul des membres de l'équipe présentera, **mais la note sera attribuée à l'équipe entière**. L'équipe aura donc tout intérêt à assister le présentateur, tant dans l'élaboration de la seule acétate que dans les pratiques. L'équipe n'a droit qu'à une seule acétate, non-animée, en format pdf. La présentation sera jugé sur sa qualité et sa clarté, et non pas sur le mérite technique de l'approche utilisée.
+Pour la présentation de votre projet, nous utiliserons la formule "Ma thèse en 180 secondes". Vous devrez faire une vidéo narrée de 3 minutes. L'équipe n'a droit qu'à une seule acétate, non-animée, en format pdf. La présentation sera jugé sur sa qualité et sa clarté, et non pas sur le mérite technique de l'approche utilisée.
 
 <!-- <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTnYDfcPNLtDa9jsUvpOHuilBx3zL832-b54grHpY4N_5TffQjIT88IcOW6n4vgxbnpelLPXbDJX4Ll/pubhtml?gid=0&amp;single=true&amp;range=A1:E33&amp;headers=false&amp;widget=false&amp;headers=false&amp;chrome=false" width="800" height="600"></iframe> -->
 
@@ -243,9 +249,13 @@ Nous allons également voir quelques concepts plus avancés comme les réseaux g
   - [Laboratoire](https://github.com/ulaval-damas/glo4030-labs/blob/master/Laboratoire%206.ipynb)
   - [Parameters](assets/notebooks/Parameters - Sol.ipynb)
   - [RNNs](assets/notebooks/RNNs - Sol.ipynb)
-  
+ 
+ 
 {:.collapsible}
-- Semaine 10 (17 mars) : Long Short-Term Memory (LSTM), Gated Recurrent Unit (GRU), Word Embeddings, DeepRNN, Modèles de langue
+- Semaine 10 (17 mars) : Activités annulées
+
+{:.collapsible}
+- Semaine 10* (24 mars) : Long Short-Term Memory (LSTM), Gated Recurrent Unit (GRU), Word Embeddings, DeepRNN, Modèles de langue
 
   **Lectures dans le manuel :** Chapitre 10
 
@@ -270,7 +280,7 @@ Nous allons également voir quelques concepts plus avancés comme les réseaux g
  <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRj4ZKK-hoIRwsCNTzAz8adJr5aFS4KCInby_4aRCtwDwZP-_eg0VG76kzHG3ZwbY65fCa3tKxtjaY5/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false&amp;range=A12:E21" width="740" height="300"></iframe>
 
 {:.collapsible}
-- Semaine 11 (24 mars) : Seq2Seq, Modèles d'attention, Détection d'objet
+- Semaine 11* (31 mars) : Seq2Seq, Modèles d'attention, Détection d'objet
 
   **Lectures dans le manuel :** Section 10.12 Explicit Memory
 
@@ -296,7 +306,7 @@ Nous allons également voir quelques concepts plus avancés comme les réseaux g
 
 
 {:.collapsible}
-- Semaine 12 (31 mars) : Autoencodeurs, Segmentation d'image
+- Semaine 12* (7 avril mars) : Autoencodeurs, Segmentation d'image
 
   **Acétates :**
   - À venir
@@ -319,13 +329,13 @@ Nous allons également voir quelques concepts plus avancés comme les réseaux g
  <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRj4ZKK-hoIRwsCNTzAz8adJr5aFS4KCInby_4aRCtwDwZP-_eg0VG76kzHG3ZwbY65fCa3tKxtjaY5/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false&amp;range=A22:E31" width="740" height="300"></iframe>
 
 {:.collapsible}
-- Semaine 13 (7 avril) : Modèles GAN (Generative Adverserial Network)
+- Semaine 13* (14 avril) : Modèles GAN (Generative Adverserial Network)
 
   **Présentations orales GLO-7030 (Vendredi)** 
  <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRj4ZKK-hoIRwsCNTzAz8adJr5aFS4KCInby_4aRCtwDwZP-_eg0VG76kzHG3ZwbY65fCa3tKxtjaY5/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false&amp;range=A32:E41" width="740" height="300"></iframe>
 
 {:.collapsible}
-- Semaine 14 (14 avril) : Présentation des projets GLO-7030 en formule 180 secondes
+- Semaine 14* (21 avril) : Remise des vidéos des projets GLO-7030 en formule 180 secondes
 
   **Présentations orales GLO-7030 (Vendredi)** 
  <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRj4ZKK-hoIRwsCNTzAz8adJr5aFS4KCInby_4aRCtwDwZP-_eg0VG76kzHG3ZwbY65fCa3tKxtjaY5/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false&amp;range=A42:E51" width="740" height="300"></iframe>
