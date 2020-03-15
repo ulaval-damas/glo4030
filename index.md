@@ -254,7 +254,6 @@ Nous allons également voir quelques concepts plus avancés comme les réseaux g
   - [RNNs](assets/notebooks/RNNs - Sol.ipynb)
  
  
-{:.collapsible}
 - Semaine 10 (17 mars) : Activités annulées
 
 {:.collapsible}
