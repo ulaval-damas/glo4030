@@ -256,6 +256,7 @@ Nous allons également voir quelques concepts plus avancés comme les réseaux g
  
 - Semaine 10 (17 mars) : Activités annulées
 
+{:.collapsible}
 - Semaine 10* (24 mars) : Long Short-Term Memory (LSTM), Gated Recurrent Unit (GRU), Word Embeddings, DeepRNN, Modèles de langue
 
   **Lectures dans le manuel :** Chapitre 10
