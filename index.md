@@ -19,7 +19,10 @@ Notez que l'horaire a passablement changé. Lisez vos courriels régulièrement!
 
 [https://jupyterhub.helios.calculquebec.ca/](https://jupyterhub.helios.calculquebec.ca/)
 
-Pendant la période des laboratoires, nous avons une priorité d'accès, sous la réservation ``GLO7030``. En dehors de la période de laboratoire, votre requête de notebook passera par une file d'attente.
+
+## Laboratoires
+
+Pendant la période des laboratoires, nous avons une priorité d'accès, sous la réservation ``GLO7030``. En dehors de la période de laboratoire, votre requête de notebook passera par une file d'attente. Notez qu'à partir de maintenant, les laboratoires se feront à distance.
 
 [Site web des laboratoires](https://github.com/ulaval-damas/glo4030-labs)
 
