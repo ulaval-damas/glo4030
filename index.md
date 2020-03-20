@@ -257,9 +257,18 @@ Nous allons également voir quelques concepts plus avancés comme les réseaux g
 - Semaine 10 (17 mars) : Activités annulées
 
 {:.collapsible}
-- Semaine 10* (24 mars) : Long Short-Term Memory (LSTM), Gated Recurrent Unit (GRU), Word Embeddings, DeepRNN, Modèles de langue
+- Semaine 10* (24 mars) : Long Short-Term Memory (LSTM), Gated Recurrent Unit (GRU), Word Embeddings, Modèles de langue, DeepRNN
 
   **Lectures dans le manuel :** Chapitre 10
+
+  **Vidéos narrées :**
+  - LSTM et GRU : À venir
+  - [Word embeddings #1 - Introduction](https://youtu.be/lu02OULkhQE)
+  - [Word embeddings #2 - Réseaux de neurones](https://youtu.be/sCHQ4DddL74)
+  - [Word embeddings #3 - Embeddings de phrases](https://youtu.be/lB6XQEUOevU )
+  - [Modèles de langue #1 - Introduction](https://youtu.be/Rch0x1FLP4c)
+  - [Modèles de langue #2 - Deep RNNs](https://youtu.be/GQOPOjrSjMk)
+  - [Modèles de langue #3 - ELMo](https://youtu.be/KUnsRa4L5OY)
 
   **Acétates :**
   - À venir
