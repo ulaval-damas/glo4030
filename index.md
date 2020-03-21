@@ -34,7 +34,7 @@ Pendant la période des laboratoires, nous avons une priorité d'accès, sous la
 ## Travaux pratiques
 
 - [TP1](http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/2020/TP1_remise.v.1.01.2020.zip) : remise 14 février 2020 à 23h59.
-- TP2 : remise 10 avril 2020, 23h59. *à confirmer en fonction des politiques officielles*
+- [TP2](assets/tps/TP2.zip) : remise 10 avril 2020, 23h59.
 
 ## Jeux de données pour idées de projet
 - **Nouveau!** Projet de détection de Cerfs dans des images (Biologie) [Description](http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/2020/DétectionCerfsImages.pdf)
