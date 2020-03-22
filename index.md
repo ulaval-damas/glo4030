@@ -271,7 +271,8 @@ Nous allons également voir quelques concepts plus avancés comme les réseaux g
   - [Modèles de langue #3 - ELMo](https://youtu.be/KUnsRa4L5OY)
 
   **Acétates :**
-  - À venir
+  - [08-WordEmbeddings.pdf](assets/slides/08-WordEmbeddings.pdf)
+  - [08-ModèlesDeLangue.pdf](assets/slides/08-Mod%C3%A8lesDeLangue.pdf)
 
   **Autres lectures :**
   - <a href="http://colah.github.io/posts/2015-08-Understanding-LSTMs/" target="_blank">Understanding LSTM</a>
