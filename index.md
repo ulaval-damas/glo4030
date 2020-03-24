@@ -205,6 +205,7 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
   
   **Laboratoire :** 
   - [Laboratoire 5](https://github.com/ulaval-damas/glo4030-labs/blob/master/Laboratoire%205.ipynb)
+  - [Solution du labo 5](assets/notebooks/Laboratoire5_Solution.ipynb)  
 
 
 - Semaine 6 (18 février) : Réseaux à convolution II (CNN)
