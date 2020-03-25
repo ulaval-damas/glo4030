@@ -263,7 +263,7 @@ Nous allons également voir quelques concepts plus avancés comme les réseaux g
   **Lectures dans le manuel :** Chapitre 10
 
   **Vidéos narrées :**
-  - LSTM et GRU : À venir
+  - [LSTM et GRU](https://youtu.be/RTYViLjrwCE)
   - [Word embeddings #1 - Introduction](https://youtu.be/lu02OULkhQE)
   - [Word embeddings #2 - Réseaux de neurones](https://youtu.be/sCHQ4DddL74)
   - [Word embeddings #3 - Embeddings de phrases](https://youtu.be/lB6XQEUOevU )
@@ -272,7 +272,7 @@ Nous allons également voir quelques concepts plus avancés comme les réseaux g
   - [Modèles de langue #3 - ELMo](https://youtu.be/KUnsRa4L5OY)
 
   **Acétates :**
-  - LSTM et GRU : À venir
+  - [07-LSTM.pdf](assets/slides/07-LSTM.pdf)
   - [08-WordEmbeddings.pdf](assets/slides/08-WordEmbeddings.pdf)
   - [08-ModèlesDeLangue.pdf](assets/slides/08-Mod%C3%A8lesDeLangue.pdf)
 
