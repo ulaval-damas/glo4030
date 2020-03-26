@@ -321,8 +321,14 @@ Nous allons également voir quelques concepts plus avancés comme les réseaux g
 {:.collapsible}
 - Semaine 12* (7 avril) : Autoencodeurs, Segmentation d'image
 
+  **Vidéos :**
+  - [Autoencodeurs](https://youtu.be/ILBFADVFE5M) 
+  - Autres vidéos à venir
+  
+
   **Acétates :**
-  - À venir
+  - [08-Autoencodeur.pdf](assets/slides/08-Autoencodeur.pdf)
+  - Le reste à venir
   
   **Autres Liens :**
   - <a href="https://github.com/soumith/ganhacks" target="_blank">Trucs et astuces pour entrainer des GANs</a>  
