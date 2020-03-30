@@ -300,6 +300,7 @@ Nous allons également voir quelques concepts plus avancés comme les réseaux g
   
   **Vidéos**
   - [Autoencodeurs](https://youtu.be/ILBFADVFE5M) 
+  - [Spatial Transformer Network](https://youtu.be/awrgZAdU964)
   - Autres (à venir)
 
   **Autres lectures :**
@@ -310,6 +311,7 @@ Nous allons également voir quelques concepts plus avancés comme les réseaux g
 
   **Acétates :**
   - [08-Autoencodeur.pdf](assets/slides/08-Autoencodeur.pdf)
+  - [09-STN.pdf](assets/slides/09-STN.pdf)
   - Autres (à venir)
 
   **Laboratoire** 
