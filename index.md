@@ -294,9 +294,13 @@ Nous allons également voir quelques concepts plus avancés comme les réseaux g
  <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRj4ZKK-hoIRwsCNTzAz8adJr5aFS4KCInby_4aRCtwDwZP-_eg0VG76kzHG3ZwbY65fCa3tKxtjaY5/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false&amp;range=A12:F21" width="940" height="300"></iframe>
 
 {:.collapsible}
-- Semaine 11* (31 mars) : Seq2Seq, Modèles d'attention, Détection d'objet
+- Semaine 11* (31 mars) : Seq2Seq, Modèles d'attention
 
   **Lectures dans le manuel :** Section 10.12 Explicit Memory
+  
+  **Vidéos**
+  - [Autoencodeurs](https://youtu.be/ILBFADVFE5M) 
+  - Autres (à venir)
 
   **Autres lectures :**
   - <a href="https://arxiv.org/abs/1409.0473" target="_blank">Neural Machine Translation by Jointly Learning to Align and Translate</a>
@@ -305,13 +309,15 @@ Nous allons également voir quelques concepts plus avancés comme les réseaux g
   - <a href="https://arxiv.org/pdf/1411.2738.pdf" target="_blank">word2vec Parameter Learning Explained</a>
 
   **Acétates :**
-  - À venir
+  - [08-Autoencodeur.pdf](assets/slides/08-Autoencodeur.pdf)
+  - Autres (à venir)
 
-  **Notebooks :**
+  **Laboratoire** 
+  - [Labo 7](https://github.com/ulaval-damas/glo4030-labs/blob/master/Laboratoire%207.ipynb)
+
+  **Notebooks**
   - [Attention Simple](assets/notebooks/tutoriel-attn.ipynb)
-
-  **Laboratoire :** 
-
+  
   **Autres liens pertinents :**
   - <a href="http://nlp.seas.harvard.edu/2018/04/03/attention.html" target="_blank">Code pour Attention Is All You Need</a>
   - <a href="https://sacred.readthedocs.io/en/latest/" target="_blank">Librairie d'expérimentations</a>
@@ -319,15 +325,13 @@ Nous allons également voir quelques concepts plus avancés comme les réseaux g
   - <a href="https://medium.com/@hadyelsahar/writing-code-for-natural-language-processing-research-emnlp2018-nlproc-a87367cc5146" target="_blank">Écrire du code pour la recherche</a>
 
 {:.collapsible}
-- Semaine 12* (7 avril) : Autoencodeurs, Segmentation d'image
+- Semaine 12* (7 avril) :  Détection d'objet, Segmentation d'image
 
   **Vidéos :**
-  - [Autoencodeurs](https://youtu.be/ILBFADVFE5M) 
   - Autres vidéos à venir
   
 
   **Acétates :**
-  - [08-Autoencodeur.pdf](assets/slides/08-Autoencodeur.pdf)
   - Le reste à venir
   
   **Autres Liens :**
