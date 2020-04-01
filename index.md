@@ -320,8 +320,8 @@ Nous allons également voir quelques concepts plus avancés comme les réseaux g
   - [3.1-Transformer-Decoder.pdf](assets/slides/3.1-Transformer-Decoder.pdf)
   - [3.2-GPT.pdf](assets/slides/3.2-GPT.pdf)
   - [3.3-GPT-2.pdf](assets/slides/3.3-GPT-2.pdf)
-  - [04-01 RNN and Attention](assets/slides/)
-  - [04-02 Attention Is All You Need](assets/slides/)
+  - [04.01-RNNandAttention.pdf](assets/slides/04.01-RNNandAttention.pdf)
+  - [04.02-AttentionIsAllYouNeed.pdf](assets/slides/04.02-AttentionIsAllYouNeed.pdf)
 
   **Laboratoire** 
   - [Labo 7](https://github.com/ulaval-damas/glo4030-labs/blob/master/Laboratoire%207.ipynb)
