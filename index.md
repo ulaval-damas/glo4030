@@ -301,7 +301,11 @@ Nous allons également voir quelques concepts plus avancés comme les réseaux g
   **Vidéos**
   - [Autoencodeurs](https://youtu.be/ILBFADVFE5M) 
   - [Spatial Transformer Network](https://youtu.be/awrgZAdU964)
-  - Autres (à venir)
+  - [3.1-Transformer-Decoder](https://youtu.be/PIkrddD4Jd4)
+  - [3.2-GPT](https://youtu.be/F4tmxXyiVo0)
+  - [3.3-GPT-2](https://youtu.be/xmWln3ctNhQ)
+  - [04-01 RNN and Attention](https://youtu.be/wz2WRq93a7w)
+  - [04-02 Attention Is All You Need](https://youtu.be/i3EIF5QFnNw)
 
   **Autres lectures :**
   - <a href="https://arxiv.org/abs/1409.0473" target="_blank">Neural Machine Translation by Jointly Learning to Align and Translate</a>
@@ -312,7 +316,12 @@ Nous allons également voir quelques concepts plus avancés comme les réseaux g
   **Acétates :**
   - [08-Autoencodeur.pdf](assets/slides/08-Autoencodeur.pdf)
   - [09-STN.pdf](assets/slides/09-STN.pdf)
-  - Autres (à venir)
+  - [3.0-Transformers-Timeline.pdf](assets/slides/3.0-Transformers-Timeline.pdf)
+  - [3.1-Transformer-Decoder.pdf](assets/slides/3.1-Transformer-Decoder.pdf)
+  - [3.2-GPT.pdf](assets/slides/3.2-GPT.pdf)
+  - [3.3-GPT-2.pdf](assets/slides/3.3-GPT-2.pdf)
+  - [04-01 RNN and Attention](assets/slides/)
+  - [04-02 Attention Is All You Need](assets/slides/)
 
   **Laboratoire** 
   - [Labo 7](https://github.com/ulaval-damas/glo4030-labs/blob/master/Laboratoire%207.ipynb)
