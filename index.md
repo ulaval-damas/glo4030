@@ -381,12 +381,8 @@ Nous allons également voir quelques concepts plus avancés comme les réseaux g
   **Révision :**
   - RNN/LSTM
   - Word Embeddings
-  - Modèles de langue
-    - ELMo
-  - Attention
-    - Bahdanau
-    - Attention is all you need
-    - Transformer++
+  - Modèles de langue (ELMo)
+  - Attention (Bahdanau, Attention is all you need)
   - AutoEncoder
   - GAN
   
