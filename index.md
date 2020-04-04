@@ -47,7 +47,7 @@ Au lieu d’une présentation de 10 minutes en direct, vous allez faire une caps
 
 ## Présentation de votre projet (GLO-7030 seulement)
 
-Pour la présentation de votre projet, nous utiliserons la formule "Ma thèse en 180 secondes". Vous devrez faire une vidéo narrée de 3 minutes. L'équipe n'a droit qu'à une seule acétate, non-animée, en format pdf. La présentation sera jugé sur sa qualité et sa clarté, et non pas sur le mérite technique de l'approche utilisée.
+Cette activité est annulée.
 
 <!-- <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTnYDfcPNLtDa9jsUvpOHuilBx3zL832-b54grHpY4N_5TffQjIT88IcOW6n4vgxbnpelLPXbDJX4Ll/pubhtml?gid=0&amp;single=true&amp;range=A1:E33&amp;headers=false&amp;widget=false&amp;headers=false&amp;chrome=false" width="800" height="600"></iframe> -->
 
@@ -339,9 +339,8 @@ Nous allons également voir quelques concepts plus avancés comme les réseaux g
 - Semaine 12* (7 avril) :  Détection d'objet, Segmentation d'image
 
   **Vidéos :**
-  - Autres vidéos à venir
+  - Vidéos à venir
   
-
   **Acétates :**
   - Le reste à venir
   
@@ -364,6 +363,13 @@ Nous allons également voir quelques concepts plus avancés comme les réseaux g
 
 {:.collapsible}
 - Semaine 13* (14 avril) : Modèles GAN (Generative Adverserial Network)
+
+  **Acétates :**
+  - [11-GANs.pdf](assets/slides/11-GANs.pdf)
+  
+  **Vidéos :**
+  - [GAN (Vidéo du cours de 2018!)](https://www.youtube.com/watch?v=Lze_9nZrh5E)
+
 
   **Présentations orales GLO-7030 (Vendredi)** 
  <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRj4ZKK-hoIRwsCNTzAz8adJr5aFS4KCInby_4aRCtwDwZP-_eg0VG76kzHG3ZwbY65fCa3tKxtjaY5/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false&amp;range=A32:F41" width="940" height="300"></iframe>
