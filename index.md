@@ -287,7 +287,7 @@ Nous allons également voir quelques concepts plus avancés comme les réseaux g
   - RNN et LSTM
 
 {:.collapsible}
-- Semaine 11* (31 mars) : Seq2Seq, Modèles d'attention
+- Semaine 11* (31 mars) : Autoencodeurs, Seq2Seq, Modèles d'attention 
 
   **Lectures dans le manuel :** Section 10.12 Explicit Memory
   
@@ -327,20 +327,6 @@ Nous allons également voir quelques concepts plus avancés comme les réseaux g
   - <a href="https://sacred.readthedocs.io/en/latest/" target="_blank">Librairie d'expérimentations</a>
   - <a href="https://github.com/vivekratnavel/omniboard" target="_blank">Visualisation des expérimentations</a>
   - <a href="https://medium.com/@hadyelsahar/writing-code-for-natural-language-processing-research-emnlp2018-nlproc-a87367cc5146" target="_blank">Écrire du code pour la recherche</a>
-
-{:.collapsible}
-- Semaine 12* (7 avril) :  Détection d'objet, Segmentation d'image
-
-  **Vidéos :**
-  - Vidéos à venir
-  
-  **Acétates :**
-  - Le reste à venir
-  
-  **Autres Liens :**
-  - <a href="https://github.com/soumith/ganhacks" target="_blank">Trucs et astuces pour entrainer des GANs</a>  
-    
-  **Vidéos :**
   - [Autoencoder - definition](https://youtu.be/FzS3tMl4Nsc?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
   - [Autoencoder - loss function](https://youtu.be/xTU79Zs4XKY?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
   - [Autoencoder - example](https://youtu.be/6DO_jVbDP3I?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
@@ -353,6 +339,16 @@ Nous allons également voir quelques concepts plus avancés comme les réseaux g
 
 
 {:.collapsible}
+- Semaine 12* (7 avril) :  Détection d'objets, Segmentation d'image
+
+  **Vidéos :**
+  - Vidéos à venir
+  
+  **Acétates :**
+  - Le reste à venir
+  
+
+{:.collapsible}
 - Semaine 13* (14 avril) : Modèles GAN (Generative Adverserial Network)
 
   **Acétates :**
@@ -361,9 +357,13 @@ Nous allons également voir quelques concepts plus avancés comme les réseaux g
   **Vidéos :**
   - [GAN (Vidéo du cours de 2018!)](https://www.youtube.com/watch?v=Lze_9nZrh5E)
 
+  **Autres Liens :**
+  - <a href="https://github.com/soumith/ganhacks" target="_blank">Trucs et astuces pour entrainer des GANs</a>  
 
 {:.collapsible}
-- Semaine 15 (21 avril) : Examen final (GLO-4030 SEULEMENT, 12h30 à 14h20, local à venir) 
+- Semaine 15 (21 avril) : Examen final (GLO-4030 SEULEMENT, 12h30 à 14h20, modalité à déterminer) 
+
+L'examen se fera en ligne. Les détails suivront.
 
   **Révision :**
   - RNN/LSTM
