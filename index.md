@@ -19,6 +19,10 @@ Notez que l'horaire a passablement changé. Lisez vos courriels régulièrement!
 
 [https://jupyterhub.helios.calculquebec.ca/](https://jupyterhub.helios.calculquebec.ca/)
 
+## Format du rapport de projet
+
+Le format du rapport, ainsi que le barème de correction, est disponible [ici]()
+
 
 ## Laboratoires
 
