@@ -110,8 +110,7 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
   **Laboratoire :** Introduction à Pytorch et premiers essais sur des données standards (MNIST, CIFAR-10)
   - [Laboratoire 1](https://github.com/ulaval-damas/glo4030-labs/blob/master/Laboratoire%201.ipynb)
 
-
-  
+ 
   
 - Semaine 2 (21 janvier) : Feedforward, Fonctions de perte, Graphes de calcul, Backprop
 
@@ -225,9 +224,6 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
   - [06-CNN-2020.pdf](http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/2020/06-CNN-2020.pdf) 
 
   
-  **Présentations orales GLO-7030 (PLT-1120 à 9 AM)** 
- <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRj4ZKK-hoIRwsCNTzAz8adJr5aFS4KCInby_4aRCtwDwZP-_eg0VG76kzHG3ZwbY65fCa3tKxtjaY5/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false&amp;range=A1:F11" width="940" height="300"></iframe>
-
 - Semaine 7 (25 février) : Examen Intra (GLO-4030 et GLO-7030) Local : PLT-2573 pour GLO-7030 avec nom de famille débutant A-D. PLT-2700 pour le reste.
 
 
@@ -395,13 +391,16 @@ Nous allons également voir quelques concepts plus avancés comme les réseaux g
  
    **Présentations orales GLO-7030 (Vendredi)** 
  <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRj4ZKK-hoIRwsCNTzAz8adJr5aFS4KCInby_4aRCtwDwZP-_eg0VG76kzHG3ZwbY65fCa3tKxtjaY5/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false&amp;range=A68:F80" width="940" height="300"></iframe>
- 
+
+## Présentations orales GLO-7030 
+ <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRj4ZKK-hoIRwsCNTzAz8adJr5aFS4KCInby_4aRCtwDwZP-_eg0VG76kzHG3ZwbY65fCa3tKxtjaY5/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false&amp;range=A1:F80" width="940" height="1000"></iframe>
 
 ## Livre
 Le livre (obligatoire) est **Deep Learning** par Goodfellow, Bengio et Courville.
 Il est également disponible [en ligne](http://www.deeplearningbook.org).
 
 <img src="https://paulvanderlaken.files.wordpress.com/2017/10/9780262035613_0.jpg" width="250px">
+
 
 ## Liens utiles
 
