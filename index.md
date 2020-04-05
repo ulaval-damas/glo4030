@@ -185,8 +185,6 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
 
 
 
-
-
 - Semaine 5 (11 février) : Réseaux à convolution I (CNN) 
   
   **Lectures dans le manuel :** Chapitre 9
@@ -288,9 +286,6 @@ Nous allons également voir quelques concepts plus avancés comme les réseaux g
   **Laboratoire :** 
   - RNN et LSTM
 
-  **Présentations orales GLO-7030 (Vendredi)** 
- <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRj4ZKK-hoIRwsCNTzAz8adJr5aFS4KCInby_4aRCtwDwZP-_eg0VG76kzHG3ZwbY65fCa3tKxtjaY5/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false&amp;range=A12:F21" width="940" height="300"></iframe>
-
 {:.collapsible}
 - Semaine 11* (31 mars) : Seq2Seq, Modèles d'attention
 
@@ -356,8 +351,6 @@ Nous allons également voir quelques concepts plus avancés comme les réseaux g
   - [Deep learning - deep autoencoder](https://youtu.be/z5ZYm_wJ37c?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
   - <a href="https://youtu.be/5WoItGTWV54?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&t=2995" target="_blank">Lecture 13 | Generative Models (partie GAN)</a>  
 
-  **Présentations orales GLO-7030 (Vendredi)** 
- <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRj4ZKK-hoIRwsCNTzAz8adJr5aFS4KCInby_4aRCtwDwZP-_eg0VG76kzHG3ZwbY65fCa3tKxtjaY5/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false&amp;range=A22:F31" width="940" height="300"></iframe>
 
 {:.collapsible}
 - Semaine 13* (14 avril) : Modèles GAN (Generative Adverserial Network)
@@ -367,10 +360,6 @@ Nous allons également voir quelques concepts plus avancés comme les réseaux g
   
   **Vidéos :**
   - [GAN (Vidéo du cours de 2018!)](https://www.youtube.com/watch?v=Lze_9nZrh5E)
-
-
-  **Présentations orales GLO-7030 (Vendredi)** 
- <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRj4ZKK-hoIRwsCNTzAz8adJr5aFS4KCInby_4aRCtwDwZP-_eg0VG76kzHG3ZwbY65fCa3tKxtjaY5/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false&amp;range=A32:F41" width="940" height="300"></iframe>
 
 
 {:.collapsible}
@@ -384,15 +373,6 @@ Nous allons également voir quelques concepts plus avancés comme les réseaux g
   - AutoEncoder
   - GAN
   
-
-    **Présentations orales GLO-7030 (Vendredi)** 
- <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRj4ZKK-hoIRwsCNTzAz8adJr5aFS4KCInby_4aRCtwDwZP-_eg0VG76kzHG3ZwbY65fCa3tKxtjaY5/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false&amp;range=A42:F51" width="940" height="300"></iframe>
-
-  **Présentations orales GLO-7030 (Mardi)** 
- <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRj4ZKK-hoIRwsCNTzAz8adJr5aFS4KCInby_4aRCtwDwZP-_eg0VG76kzHG3ZwbY65fCa3tKxtjaY5/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false&amp;range=A52:F67" width="940" height="300"></iframe>
- 
-   **Présentations orales GLO-7030 (Vendredi)** 
- <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRj4ZKK-hoIRwsCNTzAz8adJr5aFS4KCInby_4aRCtwDwZP-_eg0VG76kzHG3ZwbY65fCa3tKxtjaY5/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false&amp;range=A68:F80" width="940" height="300"></iframe>
 
 ## Présentations orales GLO-7030 
  <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRj4ZKK-hoIRwsCNTzAz8adJr5aFS4KCInby_4aRCtwDwZP-_eg0VG76kzHG3ZwbY65fCa3tKxtjaY5/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false&amp;range=A1:F80" width="940" height="1000"></iframe>
