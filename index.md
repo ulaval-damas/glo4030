@@ -45,7 +45,7 @@ Pendant la période des laboratoires, nous avons une priorité d'accès, sous la
 ## Présentations orales de l’article (GLO-7030)
 Au lieu d’une présentation de 10 minutes en direct, vous allez faire une capsule vidéo narrée de 10 minutes. Vous pouvez utiliser les fonctionalités de Powerpoint https://www.enseigner.ulaval.ca/ressources-pedagogiques/capsules-narrees . Vous pouvez aussi faire une capture d’écran + son directement de votre PC avec Screen-O-matic https://www.ene.ulaval.ca/captation-numerique . Si l’Université ne possède pas suffisamment de licences, n’hésitez pas à trouver d’autres solutions gratuites en ligne (et les indiquer sur le forum COVID-19). Ne vous inquiétez pas si ces solutions gratuites ajoutent des watermark/filigranes : vous ne serez pas pénalisés. Vous mettrez cette vidéo sur youtube, et j’ajouterai le lien sur le site du cours pour que les autres puissent les regarder. Les dates butoirs pour les remises de ces vidéos sont déplacées d’une semaine par rapport au calendrier original.  
 
-L'horaire des présentations est disponible [au bas de la page web](#prez).
+L'horaire des présentations est disponible [au bas de la page web](#oraux-articles).
 
 ## Présentation de votre projet (GLO-7030 seulement)
 
@@ -374,8 +374,8 @@ L'examen se fera en ligne. Les détails suivront.
   - GAN
   
 
-## Prez
-Présentations orales GLO-7030 
+## Oraux articles
+Horaire des remises des vidéos narrés d'un article (GLO-7030)
  <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRj4ZKK-hoIRwsCNTzAz8adJr5aFS4KCInby_4aRCtwDwZP-_eg0VG76kzHG3ZwbY65fCa3tKxtjaY5/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false&amp;range=A1:F80" width="940" height="1000"></iframe>
 
 ## Livre
