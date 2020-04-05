@@ -21,7 +21,7 @@ Notez que l'horaire a passablement changé. Lisez vos courriels régulièrement!
 
 ## Format du rapport de projet
 
-Le format du rapport, ainsi que le barème de correction, est disponible [ici]()
+Le format du rapport, ainsi que le barème de correction, est disponible [ici](assets/slides/Balises%20pour%20le%20projet%20du%20cours.pdf)
 
 
 ## Laboratoires
