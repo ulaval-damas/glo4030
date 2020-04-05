@@ -291,7 +291,8 @@ Nous allons également voir quelques concepts plus avancés comme les réseaux g
 
   **Lectures dans le manuel :** Section 10.12 Explicit Memory
   
-  **Vidéos**
+  
+  **Vidéos narrées :**
   - [Autoencodeurs](https://youtu.be/ILBFADVFE5M) 
   - [Spatial Transformer Network](https://youtu.be/awrgZAdU964)
   - [3.1-Transformer-Decoder](https://youtu.be/PIkrddD4Jd4)
@@ -299,12 +300,14 @@ Nous allons également voir quelques concepts plus avancés comme les réseaux g
   - [3.3-GPT-2](https://youtu.be/xmWln3ctNhQ)
   - [04-01 RNN and Attention](https://youtu.be/wz2WRq93a7w)
   - [04-02 Attention Is All You Need](https://youtu.be/i3EIF5QFnNw)
+  
 
   **Autres lectures :**
   - <a href="https://arxiv.org/abs/1409.0473" target="_blank">Neural Machine Translation by Jointly Learning to Align and Translate</a>
   - <a href="https://arxiv.org/abs/1706.03762" target="_blank">Attention Is All You Need</a>
   - <a href="https://youtu.be/ERibwqs9p38" target="_blank">Lecture 2 | Word Vector Representations: word2vec</a>
   - <a href="https://arxiv.org/pdf/1411.2738.pdf" target="_blank">word2vec Parameter Learning Explained</a>
+  
 
   **Acétates :**
   - [08-Autoencodeur.pdf](assets/slides/08-Autoencodeur.pdf)
@@ -315,12 +318,15 @@ Nous allons également voir quelques concepts plus avancés comme les réseaux g
   - [3.3-GPT-2.pdf](assets/slides/3.3-GPT-2.pdf)
   - [04.01-RNNandAttention.pdf](assets/slides/04.01-RNNandAttention.pdf)
   - [04.02-AttentionIsAllYouNeed.pdf](assets/slides/04.02-AttentionIsAllYouNeed.pdf)
+  
 
   **Laboratoire** 
   - [Labo 7](https://github.com/ulaval-damas/glo4030-labs/blob/master/Laboratoire%207.ipynb)
+  
 
   **Notebooks**
   - [Attention Simple](assets/notebooks/tutoriel-attn.ipynb)
+  
   
   **Autres liens pertinents :**
   - <a href="http://nlp.seas.harvard.edu/2018/04/03/attention.html" target="_blank">Code pour Attention Is All You Need</a>
@@ -341,11 +347,12 @@ Nous allons également voir quelques concepts plus avancés comme les réseaux g
 {:.collapsible}
 - Semaine 12* (7 avril) :  Détection d'objets, Segmentation d'image
 
-  **Vidéos :**
+  **Vidéos narrées :**
   - Vidéos à venir
   
+  
   **Acétates :**
-  - Le reste à venir
+  - À venir
   
 
 {:.collapsible}
@@ -354,11 +361,14 @@ Nous allons également voir quelques concepts plus avancés comme les réseaux g
   **Acétates :**
   - [11-GANs.pdf](assets/slides/11-GANs.pdf)
   
+  
   **Vidéos :**
   - [GAN (Vidéo du cours de 2018!)](https://www.youtube.com/watch?v=Lze_9nZrh5E)
+  
 
   **Autres Liens :**
-  - <a href="https://github.com/soumith/ganhacks" target="_blank">Trucs et astuces pour entrainer des GANs</a>  
+  - <a href="https://github.com/soumith/ganhacks" target="_blank">Trucs et astuces pour entrainer des GANs</a> 
+  
 
 {:.collapsible}
 - Semaine 15 (21 avril) : Examen final (GLO-4030 SEULEMENT, 12h30 à 14h20, modalité à déterminer) 
