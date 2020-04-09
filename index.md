@@ -353,10 +353,11 @@ Nous allons également voir quelques concepts plus avancés comme les réseaux g
 - Semaine 12* (7 avril) :  Détection d'objets, Segmentation d'image
 
   **Vidéos narrées :**
-  - Vidéos à venir
+  - [10-Detection](https://youtu.be/kEGYVjIUI5o)  
   
   
   **Acétates :**
+  - [10-Detection.pdf]() 
   - À venir
   
 
