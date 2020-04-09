@@ -350,7 +350,7 @@ Nous allons également voir quelques concepts plus avancés comme les réseaux g
 
 
 {:.collapsible}
-- Semaine 12* (7 avril) :  Détection d'objets, Segmentation d'image
+- Semaine 12* (7 avril) :  Détection d'objets, Segmentation d'image, Ladder Networks, Réseaux siamois, Distillation
 
   **Vidéos narrées :**
   - [10-Detection](https://youtu.be/kEGYVjIUI5o)  
