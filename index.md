@@ -354,11 +354,11 @@ Nous allons également voir quelques concepts plus avancés comme les réseaux g
 
   **Vidéos narrées :**
   - [10-Detection](https://youtu.be/kEGYVjIUI5o)  
-  
+  - Autres à venir
   
   **Acétates :**
-  - [10-Detection.pdf]() 
-  - À venir
+  - [10-Detection.pdf](assets/slides/10-Detection.pdf) 
+  - Autres à venir
   
 
 {:.collapsible}
