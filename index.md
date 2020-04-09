@@ -358,8 +358,9 @@ Nous allons également voir quelques concepts plus avancés comme les réseaux g
   - [Sujets avancés : Ladder Network, réseaux siamois, distillation (Vidéo du cours de 2018)](https://www.youtube.com/watch?v=y9p00vyy9PY)
   
   **Acétates :**
-  - [10-Detection.pdf](assets/slides/10-Detection.pdf) 
-  - Autres à venir
+  - [10-Detection.pdf](assets/slides/10-Detection.pdf)
+  - Segmentation (à venir)
+  - [10-SujetsSpeciaux.pdf](assets/slides/10-SujetsSpeciaux.pdf)
   
 
 {:.collapsible}
