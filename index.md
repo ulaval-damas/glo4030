@@ -322,7 +322,7 @@ Nous allons également voir quelques concepts plus avancés comme les réseaux g
   - [3.1-Transformer-Decoder.pdf](assets/slides/3.1-Transformer-Decoder.pdf)
   - [3.2-GPT.pdf](assets/slides/3.2-GPT.pdf)
   - [3.3-GPT-2.pdf](assets/slides/3.3-GPT-2.pdf)
-  - [3.4-BERT](assets/slides/3.3-BERT.pdf)
+  - [3.4-BERT.pdf](assets/slides/3.3-BERT.pdf)
   - [04.01-RNNandAttention.pdf](assets/slides/04.01-RNNandAttention.pdf)
   - [04.02-AttentionIsAllYouNeed.pdf](assets/slides/04.02-AttentionIsAllYouNeed.pdf)
   
