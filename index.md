@@ -303,6 +303,7 @@ Nous allons également voir quelques concepts plus avancés comme les réseaux g
   - [3.1-Transformer-Decoder](https://youtu.be/PIkrddD4Jd4)
   - [3.2-GPT](https://youtu.be/F4tmxXyiVo0)
   - [3.3-GPT-2](https://youtu.be/xmWln3ctNhQ)
+  - [3.4-BERT](https://youtu.be/88N3gWRBrhE)
   - [04-01 RNN and Attention](https://youtu.be/wz2WRq93a7w)
   - [04-02 Attention Is All You Need](https://youtu.be/i3EIF5QFnNw)
   
@@ -321,6 +322,7 @@ Nous allons également voir quelques concepts plus avancés comme les réseaux g
   - [3.1-Transformer-Decoder.pdf](assets/slides/3.1-Transformer-Decoder.pdf)
   - [3.2-GPT.pdf](assets/slides/3.2-GPT.pdf)
   - [3.3-GPT-2.pdf](assets/slides/3.3-GPT-2.pdf)
+  - [3.4-BERT](assets/slides/3.3-BERT.pdf)
   - [04.01-RNNandAttention.pdf](assets/slides/04.01-RNNandAttention.pdf)
   - [04.02-AttentionIsAllYouNeed.pdf](assets/slides/04.02-AttentionIsAllYouNeed.pdf)
   
