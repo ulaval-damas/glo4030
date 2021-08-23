@@ -1,19 +1,16 @@
 ---
 layout: home
-title: Accueil GLO-4030/7030 Hiver 2020
+title: Accueil GLO-4030/7030 Automne 2021
 ---
 
-<meta name="keywords" content="Deep Learning, course, tutorials, CNN"/>
-
-## COVID-19
-Notez que l'horaire a passablement changé. Lisez vos courriels régulièrement!
+<meta name="keywords" content="Deep Learning, course, tutorials, CNN, RNN, LSTM, Faster RCNN"/>
 
 ## Horaire
 
 | Jour     | Heure               | Local    |
 |----------|---------------------|----------|
-| Mardi    | 12h30 à 15h20       | PLT-2700  |
-| Vendredi |  8h30 à 10h20       | PLT-3920  |
+| Lundi    | 9h30 à 12h20        | PLT-3775  |
+| Vendredi | 8h30 à 10h20        | à déterminer  |
 
 ## Ressource Jupyter de Calcul-Québec (pour GPU)
 
@@ -26,35 +23,28 @@ Le format du rapport, ainsi que le barème de correction, est disponible [ici](a
 
 ## Laboratoires
 
-Pendant la période des laboratoires, nous avons une priorité d'accès, sous la réservation ``GLO7030``. En dehors de la période de laboratoire, votre requête de notebook passera par une file d'attente. Notez qu'à partir de maintenant, les laboratoires se feront à distance.
+Pendant la période des laboratoires, nous devrions avoir une priorité d'accès, sous la réservation ``GLO7030`` (à confirmer). En dehors de la période de laboratoire, votre requête de notebook passera par une file d'attente. Notez qu'à partir de maintenant, les laboratoires se feront à distance.
 
 [Site web des laboratoires](https://github.com/ulaval-damas/glo4030-labs)
 
-## Exercices non-évalués
-- Quelques exercices sur les CNN [ExercicesCNN.pdf](http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/2020/ExercicesCNN.pdf). Le solutionnaire n'est pas disponibile pour l'instant, par manque de temps.
-- Deuxième série d'exercices [ExercicesII.pdf](http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/2020/ExercicesII.pdf)
-
-
 ## Travaux pratiques
 
-- [TP1](http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/2020/TP1_remise.v.1.01.2020.zip) : remise 14 février 2020 à 23h59.
-- [TP2](assets/tps/TP2.2020.zip) : remise 10 avril 2020, 23h59.
+- [TP1](à venir)
+- [TP2](à venir)
 
-## Jeux de données pour idées de projet
-- **Nouveau!** Projet de détection de Cerfs dans des images (Biologie) [Description](http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/2020/DétectionCerfsImages.pdf)
-- **Nouveau!** Projet de cartographie assistée du Ministère des Forêts, de la Faune et des Parcs! [Description](http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/2020/MFFP-CartographieAssistee.pdf)
+## Jeux de données pour projets
+Si vous êtes en manque d'inspiration, voici quelques sites proposant divers jeux de données potentiellement applicable aux réseaux de neurones profonds.
 - [datalist.com](https://www.datasetlist.com/)
 - [paperswithcode.com](https://paperswithcode.com/sota)
 - [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets)
 
-## Présentations orales de l’article (GLO-7030)
-Au lieu d’une présentation de 10 minutes en direct, vous allez faire une capsule vidéo narrée de 10 minutes. Vous pouvez utiliser les fonctionalités de Powerpoint https://www.enseigner.ulaval.ca/ressources-pedagogiques/capsules-narrees . Vous pouvez aussi faire une capture d’écran + son directement de votre PC avec Screen-O-matic https://www.ene.ulaval.ca/captation-numerique . Si l’Université ne possède pas suffisamment de licences, n’hésitez pas à trouver d’autres solutions gratuites en ligne (et les indiquer sur le forum COVID-19). Ne vous inquiétez pas si ces solutions gratuites ajoutent des watermark/filigranes : vous ne serez pas pénalisés. Vous mettrez cette vidéo sur youtube, et j’ajouterai le lien sur le site du cours pour que les autres puissent les regarder. Les dates butoirs pour les remises de ces vidéos sont déplacées d’une semaine par rapport au calendrier original.  
+## Présentations vidéo d'un article (GLO-7030)
+Vous devez faire une capsule vidéo narrée de 10 minutes expliquant un article scientifique pertinent. Vous pouvez utiliser les fonctionalités de Powerpoint https://www.enseigner.ulaval.ca/ressources-pedagogiques/capsules-narrees . Vous pouvez aussi faire une capture d’écran + son directement de votre PC avec Screen-O-matic https://www.ene.ulaval.ca/captation-numerique . Si l’Université ne possède pas suffisamment de licences, n’hésitez pas à trouver d’autres solutions gratuites en ligne (et les indiquer sur le forum). Ne vous inquiétez pas si ces solutions gratuites ajoutent des watermark/filigranes : vous ne serez pas pénalisés. Vous mettrez cette vidéo sur youtube, et j’ajouterai le lien sur le site du cours pour que les autres puissent les regarder.
 
-L'horaire des présentations est disponible [au bas de la page web](#oraux-articles).
+L'horaire de soumission des présentations est disponible [au bas de la page web](#oraux-articles).
 
 ## Présentation de votre projet (GLO-7030 seulement)
-
-Cette activité est annulée.
+(détails à venir)
 
 <!-- <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTnYDfcPNLtDa9jsUvpOHuilBx3zL832-b54grHpY4N_5TffQjIT88IcOW6n4vgxbnpelLPXbDJX4Ll/pubhtml?gid=0&amp;single=true&amp;range=A1:E33&amp;headers=false&amp;widget=false&amp;headers=false&amp;chrome=false" width="800" height="600"></iframe> -->
 
@@ -94,7 +84,7 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
    
       
    
-- Semaine 1 (14 janvier) : Plan de cours, introduction, réseau linéaire, fonctions d'activation
+- Semaine 1 (30 Août) : Plan de cours, introduction, réseau linéaire, fonctions d'activation
 
   **Lectures dans le manuel :** Chapitre 1, 6
   
@@ -112,19 +102,19 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
   - [Feedforward neural network - activation function](https://youtu.be/tCHIkgWZLOQ?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
   
   **Acétates :**  
-  - [01-Introduction-2020.pdf](http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/2020/01-Introduction-2020.pdf)
+  - [01-Introduction-2020.pdf](http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/2021/01-Introduction-2020.pdf)
   
   **Laboratoire :** Introduction à Pytorch et premiers essais sur des données standards (MNIST, CIFAR-10)
   - [Laboratoire 1](https://github.com/ulaval-damas/glo4030-labs/blob/master/Laboratoire%201.ipynb)
 
  
   
-- Semaine 2 (21 janvier) : Feedforward, Fonctions de perte, Graphes de calcul, Backprop
+- Semaine 2 (6 septembre) : Feedforward, Fonctions de perte, Graphes de calcul, Backprop
 
   **Lectures dans le manuel :** Chapitre 6 
 
   **Acétates :**
-  - [02-FeedForward-Loss-Graph-Backprop.pdf](http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/2020/02-FeedForward-Loss-Graph-Backprop.pdf) 
+  - [02-FeedForward-Loss-Graph-Backprop.pdf](http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/2021/02-FeedForward-Loss-Graph-Backprop.pdf) 
 
   **Vidéos :**
   - [Training neural networks - empirical risk minimization](https://youtu.be/5adNQvSlF50?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
@@ -142,14 +132,12 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
   - [Laboratoire 2](https://github.com/ulaval-damas/glo4030-labs/blob/master/Laboratoire%202.ipynb)
    
 
-
-
-- Semaine 3 (28 janvier) : Initialisation et optimisation 
+- Semaine 3 (13 septembre) : Initialisation et optimisation 
   
   **Lectures dans le manuel :** Chapitre 8
 
   **Acétates :**   
-  - [03-Optimisation.pdf](http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/2020/03-Optimisation.pdf) 
+  - [03-Optimisation.pdf](http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/2021/03-Optimisation.pdf) 
   
   **Vidéos :**
   - [Training neural networks - parameter initialization](https://youtu.be/sLfogkzFNfc?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
@@ -170,8 +158,7 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
 
 
 
-
-- Semaine 4 (4 février) : Régularisation
+- Semaine 4 (20 septembre) : Régularisation
   
   **Lectures dans le manuel :** Chapitre 7
   
@@ -190,7 +177,7 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
 
 
 
-- Semaine 5 (11 février) : Réseaux à convolution I (CNN) 
+- Semaine 5 (27 septembre) : Réseaux à convolution I (CNN) 
   
   **Lectures dans le manuel :** Chapitre 9
   
@@ -205,14 +192,14 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
   - <a href="https://youtu.be/DAOcjicFr1Y?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv" target="_blank">cs231n Lecture 9 | CNN Architectures</a>
   
   **Acétates :**
-  - [05-CNN-2020.pdf](http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/2020/05-CNN-2020.pdf) 
+  - [05-CNN-2020.pdf](http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/2021/05-CNN-2020.pdf) 
   
   **Laboratoire :** 
   - [Laboratoire 5](https://github.com/ulaval-damas/glo4030-labs/blob/master/Laboratoire%205.ipynb)
   - [Solution du labo 5](assets/notebooks/Laboratoire5_Solution.ipynb)  
 
 
-- Semaine 6 (18 février) : Réseaux à convolution II (CNN)
+- Semaine 6 (4 octobre) : Réseaux à convolution II (CNN)
   
   **Lectures dans le manuel :** Chapitre 9
   
@@ -226,10 +213,17 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
    
   
   **Acétates :**
-  - [06-CNN-2020.pdf](http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/2020/06-CNN-2020.pdf) 
+  - [06-CNN-2020.pdf](http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/2021/06-CNN-2020.pdf) 
+
+  **Exercices :***
+  - Quelques exercices sur les CNN [ExercicesCNN.pdf](http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/2020/ExercicesCNN.pdf). Le solutionnaire sera disponible sous peu.
+  - Deuxième série d'exercices [ExercicesII.pdf](http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/2020/ExercicesII.pdf)
 
   
-- Semaine 7 (25 février) : Examen Intra (GLO-4030 et GLO-7030) Local : PLT-2573 pour GLO-7030 avec nom de famille débutant A-D. PLT-2700 pour le reste.
+- Semaine 7 (11 octobre) : Action de grâce
+
+- Semaine 8 (18 octobre)
+-   Examen Intra (GLO-4030 et GLO-7030)
 
 
 ### Deuxième moitié
@@ -247,7 +241,7 @@ Nous allons également voir quelques concepts plus avancés comme les réseaux g
   - Lire le chapitre 10 avant de regarder : <a href="https://youtu.be/AYku9C9XoB8" target="_blank">Y. Bengio - RNN (DLSS 2017)</a>
   
   **Acétates :**
-  - [07-RNN-2020.pdf](http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/2020/07-RNN-2020.pdf) 
+  - [07-RNN.pdf](http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/2021/07-RNN-2020.pdf) 
 
 
   **Notebooks :** 
