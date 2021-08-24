@@ -94,16 +94,17 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
   - Classificateur linéaire
   - Importance de la dérivabilité
   
+  <br>
   **Vidéos :**
   - [Feedforward neural network - artificial neuron](https://youtu.be/SGZ6BttHMPw?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
   - [Feedforward neural network - activation function](https://youtu.be/tCHIkgWZLOQ?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
   
-  
+  <br>
   **Acétates :**  
   - [01-Introduction.pdf](http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/2021/01-Introduction.pdf)
   
   
-  **Laboratoire :** Introduction à Pytorch et premiers essais sur des données standards (MNIST, CIFAR-10)
+  <br> **Laboratoire :** Introduction à Pytorch et premiers essais sur des données standards (MNIST, CIFAR-10)
   - [Laboratoire 1](https://github.com/ulaval-damas/glo4030-labs/blob/master/Laboratoire%201.ipynb)
 
  
