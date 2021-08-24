@@ -76,7 +76,7 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
    - [Vidéo](http://videolectures.net/deeplearning2016_precup_machine_learning/) résumant le machine learning par Doina Precup
    - [Udacity : Introduction to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120)
    - <a href="https://www.class-central.com/mooc/835/coursera-machine-learning" target="_blank">Coursera : Machine Learning</a>
-   - [Cours sur Fast.ai](https://course.fast.ai/ml)
+   - [Cours sur Fast.ai](https://course.fast.ai)
    
    
       
