@@ -232,8 +232,7 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
 
 ### Deuxième moitié
 
-La deuxième moitié du cours portera majoritairement sur les modèle récurrents.
-Nous allons également voir quelques concepts plus avancés comme les réseaux génératifs (GAN) et les modèles d'attention.
+La deuxième moitié du cours portera sur quelques concepts plus avancés comme les réseaux récurrent, génératifs (GAN), d'adaptation de domaine (DANN), de détection et de segmentation sémantique. Nous traiterons aussi des modèles d'attention et de traitement du language naturel (NLP).
 
 - Semaine 10 (1 Novembre) : Retour sur l'examen, Recurrent Neural Networks (RNN)
 
