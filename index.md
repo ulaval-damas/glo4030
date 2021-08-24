@@ -107,9 +107,14 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
 
  
   
-- Semaine 2 (6 septembre) : Feedforward, Fonctions de perte, Graphes de calcul, Backprop
+- Semaine 2 (6 septembre, **en différé**) : Feedforward, Fonctions de perte, Graphes de calcul, Backprop 
 
   **Lectures dans le manuel :** Chapitre 6 
+
+  **Vidéo pré-enregistré du cours**
+  - Partie 1
+  - Partie 2
+  - Partie 3
 
   **Acétates :**
   - [02-FeedForward-Loss-Graph-Backprop.pdf](http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/2021/02-FeedForward-Loss-Graph-Backprop.pdf) 
@@ -218,8 +223,9 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
   - Deuxième série d'exercices [ExercicesII.pdf](http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/2020/ExercicesII.pdf)
 
   
-- Semaine 7 (11 octobre) : Action de grâce
+- Semaine 7 (11 octobre) : Action de grâce (congé!)
 
+{:.collapsible}
 - Semaine 8 (18 octobre)
 -   Examen Intra (GLO-4030 et GLO-7030)
 
