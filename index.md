@@ -29,7 +29,7 @@ Pendant la période des laboratoires, nous devrions avoir une priorité d'accès
 
 ## Projet
 
-Le format du rapport, ainsi que le barème de correction, est disponible [ici](assets/slides/Balises%20pour%20le%20projet%20du%20cours.A2021.pdf)
+Les directives pour ce projet sont disponibles [ici](assets/slides/Balises%20pour%20le%20projet%20du%20cours.A2021.pdf)
 Si vous êtes en manque d'inspiration, voici quelques sites proposant divers jeux de données potentiellement applicable aux réseaux de neurones profonds.
 - [datalist.com](https://www.datasetlist.com/)
 - [paperswithcode.com](https://paperswithcode.com/sota)
