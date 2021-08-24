@@ -16,11 +16,6 @@ title: Accueil GLO-4030/7030 Automne 2021
 
 [https://jupyterhub.helios.calculquebec.ca/](https://jupyterhub.helios.calculquebec.ca/)
 
-## Format du rapport de projet
-
-Le format du rapport, ainsi que le barème de correction, est disponible [ici](assets/slides/Balises%20pour%20le%20projet%20du%20cours.A2021.pdf)
-
-
 ## Laboratoires
 
 Pendant la période des laboratoires, nous devrions avoir une priorité d'accès, sous la réservation ``GLO7030`` (à confirmer). En dehors de la période de laboratoire, votre requête de notebook passera par une file d'attente. Notez qu'à partir de maintenant, les laboratoires se feront à distance.
@@ -32,7 +27,9 @@ Pendant la période des laboratoires, nous devrions avoir une priorité d'accès
 - [TP1](à venir)
 - [TP2](à venir)
 
-## Jeux de données pour projets
+## Projet
+
+Le format du rapport, ainsi que le barème de correction, est disponible [ici](assets/slides/Balises%20pour%20le%20projet%20du%20cours.A2021.pdf)
 Si vous êtes en manque d'inspiration, voici quelques sites proposant divers jeux de données potentiellement applicable aux réseaux de neurones profonds.
 - [datalist.com](https://www.datasetlist.com/)
 - [paperswithcode.com](https://paperswithcode.com/sota)
