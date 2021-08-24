@@ -226,8 +226,7 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
 - Semaine 7 (11 octobre) : Action de grâce (congé!)
 
 {:.collapsible}
-- Semaine 8 (18 octobre)
--   Examen Intra (GLO-4030 et GLO-7030)
+- Semaine 8 (18 octobre) : Examen Intra (GLO-4030 et GLO-7030)
 
 
 ### Deuxième moitié
