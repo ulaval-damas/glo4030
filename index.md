@@ -88,19 +88,18 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
   
   Nous verrons notamment quelles sont les innovations des 10 dernières années qui expliquent la résurgence des réseaux de neurones, en particulier l'apparition des réseaux profonds. Les premiers détails sur les réseaux en aval (feedforward) seront abordés.
   
-  **Contenu détaillé :**
+  <br> **Contenu détaillé :**
   - Introduction
   - Réseau feedforward (aval) de base, activations
   - Classificateur linéaire
   - Importance de la dérivabilité
-  
-  <br>
-  **Vidéos :**
+ 
+  <br> **Vidéos :**
   - [Feedforward neural network - artificial neuron](https://youtu.be/SGZ6BttHMPw?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
   - [Feedforward neural network - activation function](https://youtu.be/tCHIkgWZLOQ?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
   
-  <br>
-  **Acétates :**  
+
+  <br> **Acétates :**  
   - [01-Introduction.pdf](http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/2021/01-Introduction.pdf)
   
   
@@ -113,15 +112,15 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
 
   **Lectures dans le manuel :** Chapitre 6 
 
-  **Vidéo pré-enregistré du cours**
+  <br> **Vidéo pré-enregistré du cours**
   - Partie 1
   - Partie 2
   - Partie 3
 
-  **Acétates :**
+  <br> **Acétates :**
   - [02-FeedForward-Loss-Graph-Backprop.pdf](http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/2021/02-FeedForward-Loss-Graph-Backprop.pdf) 
 
-  **Vidéos :**
+  <br> **Vidéos :**
   - [Training neural networks - empirical risk minimization](https://youtu.be/5adNQvSlF50?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
   - [Training neural networks - loss function](https://youtu.be/PpFTODTztsU?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
   - [Training neural networks - output layer gradient](https://youtu.be/1N837i4s1T8?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
@@ -133,7 +132,7 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
   - [Derivatives With Computation Graphs (Andrew Ng)](https://youtu.be/nJyUyKN-XBQ?list=PLkDaE6sCZn6Ec-XTbcX1uRg2_u4xOEky0)
   - [Logistic Regression Gradient Descent (Andrew Ng)](https://youtu.be/z_xiwjEdAC4?list=PLkDaE6sCZn6Ec-XTbcX1uRg2_u4xOEky0)
   
-  **Laboratoire :** Pytorch sous le capot,  (MNIST, CIFAR-10)
+  <br> **Laboratoire :** Pytorch sous le capot,  (MNIST, CIFAR-10)
   - [Laboratoire 2](https://github.com/ulaval-damas/glo4030-labs/blob/master/Laboratoire%202.ipynb)
    
 
@@ -141,10 +140,10 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
   
   **Lectures dans le manuel :** Chapitre 8
 
-  **Acétates :**   
+  <br> **Acétates :**   
   - [03-Optimisation.pdf](http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/2021/03-Optimisation.pdf) 
   
-  **Vidéos :**
+  <br> **Vidéos :**
   - [Training neural networks - parameter initialization](https://youtu.be/sLfogkzFNfc?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
   - [Training neural networks - model selection](https://youtu.be/Fs-raHUnF2M?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
   - [Training neural networks - optimization](https://youtu.be/Bver7Ttgb9M?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
@@ -158,7 +157,7 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
   - <a href="https://youtu.be/NxTFlzBjS-4?list=PLkDaE6sCZn6Hn0vK8co82zjQtt3T2Nkqc" target="_blank">Understanding Exponentially Weighted Averages (Andrew Ng)</a>
   - <a href="https://youtu.be/lWzo8CajF5s?list=PLkDaE6sCZn6Hn0vK8co82zjQtt3T2Nkqc" target="_blank">Bias Correction of Exponentially Weighted Averages (Andrew Ng)</a>
   
-  **Laboratoire :** 
+  <br> **Laboratoire :** 
   - [Laboratoire 3](https://github.com/ulaval-damas/glo4030-labs/blob/master/Laboratoire%203.ipynb)
 
 
@@ -167,17 +166,17 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
   
   **Lectures dans le manuel :** Chapitre 7
   
-  **Acétates :** 
+  <br> **Acétates :** 
   - [04-Regularisation.pdf](http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/2021/04-Regularisation.pdf) 
   
-  **Vidéos :** 
+  <br> **Vidéos :** 
   - [Training neural networks - regularization](https://youtu.be/JfkbyODyujw?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
   - [Deep learning - difficulty of training](https://youtu.be/YoiUlN_77LU?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
   - [Deep learning - unsupervised pre-training](https://youtu.be/Oq38pINmddk?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
   - [Deep learning - example](https://youtu.be/SXnG-lQ7RJo?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
   - [Deep learning - dropout](https://youtu.be/UcKPdAM8cnI?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
 
-  **Laboratoire :** 
+  <br> **Laboratoire :** 
   - [Laboratoire 4](https://github.com/ulaval-damas/glo4030-labs/blob/master/Laboratoire%204.ipynb)
 
 
@@ -186,20 +185,20 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
   
   **Lectures dans le manuel :** Chapitre 9
   
-  **Autres lectures :** 
+  <br> **Autres lectures :** 
   - cs231n (Stanford) : [Convolutional networks](http://cs231n.github.io/convolutional-networks/)
   - <a href="https://arxiv.org/pdf/1312.4400" target="_blank">Network in Network</a>
   - <a href="https://arxiv.org/pdf/1409.1556" target="_blank">Very Deep Convolutional Networks for Large-Scale Image Recognition</a>
   - <a href="https://arxiv.org/pdf/1409.4842" target="_blank">Going Deeper with Convolutions</a>
      
-  **Vidéos :** 
+  <br> **Vidéos :** 
   - <a href="https://youtu.be/bNb2fEVKeEo?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv" target="_blank">cs231n lesson 5</a>     
   - <a href="https://youtu.be/DAOcjicFr1Y?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv" target="_blank">cs231n Lecture 9 | CNN Architectures</a>
   
-  **Acétates :**
+  <br> **Acétates :**
   - [05-CNN.pdf](http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/2021/05-CNN.pdf) 
   
-  **Laboratoire :** 
+  <br> **Laboratoire :** 
   - [Laboratoire 5](https://github.com/ulaval-damas/glo4030-labs/blob/master/Laboratoire%205.ipynb)
   - [Solution du labo 5](assets/notebooks/Laboratoire5_Solution.ipynb)  
 
@@ -208,19 +207,19 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
   
   **Lectures dans le manuel :** Chapitre 9
   
-  **Autres lectures :**
+  <br> **Autres lectures :**
   - [K. He et al. Deep Residual Learning for Image Recognition, 2016.](https://arxiv.org/pdf/1512.03385.pdf)
   - <a href="https://arxiv.org/pdf/1602.07261.pdf" target="_blank">Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning</a>
   - <a href="https://arxiv.org/abs/1605.06431" target="_blank">Residual Networks Behave Like Ensembles of Relatively Shallow Networks</a>
   
-  **Vidéos :** 
+  <br> **Vidéos :** 
   - [Depthwise separable convolution](https://www.youtube.com/watch?v=T7o3xvJLuHk)
    
   
-  **Acétates :**
+  <br> **Acétates :**
   - [06-CNN.pdf](http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/2021/06-CNN.pdf) 
 
-  **Exercices :***
+  <br> **Exercices :***
   - Quelques exercices sur les CNN [ExercicesCNN.pdf](http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/2020/ExercicesCNN.pdf). Le solutionnaire sera disponible sous peu.
   - Deuxième série d'exercices [ExercicesII.pdf](http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/2020/ExercicesII.pdf)
 
