@@ -100,7 +100,7 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
   
   
   **Acétates :**  
-  - [01-Introduction-2020.pdf](http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/2021/01-Introduction-2020.pdf)
+  - [01-Introduction.pdf](http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/2021/01-Introduction.pdf)
   
   
   **Laboratoire :** Introduction à Pytorch et premiers essais sur des données standards (MNIST, CIFAR-10)
@@ -167,7 +167,7 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
   **Lectures dans le manuel :** Chapitre 7
   
   **Acétates :** 
-  - [04-Regularisation-2020.pdf](http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/2020/04-Regularisation-2020.pdf) 
+  - [04-Regularisation.pdf](http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/2021/04-Regularisation.pdf) 
   
   **Vidéos :** 
   - [Training neural networks - regularization](https://youtu.be/JfkbyODyujw?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
@@ -196,7 +196,7 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
   - <a href="https://youtu.be/DAOcjicFr1Y?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv" target="_blank">cs231n Lecture 9 | CNN Architectures</a>
   
   **Acétates :**
-  - [05-CNN-2020.pdf](http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/2021/05-CNN-2020.pdf) 
+  - [05-CNN.pdf](http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/2021/05-CNN.pdf) 
   
   **Laboratoire :** 
   - [Laboratoire 5](https://github.com/ulaval-damas/glo4030-labs/blob/master/Laboratoire%205.ipynb)
@@ -217,7 +217,7 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
    
   
   **Acétates :**
-  - [06-CNN-2020.pdf](http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/2021/06-CNN-2020.pdf) 
+  - [06-CNN.pdf](http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/2021/06-CNN.pdf) 
 
   **Exercices :***
   - Quelques exercices sur les CNN [ExercicesCNN.pdf](http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/2020/ExercicesCNN.pdf). Le solutionnaire sera disponible sous peu.
@@ -243,7 +243,7 @@ La deuxième moitié du cours portera sur quelques concepts plus avancés comme 
   - Lire le chapitre 10 avant de regarder : <a href="https://youtu.be/AYku9C9XoB8" target="_blank">Y. Bengio - RNN (DLSS 2017)</a>
   
   **Acétates :**
-  - [07-RNN.pdf](http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/2021/07-RNN-2020.pdf) 
+  - [07-RNN.pdf](http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/2021/07-RNN.pdf) 
 
 
   **Notebooks :** 
