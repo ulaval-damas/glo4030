@@ -108,11 +108,11 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
 
  
   
-- Semaine 2 (6 septembre, **en différé**) : Feedforward, Fonctions de perte, Graphes de calcul, Backprop 
+- Semaine 2 (6 septembre, **en asynchrone**) : Feedforward, Fonctions de perte, Graphes de calcul, Backprop 
 
   **Lectures dans le manuel :** Chapitre 6 
 
-  <br> **Vidéo pré-enregistré du cours**
+  <br> **Capsules pré-enregistré du cours**
   - Partie 1
   - Partie 2
   - Partie 3
@@ -240,15 +240,15 @@ La deuxième moitié du cours portera sur quelques concepts plus avancés comme 
 
   **Lectures dans le manuel :** Chapitre 10
 
-  **Vidéos :**
+  <br> **Vidéos :**
   - <a href="https://youtu.be/6niqTuYFZLQ" target="_blank">cs231n Lecture 10 | Recurrent Neural Networks</a>
   - Lire le chapitre 10 avant de regarder : <a href="https://youtu.be/AYku9C9XoB8" target="_blank">Y. Bengio - RNN (DLSS 2017)</a>
   
-  **Acétates :**
+  <br> **Acétates :**
   - [07-RNN.pdf](http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/2021/07-RNN.pdf) 
 
 
-  **Notebooks :** 
+  <br> **Notebooks :** 
   - [Laboratoire](https://github.com/ulaval-damas/glo4030-labs/blob/master/Laboratoire%206.ipynb)
   - [Parameters](assets/notebooks/Parameters - Sol.ipynb)
   - [RNNs](assets/notebooks/RNNs - Sol.ipynb)
@@ -258,7 +258,7 @@ La deuxième moitié du cours portera sur quelques concepts plus avancés comme 
 
   **Lectures dans le manuel :** Chapitre 10
 
-  **Vidéos narrées :**
+  <br> **Vidéos narrées :**
   - [LSTM et GRU](https://youtu.be/RTYViLjrwCE)
   - [Word embeddings #1 - Introduction](https://youtu.be/lu02OULkhQE)
   - [Word embeddings #2 - Réseaux de neurones](https://youtu.be/sCHQ4DddL74)
@@ -267,23 +267,23 @@ La deuxième moitié du cours portera sur quelques concepts plus avancés comme 
   - [Modèles de langue #2 - Deep RNNs](https://youtu.be/GQOPOjrSjMk)
   - [Modèles de langue #3 - ELMo](https://youtu.be/KUnsRa4L5OY)
 
-  **Acétates :**
+  <br> **Acétates :**
   - [07-LSTM.pdf](assets/slides/07-LSTM.pdf)
   - [08-WordEmbeddings.pdf](assets/slides/08-WordEmbeddings.pdf)
   - [08-ModèlesDeLangue.pdf](assets/slides/08-Mod%C3%A8lesDeLangue.pdf)
 
-  **Autres lectures :**
+  <br> **Autres lectures :**
   - <a href="http://colah.github.io/posts/2015-08-Understanding-LSTMs/" target="_blank">Understanding LSTM</a>
   - <a href="http://karpathy.github.io/2015/05/21/rnn-effectiveness/" target="_blank">The Unreasonable Effectiveness of Recurrent Neural Networks</a>
   - <a href="https://arxiv.org/pdf/1503.04069.pdf" target="_blank">LSTM: A Search Space Odyssey</a>
   - <a href="http://proceedings.mlr.press/v37/jozefowicz15.pdf" target="_blank">An Empirical Exploration of Recurrent Network Architectures</a>
 
-  **Notebooks :**
+  <br> **Notebooks :**
   - [LSTM](assets/notebooks/LSTMs.ipynb)
   - [Sequence Classification](assets/notebooks/sequence_classification.ipynb)
   - [Embeddings](assets/notebooks/Embeddings.ipynb)
 
-  **Laboratoire :** 
+  <br> **Laboratoire :** 
   - RNN et LSTM
 
 - Semaine 12 (15 novembre) : Autoencodeurs, Seq2Seq, Modèles d'attention 
@@ -291,7 +291,7 @@ La deuxième moitié du cours portera sur quelques concepts plus avancés comme 
   **Lectures dans le manuel :** Section 10.12 Explicit Memory
   
   
-  **Vidéos narrées :**
+  <br> **Vidéos narrées :**
   - [Autoencodeurs](https://youtu.be/ILBFADVFE5M) 
   - [Spatial Transformer Network](https://youtu.be/awrgZAdU964)
   - [3.1-Transformer-Decoder](https://youtu.be/PIkrddD4Jd4)
@@ -302,14 +302,14 @@ La deuxième moitié du cours portera sur quelques concepts plus avancés comme 
   - [04-02 Attention Is All You Need](https://youtu.be/i3EIF5QFnNw)
   
 
-  **Autres lectures :**
+  <br> **Autres lectures :**
   - <a href="https://arxiv.org/abs/1409.0473" target="_blank">Neural Machine Translation by Jointly Learning to Align and Translate</a>
   - <a href="https://arxiv.org/abs/1706.03762" target="_blank">Attention Is All You Need</a>
   - <a href="https://youtu.be/ERibwqs9p38" target="_blank">Lecture 2 | Word Vector Representations: word2vec</a>
   - <a href="https://arxiv.org/pdf/1411.2738.pdf" target="_blank">word2vec Parameter Learning Explained</a>
   
 
-  **Acétates :**
+  <br> **Acétates :**
   - [08-Autoencodeur.pdf](assets/slides/08-Autoencodeur.pdf)
   - [09-STN.pdf](assets/slides/09-STN.pdf)
   - [3.0-Transformers-Timeline.pdf](assets/slides/3.0-Transformers-Timeline.pdf)
@@ -321,15 +321,15 @@ La deuxième moitié du cours portera sur quelques concepts plus avancés comme 
   - [04.02-AttentionIsAllYouNeed.pdf](assets/slides/04.02-AttentionIsAllYouNeed.pdf)
   
 
-  **Laboratoire** 
+  <br> **Laboratoire** 
   - [Labo 7](https://github.com/ulaval-damas/glo4030-labs/blob/master/Laboratoire%207.ipynb)
   
 
-  **Notebooks**
+  <br> **Notebooks**
   - [Attention Simple](assets/notebooks/tutoriel-attn.ipynb)
   
   
-  **Autres liens pertinents :**
+  <br> **Autres liens pertinents :**
   - <a href="http://nlp.seas.harvard.edu/2018/04/03/attention.html" target="_blank">Code pour Attention Is All You Need</a>
   - <a href="https://sacred.readthedocs.io/en/latest/" target="_blank">Librairie d'expérimentations</a>
   - <a href="https://github.com/vivekratnavel/omniboard" target="_blank">Visualisation des expérimentations</a>
@@ -352,7 +352,7 @@ La deuxième moitié du cours portera sur quelques concepts plus avancés comme 
   - [10-Segmentation](https://youtu.be/GSCj8u-n6PY)  
   - [Sujets avancés : Ladder Network, réseaux siamois, distillation (Vidéo du cours de 2018)](https://www.youtube.com/watch?v=y9p00vyy9PY)
   
-  **Acétates :**
+  <br> **Acétates :**
   - [10-Detection.pdf](assets/slides/10-Detection.pdf)
   - [10-Segmentation.pdf](assets/slides/10-Segmentation.pdf)
   - [10-SujetsSpeciaux.pdf](assets/slides/10-SujetsSpeciaux.pdf)
@@ -360,15 +360,15 @@ La deuxième moitié du cours portera sur quelques concepts plus avancés comme 
 
 - Semaine 15 (29 novembre) : Modèles GAN (Generative Adverserial Network)
 
-  **Acétates :**
+  <br> **Acétates :**
   - [11-GANs.pdf](assets/slides/11-GANs.pdf)
   
   
-  **Vidéos :**
+  <br> **Vidéos :**
   - [GAN (Vidéo du cours de 2018!)](https://www.youtube.com/watch?v=Lze_9nZrh5E)
   
 
-  **Autres Liens :**
+  <br> **Autres Liens :**
   - <a href="https://github.com/soumith/ganhacks" target="_blank">Trucs et astuces pour entrainer des GANs</a> 
   
 - Semaine 16 (6 décembre) : Examen final (GLO-4030 SEULEMENT, 12h30 à 14h20, modalité à déterminer) 
