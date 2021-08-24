@@ -231,8 +231,7 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
 La deuxième moitié du cours portera majoritairement sur les modèle récurrents.
 Nous allons également voir quelques concepts plus avancés comme les réseaux génératifs (GAN) et les modèles d'attention.
 
-{:.collapsible}
-- Semaine 9 (10 mars) : Retour sur l'examen, Recurrent Neural Networks (RNN)
+- Semaine 10 (1 Novembre) : Retour sur l'examen, Recurrent Neural Networks (RNN)
 
   **Lectures dans le manuel :** Chapitre 10
 
@@ -249,11 +248,8 @@ Nous allons également voir quelques concepts plus avancés comme les réseaux g
   - [Parameters](assets/notebooks/Parameters - Sol.ipynb)
   - [RNNs](assets/notebooks/RNNs - Sol.ipynb)
  
- 
-- Semaine 10 (17 mars) : Activités annulées
 
-{:.collapsible}
-- Semaine 10* (24 mars) : Long Short-Term Memory (LSTM), Gated Recurrent Unit (GRU), Word Embeddings, Modèles de langue, DeepRNN
+- Semaine 11 (8 novembre) : Long Short-Term Memory (LSTM), Gated Recurrent Unit (GRU), Word Embeddings, Modèles de langue, DeepRNN
 
   **Lectures dans le manuel :** Chapitre 10
 
@@ -285,8 +281,7 @@ Nous allons également voir quelques concepts plus avancés comme les réseaux g
   **Laboratoire :** 
   - RNN et LSTM
 
-{:.collapsible}
-- Semaine 11* (31 mars) : Autoencodeurs, Seq2Seq, Modèles d'attention 
+- Semaine 12 (15 novembre) : Autoencodeurs, Seq2Seq, Modèles d'attention 
 
   **Lectures dans le manuel :** Section 10.12 Explicit Memory
   
@@ -345,8 +340,7 @@ Nous allons également voir quelques concepts plus avancés comme les réseaux g
   - <a href="https://youtu.be/5WoItGTWV54?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&t=2995" target="_blank">Lecture 13 | Generative Models (partie GAN)</a>  
 
 
-{:.collapsible}
-- Semaine 12* (7 avril) :  Détection d'objets, Segmentation d'image, Ladder Networks, Réseaux siamois, Distillation
+- Semaine 13 (22 novembre) :  Détection d'objets, Segmentation d'image, Ladder Networks, Réseaux siamois, Distillation
 
   **Vidéos narrées :**
   - [10-Detection](https://youtu.be/kEGYVjIUI5o)  
@@ -359,8 +353,7 @@ Nous allons également voir quelques concepts plus avancés comme les réseaux g
   - [10-SujetsSpeciaux.pdf](assets/slides/10-SujetsSpeciaux.pdf)
   
 
-{:.collapsible}
-- Semaine 13* (14 avril) : Modèles GAN (Generative Adverserial Network)
+- Semaine 15 (29 novembre) : Modèles GAN (Generative Adverserial Network)
 
   **Acétates :**
   - [11-GANs.pdf](assets/slides/11-GANs.pdf)
@@ -373,20 +366,8 @@ Nous allons également voir quelques concepts plus avancés comme les réseaux g
   **Autres Liens :**
   - <a href="https://github.com/soumith/ganhacks" target="_blank">Trucs et astuces pour entrainer des GANs</a> 
   
+- Semaine 16 (6 décembre) : Examen final (GLO-4030 SEULEMENT, 12h30 à 14h20, modalité à déterminer) 
 
-{:.collapsible}
-- Semaine 15 (21 avril) : Examen final (GLO-4030 SEULEMENT, 12h30 à 14h20, modalité à déterminer) 
-
-L'examen se fera en ligne. Les détails suivront.
-
-  **Révision :**
-  - RNN/LSTM
-  - Word Embeddings
-  - Modèles de langue (ELMo)
-  - Attention (Bahdanau, Attention is all you need)
-  - AutoEncoder
-  - GAN
-  
 
 ## Oraux articles
 Horaire des remises des vidéos narrés d'un article (GLO-7030)
