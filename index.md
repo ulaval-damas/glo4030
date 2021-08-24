@@ -59,7 +59,7 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
 {:.collapsible}
 - Semaine 0 : Mise à niveau : apprentissage automatique, probabilités, etc.
 
-   Nous prenons pour acquis que vous maîtrisez la plupart des concepts de base de l'apprentissage automatique, d'algèbre linéaire, et de probabilités. Pour ceux qui ont fait les préalables, vous devriez déjà avoir ces bases. Pour les autres, vous devrez déployer des efforts supplémentaires pour acquérir ces fondements, et ce sur votre propre temps. Nous ne pouvons malheureusement pas utiliser du temps en classe pour expliquer ce que sont les concepts fondamentaux comme :
+   Nous prenons pour acquis que vous maîtrisez la plupart des concepts de base de l'apprentissage automatique, d'algèbre linéaire, et de probabilités. Pour ceux qui ont fait les préalables, vous devriez déjà avoir ces bases. Pour les autres, vous devrez déployer des efforts supplémentaires pour acquérir ces fondements, et ce sur votre propre temps. Les concepts fondamentaux importants pour ce cours sont les suivants :
    - l'apprentissage supervisé, et non-supervisé;
    - le surapprentissage (overfit);
    - la classification vs. la régression;
@@ -67,7 +67,7 @@ Cette première moitié du cours introduit les connaissances nécessaires pour c
    - une idée approximative de qu'est-ce que la complexité (puissance) d'un classificateur.
    - ensembles d'entraînement, de validation, et de test;
    - la validation croisée;
-   - les méthodes de réduction de la dimensionalité (PCA);
+   - les méthodes de réduction de la dimensionalité (PCA); et
    - les priors.  
    
    **Lectures dans le manuel :** Chapitre 2, 3, 4.
